@@ -244,45 +244,16 @@ ARTICLE TWO: NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP
 
 2.3 Description of a Condominium Unit. Every contract for the sale of a Unit written prior to the filing for record of The Map and this Declaration may legally describe a Unit by its identifying Unit number designation followed by the words "THE WILDFLOWER CONDOMINIUMS" with further reference to The Map thereof to be filed for record and the Declaration to be recorded. Upon recordation of The Map and the Declaration in the records of the Clerk and Recorder of Boulder County, Colorado, such description shall be conclusively presumed to relate to the therein described Units.
 Every deed, lease, mortgage, trust deed, will or other instrument may legally describe a Unit by its identifying number followed by the words THE WILDFLOWER CONDOMINIUMS:
-A sufficient description of a Condominium Unit shall be as follows:
-Condominium Unit No. , THE WILDFLOWER CONDOMINIUMS according to
-the CONDOMINIUM MAP FOR THE WILDFLOWER CONDOMINIUMS re-
-corded on Film as Reception No. and as defined by THE CONDO-
-MINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS recorded
-on Film as Reception No. , in the Office of the County Clerk and
-Recorder, Boulder, Colorado.
-Every description shall be good and sufficient for all purposes to sell, convey,
-transfer, encumber or otherwise affect not only the Condominium Apartment, but also
-the Common Elements and the right to use of the Limited Common elements appurtenant
-thereto. Each such description shall be construed to include: a nonexclusive easement
-for appropriate ingress and egress throughout The Project and for the-use of the Common
-Elements which are not Limited Common Elements; the right to the appropriate exclu-
-sive use of the Limited Common Elements; and all other easements, obligations, limita-
-tions, rights, encumbrances, covenants, conditions and restrictions created in this
-Declaration. "
-The reference to The Map and Declaration in any instrument shall be deemed to
-include any supplements or amendments to The Map or Declaration, without specific
-reference(s) thereto.
-2.4 :'Apartment_Boundaries. The interior unfinished surfaces of the perimeter walls,
-lowermost floors and uppermost ceilings shall mark the perimeter boundaries of a Con-
-, dominium Apartment and all lath, furring, wallboard, plasterboard, plaster, paneling,
-- 6 -
-tiles, wallpaper, paint, finished flooring and any other materials constituting any part of
-the finished surfaces thereof are a part of the Condominium Apartments, and all other
-portions of the walls, floors, or ceilings are a part of the Common Elements.
-If any chute, flue, duct, wire, conduit, bearing wall, bearing column, or any other
-fixtures lies partially within and partially outside the designated boundaries of a Con-
-dominium Apartment, any portion thereof serving only that Apartment is a Limited
-Common Element allocated solely to that Apartment, and any portion thereof serving
-more than one Apartment or any portion of the Common Elements is a part of the Com-
-mon Elements.
-Any shutters, awnings, window boxes, doorsteps, stoops, porches, balconies, patios, e
-and all exterior doors and windows or other fixtures designed to serve a single Condo- I
-minium Apartment, but located outside the Apartment's boundaries, are Limited Com-
-mon Elements allocated exclusively to the Apartment.
-Subject to the above, all spaces, interior partitions, and other fixtures and
-improvements located within the boundaries of a Condominium Apartment are a part of
-the Apartment.
+> A sufficient description of a Condominium Unit shall be as follows:
+> Condominium Unit No., THE WILDFLOWER CONDOMINIUMS according to the CONDOMINIUM MAP FOR THE WILDFLOWER CONDOMINIUMS recorded on Film <as Reception No.> and as defined by THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS recorded on Film <as Reception No.>, in the Office of the County Clerk and Recorder, Boulder, Colorado.
+Every description shall be good and sufficient for all purposes to sell, convey, transfer, encumber or otherwise affect not only the Condominium Apartment, but also the Common Elements and the right to use of the Limited Common elements appurtenant thereto. Each such description shall be construed to include: a nonexclusive easement for appropriate ingress and egress throughout The Project and for the use of the Common Elements which are not Limited Common Elements; the right to the appropriate exclusive use of the Limited Common Elements; and all other easements, obligations, limitations, rights, encumbrances, covenants, conditions and restrictions created in this Declaration.
+The reference to The Map and Declaration in any instrument shall be deemed to include any supplements or amendments to The Map or Declaration, without specific reference(s) thereto.
+
+2.4 Apartment Boundaries. The interior unfinished surfaces of the perimeter walls, lowermost floors and uppermost ceilings shall mark the perimeter boundaries of a Condominium Apartment and all lath, furring, wallboard, plasterboard, plaster, paneling, tiles, wallpaper, paint, finished flooring and any other materials constituting any part of the finished surfaces thereof are a part of the Condominium Apartments, and all other portions of the walls, floors, or ceilings are a part of the Common Elements.
+If any chute, flue, duct, wire, conduit, bearing wall, bearing column, or any other fixtures lies partially within and partially outside the designated boundaries of a Condominium Apartment, any portion thereof serving only that Apartment is a Limited Common Element allocated solely to that Apartment, and any portion thereof serving more than one Apartment or any portion of the Common Elements is a part of the Common Elements.
+Any shutters, awnings, window boxes, doorsteps, stoops, porches, balconies, patios, and all exterior doors and windows or other fixtures designed to serve a single Condominium Apartment, but located outside the Apartment's boundaries, are Limited Common Elements allocated exclusively to the Apartment.
+Subject to the above, all spaces, interior partitions, and other fixtures and improvements located within the boundaries of a Condominium Apartment are a part of the Apartment.
+
 2.5 Right to Combine Units. Declarant hereby reserves the right to physically combine
 the area or space of one Unit with the area or space of one or more adjoining Units; pro-
 vided, however, that Declarant shall not exercise said right without the written consent
