@@ -484,65 +484,19 @@ No gasoline, gasohol, distillate, diesel, kerosine, naptha or similar volatile c
 
 
 ARTICLE SEVEN: INSURANCE
-7.1 Authority to Purchase/General Requirements. Except as otherwise provided in
-Paragraph 7.7 hereof, all insurance policies relating to The Project shall be purchased by
-the Board of Directors. The Board of Directors, the Managing Agent and the Declarant
-shall not be liable for failure to obtain any coverages required by this Article or for any
-lcss or damage resulting from such failure if such failure is due to the unavailability of
-such coverages from reputable insurance companies, or if such coverages are so available
-only at demonstrably unreasonable cost. The Board of Directors shall promptly furnish to
-each Owner and/or such Owner's First Mortgagee requesting same, written notice of the
-procurement of, subsequent changes in, or termination of, insurance coverages obtained
-on behalf of the Association.
-The Board of Directors shall not obtain any policy where (a) under the terms of the
-insurance company's charter, bylaws or policy, contributions or assessments may be made
-against the Association, Owner, First Mortgagee or such First Mortgagee's successor and
-assigns, or (b) by the terms of carrier's charter, bylaws or policy, loss payments are
-contingent upon action by the carrier's Board of Directors, policyholders or members; or
-(c) the policy includes any limited clauses (other than insurance conditions) which could
-prevent Owners or First Mortgagees, their successors and assigns from collecting
-insurance proceeds.
+
+7.1 Authority to Purchase/General Requirements. Except as otherwise provided in Paragraph 7.7 hereof, all insurance policies relating to The Project shall be purchased by the Board of Directors. The Board of Directors, the Managing Agent and the Declarant shall not be liable for failure to obtain any coverages required by this Article or for any loss or damage resulting from such failure if such failure is due to the unavailability of such coverages from reputable insurance companies, or if such coverages are so available only at demonstrably unreasonable cost. The Board of Directors shall promptly furnish to each Owner and/or such Owner's First Mortgagee requesting same, written notice of the procurement of, subsequent changes in, or termination of, insurance coverages obtained on behalf of the Association.
+The Board of Directors shall not obtain any policy where (a) under the terms of the insurance company's charter, bylaws or policy, contributions or assessments may be made against the Association, Owner, First Mortgagee or such First Mortgagee's successor and assigns, or (b) by the terms of carrier's charter, bylaws or policy, loss payments are contingent upon action by the carrier's Board of Directors, policyholders or members; or (c) the policy includes any limited clauses (other than insurance conditions) which could prevent Owners or First Mortgagees, their successors and assigns from collecting insurance proceeds.
 Each such policy shall provide that:
-a) The insurer to the extent possible waives any right to claim by way of
-subrogation against the Declarant, the Association, the Board of
-Directors, the Managing Agent or the Owners, and their respective
-agents, employees, Guests and, in the case of the Owners, the members
-of their households.
-b)Such policy shall not be cancelled, invalidated or suspended due to the
-conduct of any Owner or his or her Guests or of any Member, officer or
-employee of the Board of Directors or the Managing Agent without a
-prior demand in writing that the Board or the Managing Agent cure the
-defect and neither shall have so cured such defect within thirty days
-after such demand.
-c) Such policy, including any fidelity insurance of the Association referred
-to in Paragraph 7.4 hereof may not be cancelled, reduced in coverage,
-or substantially modified by any party (including cancellation for non-
-payment of premium) without at least thirty days prior written notice
-to the Board of Directors, the Managing Agent and to each First Mort-
-gagee listed as a scheduled holder of a first mortgage in the policy.
-d) Such policy must provide that no assessment may be made against a
-First Mortgagee, its successors or assigns and that any assessment made
-against others shall not become a lien upon a Unit superior to the lien of
-a First Mortgagee's.
-a"e1 I es
-e) The Declarant, so long as Declarant shall own any Unit, shall be pro-
-tected by all such policies as an Owner.
-All policies of insurance shall be written by reputable companies duly authorized
-and licensed to do business in the State of Colorado and be in a financial category as
-designated in BEST'S INSURANCE REPORTS of Class X-B or better.
-- 24 -
-The name of the insured under the policies shall be the Association for the use and
-benefit of the individual Owners. Any lms covered by the policies carried under this
-Article shall be adjusted exclusively by the Association, and the insurance proceeds for
-that loss shall be payable to the Association as trustee for each Owner and such Owner's
-First Mortgagee. Each Owner and such Owner's First Mortgagee, if any, shall be
-beneficiaries of the insurance policy or policies according to each Owner's interest as
-such interests appear in the policy or policies, or in the event separate interests are not
-designated in the policy, then pro rata according to each Owner's percentage interest in
-the Common Elements.
-All insurance policies shall contain the standard mortgagee clause or equivalent
-endorsement (without contribution) in which it appropriately names the First Mortgagee
-in the policy, its successors and assigns, beneficiary.
+a) The insurer to the extent possible waives any right to claim by way of subrogation against the Declarant, the Association, the Board of Directors, the Managing Agent or the Owners, and their respective agents, employees, Guests and, in the case of the Owners, the members of their households.
+b) Such policy shall not be cancelled, invalidated or suspended due to the conduct of any Owner or his or her Guests or of any Member, officer or employee of the Board of Directors or the Managing Agent without a prior demand in writing that the Board or the Managing Agent cure the defect and neither shall have so cured such defect within thirty days after such demand.
+c) Such policy, including any fidelity insurance of the Association referred to in Paragraph 7.4 hereof may not be cancelled, reduced in coverage, or substantially modified by any party (including cancellation for non-payment of premium) without at least thirty days prior written notice to the Board of Directors, the Managing Agent and to each First Mortgagee listed as a scheduled holder of a first mortgage in the policy.
+d) Such policy must provide that no assessment may be made against a First Mortgagee, its successors or assigns and that any assessment made against others shall not become a lien upon a Unit superior to the lien of a First Mortgagee's.
+e) The Declarant, so long as Declarant shall own any Unit, shall be protected by all such policies as an Owner.
+All policies of insurance shall be written by reputable companies duly authorized and licensed to do business in the State of Colorado and be in a financial category as designated in BEST'S INSURANCE REPORTS of Class X-B or better.
+The name of the insured under the policies shall be the Association for the use and benefit of the individual Owners. Any loss covered by the policies carried under this Article shall be adjusted exclusively by the Association, and the insurance proceeds for that loss shall be payable to the Association as trustee for each Owner and such Owner's First Mortgagee. Each Owner and such Owner's First Mortgagee, if any, shall be beneficiaries of the insurance policy or policies according to each Owner's interest as such interests appear in the policy or policies, or in the event separate interests are not designated in the policy, then pro rata according to each Owner's percentage interest in the Common Elements.
+All insurance policies shall contain the standard mortgagee clause or equivalent endorsement (without contribution) in which it appropriately names the First Mortgagee in the policy, its successors and assigns, beneficiary.
+
 7.2 Hazard Insurance. The Board of Directors shall obtain and maintain a blanket, "all-
 risk" form policy of hazard insurance with extended coverage, vandalism, malicious
 mischief, windstorm, sprinkler leakage (if applicable), debris removal, cost of demolition
