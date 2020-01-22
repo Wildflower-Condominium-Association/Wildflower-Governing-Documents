@@ -515,57 +515,20 @@ Such fidelity coverage shall name the Association as the named insured, be writt
 In the event the Association has delegated some or all of its responsibility for the management of its funds to a Managing Agent, such Managing Agent must be covered by its own fidelity insurance providing the same coverage required of the Association's fidelity insurance. The Association should be named as an obligee in the Managing Agent's fidelity insurance and evidence of such coverage must be submitted to the Association.
 
 7.5 Additional Insurance.
-a) If the area where The Project is located has been identified by the Secretary of
-Housing and Urban Development (HUD) or the Director of the Federal Emergency
-Management Agency (FEMA) as a Special Flood Hazard Area, flood insurance for The
-Project shall be maintained providing coverage equivalent to that provided under the
-National Flood Insurance Program in an amount of one hundred percent of The Project's
-current replacement cost.
-The Association shall maintain coverage for any detached Common Elements and
-have separate coverage for each Building housing the Condominium Apartments for one
-hundred percent of their replacement cost including any machinery and equipment that
-are a part of the Building. The contents coverage must equal one hundred percent of the
-replacement cost of all contents, including machinery and equipment which are not part
-of a Building, that are owned in common with other Owners. A separate Association
-endorsement is required if not already a part of the policy.
-Deductibles may not exceed the lower of Five Thousand Dollars or one percent of
-the face amount of the coverage. Funds for such deductibles must be included in the
-Association's Reserve and be so designated.
-If The Project at the time of the recording of this Declaration is not identified as a
-Special Flood Hazard Area but becomes reclassified at a later date as such and the Board
-becomes aware of such reclassification, then the Board of Directors shall obtain flood
-insurance for The Project in accordance with the above. Conversely flood insurance may
-be discontinued under certain conditions.
-- 27 -
-b) Adequate Directors and Officers liability insurance, if available, and if deemed
-consistent with good business practices, for errors and omissions on all Directors and
-Officers to be written in an amount which the Association deems adequate.
-c) Broad form machinery and pressure vessel explosion insurance (if applicable) in
-a minimum amount per accident at least equal to the lesser of two million dollars or the
-insurable value of the building housing the boiler or machinery.
-d) If it is determined by a First Mortgagee that the existing coverages do not
-adequately protect The Project, the Board of Directors shall obtain such additional
-coverages.
-e) Such other insurance of a similar or dissimilar nature, as the Board of Directors
-shall deem appropriate with respect to The Project.
-7.6 Payment of Insurance Premiums. The cost of the insurance obtained by the
-Association in accordance with this Article, except for premiums on fidelity bonds
-maintained by a Managing Agent for its officers, employees and agents, shall be paid
-from Association funds and be collected from the Owners as part of the Annual
-Assessment for Common Expenses as provided for in Paragraph 5.3(a) hereof.
-7.7 Separate Insurance. Each Owner shall have the right, at his own expense, to obtain
-insurance for his Unit for his own benefit and to obtain insurance coverage upon his
-personal property, furnishings and for his personal liability provided, however, that no
-Owner shall be entitled to exercise his right to acquire or maintain such insurance
-coverage so as to decrease the amount which the Board of Directors, on behalf of all
-Owners, may realize under any insurance policy maintained by the Board or to cause any
-insurance coverage maintained by the Board to be brought into contribution with
-insurance coverage obtained by an Owner. All such policies shall contain waivers of
-subrogation. No Owner shall obtain separate insurance policies except as provided in this
-Paragraph.
-ti;.75-4
-Sm le
-- 28 -
+a) If the area where The Project is located has been identified by the Secretary of Housing and Urban Development (HUD) or the Director of the Federal Emergency Management Agency (FEMA) as a Special Flood Hazard Area, flood insurance for The Project shall be maintained providing coverage equivalent to that provided under the National Flood Insurance Program in an amount of one hundred percent of The Project's current replacement cost.
+The Association shall maintain coverage for any detached Common Elements and have separate coverage for each Building housing the Condominium Apartments for one hundred percent of their replacement cost including any machinery and equipment that are a part of the Building. The contents coverage must equal one hundred percent of the replacement cost of all contents, including machinery and equipment which are not part of a Building, that are owned in common with other Owners. A separate Association endorsement is required if not already a part of the policy.
+Deductibles may not exceed the lower of Five Thousand Dollars or one percent of the face amount of the coverage. Funds for such deductibles must be included in the Association's Reserve and be so designated.
+If The Project at the time of the recording of this Declaration is not identified as a Special Flood Hazard Area but becomes reclassified at a later date as such and the Board becomes aware of such reclassification, then the Board of Directors shall obtain flood insurance for The Project in accordance with the above. Conversely flood insurance may be discontinued under certain conditions.
+b) Adequate Directors and Officers liability insurance, if available, and if deemed consistent with good business practices, for errors and omissions on all Directors and Officers to be written in an amount which the Association deems adequate.
+c) Broad form machinery and pressure vessel explosion insurance (if applicable) in a minimum amount per accident at least equal to the lesser of two million dollars or the insurable value of the building housing the boiler or machinery.
+d) If it is determined by a First Mortgagee that the existing coverages do not adequately protect The Project, the Board of Directors shall obtain such additional coverages.
+e) Such other insurance of a similar or dissimilar nature, as the Board of Directors shall deem appropriate with respect to The Project.
+
+7.6 Payment of Insurance Premiums. The cost of the insurance obtained by the Association in accordance with this Article, except for premiums on fidelity bonds maintained by a Managing Agent for its officers, employees and agents, shall be paid from Association funds and be collected from the Owners as part of the Annual Assessment for Common Expenses as provided for in Paragraph 5.3(a) hereof.
+
+7.7 Separate Insurance. Each Owner shall have the right, at his own expense, to obtain insurance for his Unit for his own benefit and to obtain insurance coverage upon his personal property, furnishings and for his personal liability provided, however, that no Owner shall be entitled to exercise his right to acquire or maintain such insurance coverage so as to decrease the amount which the Board of Directors, on behalf of all Owners, may realize under any insurance policy maintained by the Board or to cause any insurance coverage maintained by the Board to be brought into contribution with insurance coverage obtained by an Owner. All such policies shall contain waivers of subrogation. No Owner shall obtain separate insurance policies except as provided in this Paragraph.
+
+
 ARTICLE EIGHT: MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS, AND
 ALTERATIONS
 8.1 By the Association. The Association shall be responsible for the maintenance,
