@@ -510,25 +510,10 @@ The Association shall hold any insurance proceeds received in trust for the Owne
 Such insurance shall be issued on a comprehensive liability basis. Additional coverages may be required to include protection against such other risks as are customarily covered with respect to Projects similar in construction, location and use, where applicable and available, including, but not limited to, Host Liquor Liability coverage, with respect to events sponsored by the Association, Contractual and All-Written Contract insurance, Workmen's Compensation and Employer's Liability insurance, Comprehensive Automobile Liability insurance, Severability of Interest endorsement, Garage Keepers Liability and Bailee's Liability endorsement.
 The Board of Directors shall review such limits once each year, but in no event shall such insurance be less than one million dollars per occurence covering all claims for personal injury, bodily injury, including deaths of persons and property damage. Reasonable amounts of "umbrella" liability insurance in excess of the primary limits may also be obtained.
 
-7.4 Fidelity Insurance. The Board of Directors shall obtain and maintain adequate
-fidelity insurance coverage, to protect against dishonest or fraudulent acts committed by
-the Association's Directors, Officers, Managing Agent, Trustees, employees or volunteers
-of the Association and all others who manage or are responsible for handling funds
-collected and held for the benefit of the Association, provided however, the Board of
-Directors shall not maintain fidelity coverage to cover any Managing Agent.
-Such fidelity coverage shall name the Association as the named insured, be written
-in an amount sufficient to cover the maximum funds that will be in the custody of the
-Association or its Managing Agent at any time while the insurance is in force, but must
-be no less than the sum of three months' of assessments on all Units within The Project,
-plus the Association's Reserve Funds, and contain waivers of any defense based upon the
-exclusion of persons who serve without compensation from any definition of "employee"
-or similar expression.
-In the event the Association has delegated some or all of its responsibility for the
-management of its funds to a Managing Agent, such Managing Agent must be covered by
-its own fidelity insurance providing the same coverage required of the Association's
-fidelity insurance. The Association should be named as an obligee in the Managing
-Agent's fidelity insurance and evidence of such coverage must be submitted to the
-Association.
+7.4 Fidelity Insurance. The Board of Directors shall obtain and maintain adequate fidelity insurance coverage, to protect against dishonest or fraudulent acts committed by the Association's Directors, Officers, Managing Agent, Trustees, employees or volunteers of the Association and all others who manage or are responsible for handling funds collected and held for the benefit of the Association, provided however, the Board of Directors shall not maintain fidelity coverage to cover any Managing Agent.
+Such fidelity coverage shall name the Association as the named insured, be written in an amount sufficient to cover the maximum funds that will be in the custody of the Association or its Managing Agent at any time while the insurance is in force, but must be no less than the sum of three months' of assessments on all Units within The Project, plus the Association's Reserve Funds, and contain waivers of any defense based upon the exclusion of persons who serve without compensation from any definition of "employee" or similar expression.
+In the event the Association has delegated some or all of its responsibility for the management of its funds to a Managing Agent, such Managing Agent must be covered by its own fidelity insurance providing the same coverage required of the Association's fidelity insurance. The Association should be named as an obligee in the Managing Agent's fidelity insurance and evidence of such coverage must be submitted to the Association.
+
 7.5 Additional Insurance.
 a) If the area where The Project is located has been identified by the Secretary of
 Housing and Urban Development (HUD) or the Director of the Federal Emergency
