@@ -506,31 +506,10 @@ b) That any "no other insurance" clause expressly exclude individual Owners poli
 A duplicate original of the policy of hazard insurance, all renewals thereof, and any subpolicies or certificates and endorsements issued thereunder, together with proof of payment of premiums, shall be delivered by the insurer to any Owner and First Mortgagee requesting the same, at least thirty days prior to expiration of the current policy.
 The Association shall hold any insurance proceeds received in trust for the Owners and First Mortgagees as their interests may appear. The proceeds shall be disbursed first for the repair or restoration of the damaged Common Elements and Apartments. Owners and First Mortgagees are not entitled to receive payment of any portion of the proceeds unless there is a surplus of proceeds after the Common Elements and Apartments have been repaired or restored or The Project is terminated.
 
-7.3 Liability Insurance. The Board of Directors shall obtain and maintain comprehensive
-general liability insurance (including libel, slander, false arrest, and invasion of privacy)
-and property damage insurance covering all of the Common Elements, public ways of The
-Project and any other areas that are under the Association's responsibility and
-commercial spaces owned by the Association whether or not they are leased to some
-third party insuring each Officer, Director, the Managing Agent and each Owner, to
-include the Declarant in its capacity as an Owner. Such coverage under this policy shall
-include, without limitation, the legal liability of the insureds for property damage, bodily
-injuries and deaths of persons that result from the operation, maintenance or use of the
-Common Elements and the legal liability arising out of lawsuits relating to employment
-contracts in which the Association is a party.
-Such insurance shall be issued on a comprehensive liability basis. Additional
-coverages may be required to include protection against such other risks as are
-customarily covered with respect to Projects similar in construction, location and use,
-where applicable and available, including, but not limited to, Host Liquor Liability
-coverage, with respect to events sponsored by the Association, Contractual and All-
-Written Contract insurance, Workmen's Compensation and Employer's Liability insurance,
-Comprehensive Automobile Liability insurance, Severability of Interest endorsement,
-Garage Keepers Liability and Bailee's Liability endorsement.
-- 26 -
-The Board of Directors shall review such limits once each year, but in no event
-shall such insurance be less than one million dollars per occurence covering all claims for
-personal injury, bodily injury, including deaths of persons and property damage.
-'Reasonable amounts of "umbrella" liability insurance in excess of the primary limits may
-also be obtained.
+7.3 Liability Insurance. The Board of Directors shall obtain and maintain comprehensive general liability insurance (including libel, slander, false arrest, and invasion of privacy) and property damage insurance covering all of the Common Elements, public ways of The Project and any other areas that are under the Association's responsibility and commercial spaces owned by the Association whether or not they are leased to some third party insuring each Officer, Director, the Managing Agent and each Owner, to include the Declarant in its capacity as an Owner. Such coverage under this policy shall include, without limitation, the legal liability of the insureds for property damage, bodily injuries and deaths of persons that result from the operation, maintenance or use of the Common Elements and the legal liability arising out of lawsuits relating to employment contracts in which the Association is a party.
+Such insurance shall be issued on a comprehensive liability basis. Additional coverages may be required to include protection against such other risks as are customarily covered with respect to Projects similar in construction, location and use, where applicable and available, including, but not limited to, Host Liquor Liability coverage, with respect to events sponsored by the Association, Contractual and All-Written Contract insurance, Workmen's Compensation and Employer's Liability insurance, Comprehensive Automobile Liability insurance, Severability of Interest endorsement, Garage Keepers Liability and Bailee's Liability endorsement.
+The Board of Directors shall review such limits once each year, but in no event shall such insurance be less than one million dollars per occurence covering all claims for personal injury, bodily injury, including deaths of persons and property damage. Reasonable amounts of "umbrella" liability insurance in excess of the primary limits may also be obtained.
+
 7.4 Fidelity Insurance. The Board of Directors shall obtain and maintain adequate
 fidelity insurance coverage, to protect against dishonest or fraudulent acts committed by
 the Association's Directors, Officers, Managing Agent, Trustees, employees or volunteers
