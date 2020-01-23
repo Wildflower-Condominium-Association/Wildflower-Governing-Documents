@@ -2,69 +2,69 @@ THE BYLAWS OF THE WILDFLOWER CONDOMINIUM ASSOCIATION
 
 TABLE OF CONTENTS
 
-ONE		OBJECT
-1.1 Association
-1.2 Purpose
-1.3 Definitions
-1.4 Applicability
+ONE		OBJECT  
+1.1 Association  
+1.2 Purpose  
+1.3 Definitions  
+1.4 Applicability  
 
-TWO		MEMBERSHIP AND VOTING RIGHTS
-2.1 Membership 
-2.2 Voting Rights
+TWO		MEMBERSHIP AND VOTING RIGHTS  
+2.1 Membership  
+2.2 Voting Rights  
 
-THREE	MEETING OF THE MEMBERS
-3.1 Place of Meeting
-3.2 Annual Meetings
-3.3 Special Meetings
-3.4 Notice of Meetings
-3.5 Quorum
-3.6 Proxies
+THREE	MEETING OF THE MEMBERS  
+3.1 Place of Meeting  
+3.2 Annual Meetings  
+3.3 Special Meetings  
+3.4 Notice of Meetings  
+3.5 Quorum  
+3.6 Proxies  
 
-FOUR	DIRECTORS
-4.1 Directors During the Declarant Control Period
-4.2 Directors After the Declarant Control Period
-4.3 Qualifications/Nomination/Election
-4.4 Removal
-4.5 Compensation
+FOUR	DIRECTORS  
+4.1 Directors During the Declarant Control Period  
+4.2 Directors After the Declarant Control Period  
+4.3 Qualifications/Nomination/Election  
+4.4 Removal  
+4.5 Compensation  
 
-FIVE	MEETINGS OF DIRECTORS
-5.1 Regular Meetings
-5.2 Special Meetings
-5.3 Quorum
-5.4 Action Taken Without a Meeting
+FIVE	MEETINGS OF DIRECTORS  
+5.1 Regular Meetings  
+5.2 Special Meetings  
+5.3 Quorum  
+5.4 Action Taken Without a Meeting  
 
-SIX		POWERS AND DUTIES OF THE BOARD OF DIRECTORS
-6.1 Powers
-6.2 Duties
+SIX		POWERS AND DUTIES OF THE BOARD OF DIRECTORS  
+6.1 Powers  
+6.2 Duties  
 
-SEVEN	OFFICERS AND THEIR DUTIES
-7.1 Enumeration of Officers
-7.2 Election of Officers
-7.3 Term
-7.4 Special Appointments
-7.5 Resignation and Removal
-7.6 Vacancies
-7.7 Multiple Offices
-7.8 Duties
+SEVEN	OFFICERS AND THEIR DUTIES  
+7.1 Enumeration of Officers  
+7.2 Election of Officers  
+7.3 Term  
+7.4 Special Appointments  
+7.5 Resignation and Removal  
+7.6 Vacancies  
+7.7 Multiple Offices  
+7.8 Duties  
 
-EIGHT	COMMITTEES
+EIGHT	COMMITTEES  
 
-NINE	AMENDMENTS
+NINE	AMENDMENTS  
 
-TEN		ASSESSMENTS
+TEN		ASSESSMENTS  
 
-ELEVEN	CORPORATE SEAL
+ELEVEN	CORPORATE SEAL  
 
-TWELVE	MISCELLANEOUS
-12.1 Proof of Ownership/Voter Designation
-12.2 Compliance
-12.3 Character of Association
-12.4 Inspection of Records/Audit
-12.5 Liens and Other Charges
-12.6 Indemnification
-12.7 New Additions to the Common Elements
-12.8 Fiscal Year
-12.9 Recreational Facilities
+TWELVE	MISCELLANEOUS  
+12.1 Proof of Ownership/Voter Designation  
+12.2 Compliance  
+12.3 Character of Association  
+12.4 Inspection of Records/Audit  
+12.5 Liens and Other Charges  
+12.6 Indemnification  
+12.7 New Additions to the Common Elements  
+12.8 Fiscal Year  
+12.9 Recreational Facilities  
 
 THE BYLAWS OF THE WILDFLOWER CONDOMINIUM ASSOCIATION
 
