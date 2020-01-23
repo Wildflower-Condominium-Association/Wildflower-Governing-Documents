@@ -236,9 +236,9 @@ In the event of a settlement, the settlement shall be approved by the insurance 
 IN WITNESS WHEREOF, the undersigned have hereunto set their hands this 8th day of August, 1984.
 
 THE WILDFLOWER CONDOMINIUM ASSOCIATION
-Director
-Director
-Director
+[illegible], Director
+Jeanne Ryan, Director
+[illegible], Director
 
 CERTIFICATION
 I, the undersigned, do hereby certify:
@@ -247,4 +247,4 @@ THAT the foregoing Bylaws constitute the original Bylaws of said Association, as
 
 IN WITNESS WHEREOF, I have hereunto subscribed my name and affixed the seal
 of said Association this 8th  day of August, 1984.
-Secretary
+Jeanne Ryan, Secretary
