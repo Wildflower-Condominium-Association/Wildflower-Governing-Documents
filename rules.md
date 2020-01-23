@@ -71,9 +71,9 @@ Swimming Pool
 8. Obnoxious and/or drunk persons may be removed from the pool and pool area.
 9. Sand and rocks are not to be brought into the pool or pool area.
 10. No pet shall be permitted or allowed into the community swimming pool enclosure.
-11. Pool Hours are as follows:
-Sun-Thurs 9 am to 10 pm
-Fri & Sat 9am to 11 pm
+11. Pool Hours are as follows:  
+- Sun-Thurs 9 am to 10 pm
+- Fri & Sat 9am to 11 pm
 
 Signs
 
