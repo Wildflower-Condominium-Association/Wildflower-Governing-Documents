@@ -106,30 +106,36 @@ The purpose of these rules and regulations is to maintain harmony within the com
 
 1. Fining and Enforcement Procedure
 
-A. Complaint. Any Owner within the community may send a formal, written complaint via either electronic mail or regular mail of a covenant or rule violation, with as much information as is known, to the Association. Complaints may also be initiated by any member of the Board of Directors or of the Architectural Control Committee, if any. The Board shall have no obligation to consider oral complaints. The Board shall have the authority to determine whether a written complaint is justified before continuing with the Notice and Hearing Procedure.
+A. Complaint.  
+Any Owner within the community may send a formal, written complaint via either electronic mail or regular mail of a covenant or rule violation, with as much information as is known, to the Association. Complaints may also be initiated by any member of the Board of Directors or of the Architectural Control Committee, if any. The Board shall have no obligation to consider oral complaints. The Board shall have the authority to determine whether a written complaint is justified before continuing with the Notice and Hearing Procedure.
 
-B. Notice of Alleged Violation. A Notice of Alleged Violation of any provisions of the Declaration, Bylaws, Rules and Regulations, or Resolution shall be provided in writing to the applicable Owner as soon as reasonably practicable following the receipt of a complaint or discovery by the Board of such violation. The Board may also, at its option, provide a copy of such notice to any non-owner violator. The notice shall describe the nature of the violation and the possible fine that may be imposed, the right to request a hearing before the Board to contest the violation or possible fine, and may further state that the Board may seek to protect its rights as they are specified in the governing legal documents. Warning notices shall be deemed to be routine notices and may be sent by regular first class mail, postage prepaid. All other notices
+B. Notice of Alleged Violation.  
+A Notice of Alleged Violation of any provisions of the Declaration, Bylaws, Rules and Regulations, or Resolution shall be provided in writing to the applicable Owner as soon as reasonably practicable following the receipt of a complaint or discovery by the Board of such violation. The Board may also, at its option, provide a copy of such notice to any non-owner violator. The notice shall describe the nature of the violation and the possible fine that may be imposed, the right to request a hearing before the Board to contest the violation or possible fine, and may further state that the Board may seek to protect its rights as they are specified in the governing legal documents. Warning notices shall be deemed to be routine notices and may be sent by regular first class mail, postage prepaid. All other notices
 shall be sent by certified mail.
 
-C. Request for Hearing. If an Owner desires a hearing to challenge or contest any alleged violation and possible fine, or to discuss any mitigating circumstances, the Owner must request such hearing, in writing, within fourteen (14) days of the date of the Notice of Alleged Violation. The request for hearing shall describe the grounds and basis for challenging the alleged violation or the mitigating circumstances. In the event a proper and timely request for a hearing is not made as provided herein, the right to a hearing shall be deemed forever waived. If a hearing is not requested within the fourteen (14) day period, the Board shall determine if there was a violation based upon the information available to it, and if so, assess a reasonable fine as set forth in the fine schedule, within thirty (30) days of the expiration of the fourteen (14) day period. The Board of Directors shall give written notice of said fine to the applicable Owner.
+C. Request for Hearing.  
+If an Owner desires a hearing to challenge or contest any alleged violation and possible fine, or to discuss any mitigating circumstances, the Owner must request such hearing, in writing, within fourteen (14) days of the date of the Notice of Alleged Violation. The request for hearing shall describe the grounds and basis for challenging the alleged violation or the mitigating circumstances. In the event a proper and timely request for a hearing is not made as provided herein, the right to a hearing shall be deemed forever waived. If a hearing is not requested within the fourteen (14) day period, the Board shall determine if there was a violation based upon the information available to it, and if so, assess a reasonable fine as set forth in the fine schedule, within thirty (30) days of the expiration of the fourteen (14) day period. The Board of Directors shall give written notice of said fine to the applicable Owner.
 
-D. Board of Directors to Conduct Hearing. The Board shall hear and decide cases set for hearing pursuant to the procedures set forth herein. The Board may appoint an officer or other Owner to act as the Presiding Officer at any of the hearings. The Board shall determine whether a violation exists and impose fines.
+D. Board of Directors to Conduct Hearing.  
+The Board shall hear and decide cases set for hearing pursuant to the procedures set forth herein. The Board may appoint an officer or other Owner to act as the Presiding Officer at any of the hearings. The Board shall determine whether a violation exists and impose fines.
 
-E. Conflicts. Any Board member who is incapable of objective and disinterested consideration on any hearing before the Association shall disclose such to the President of the Association prior to the hearing on the case, if possible, or, if advance notice is not possible, then such disclosure shall be made at the hearing, and the Board member shall be disqualified from all proceedings with regard to the hearing. If disqualification of any Board member(s) results in an even number of remaining Board members eligible to hear a case, the Presiding Officer may appoint an Association member, in good standing, to serve as a voting member of the hearing board.
+E. Conflicts.  
+Any Board member who is incapable of objective and disinterested consideration on any hearing before the Association shall disclose such to the President of the Association prior to the hearing on the case, if possible, or, if advance notice is not possible, then such disclosure shall be made at the hearing, and the Board member shall be disqualified from all proceedings with regard to the hearing. If disqualification of any Board member(s) results in an even number of remaining Board members eligible to hear a case, the Presiding Officer may appoint an Association member, in good standing, to serve as a voting member of the hearing board.
 
-F. Hearing. The Board shall inform the Owner of the scheduled time, place and date of the requested hearing by certified mail. The Presiding Officer may grant continuances for good cause. At the beginning of each hearing, the Presiding Officer shall establish a quorum, explain the rules, procedures and guidelines by which the hearing shall be conducted and shall introduce the case before the Board. The complaining parties and the Owner shall have the right, but not the obligation to be in attendance at the hearing. Each party may present evidence, testimony, and witnesses. The decision of the Board at each hearing shall be based on the matters set forth in the Notice of Alleged Violation and Hearing, Request for Hearing, and such evidence as may be presented at the hearing. Unless otherwise determined by the Board of Directors, all hearings shall be open to attendance by all members of the Association. If a complaining party is unable to attend the Hearing, he or she may instead submit a letter to the Board explaining the basis of the complaint.
+F. Hearing.  
+The Board shall inform the Owner of the scheduled time, place and date of the requested hearing by certified mail. The Presiding Officer may grant continuances for good cause. At the beginning of each hearing, the Presiding Officer shall establish a quorum, explain the rules, procedures and guidelines by which the hearing shall be conducted and shall introduce the case before the Board. The complaining parties and the Owner shall have the right, but not the obligation to be in attendance at the hearing. Each party may present evidence, testimony, and witnesses. The decision of the Board at each hearing shall be based on the matters set forth in the Notice of Alleged Violation and Hearing, Request for Hearing, and such evidence as may be presented at the hearing. Unless otherwise determined by the Board of Directors, all hearings shall be open to attendance by all members of the Association. If a complaining party is unable to attend the Hearing, he or she may instead submit a letter to the Board explaining the basis of the complaint.
 
-G. Decision. After all testimony and other evidence have been presented to the Board at a hearing, the Board shall render its written findings and decision, and impose a reasonable fine, if applicable, within fourteen (14) days after the hearing. A decision, either a finding for or against the Owner, shall be by a 2/3 vote of the Board of Directors or hearing body.
+G. Decision.  
+After all testimony and other evidence have been presented to the Board at a hearing, the Board shall render its written findings and decision, and impose a reasonable fine, if applicable, within fourteen (14) days after the hearing. A decision, either a finding for or against the Owner, shall be by a 2/3 vote of the Board of Directors or hearing body.
 
-H. Fine Schedule. The following fines are guidelines for violation of the provisions of the Declaration, Bylaws, Rules and Regulations and Resolutions of the Association:
-First violation:		Warning letter
-Second violation:		up to $50.00
-Third violation			up to $100.00
-Fourth violation:		up to $200.00
-(in the case of pets, mandatory removal from the condominium is required upon
-the fourth violation)
-Continuing violations: 	up to $25 per day for each day the
-violation continues
+H. Fine Schedule.  
+The following fines are guidelines for violation of the provisions of the Declaration, Bylaws, Rules and Regulations and Resolutions of the Association:  
+First violation:			Warning letter  
+Second violation:			up to $50.00  
+Third violation				up to $100.00  
+Fourth violation:			up to $200.00  
+(in the case of pets, mandatory removal from the condominium is required upon the fourth violation)  
+Continuing violations:	 	up to $25 per day for each day the violation continues
 
 The Board reserves the right to fine for first violations of rules that involve health and safety issues and other violations where a warning may not be deemed necessary by the Board in its sole discretion. Additionally, upon prior written notice to the alleged violator, the Board reserves the right to levy fines in excess of the above referenced guidelines, if the fines set forth in these guidelines are not likely to provide effective incentives to induce compliance.
 The Board may waive all, or any portion, of the fines if, in its sole discretion, such waiver is appropriate under the circumstances. Additionally, the Board may condition waiver of the entire fine, or any portion thereof, upon the Violator coming into compliance with the Articles, Declaration, Bylaws or rules.
@@ -137,11 +143,12 @@ All fines shall be due and payable upon notice of the fine and will be late if n
 
 The Board of Directors may amend these hearing procedures and the fine schedule as it determines is necessary, in its discretion.
 
-I. Individual Assessment. In addition to fines, the Board may levy an Individual
+I. Individual Assessment.  
+In addition to fines, the Board may levy an Individual
 Assessment against any Owner and Owner's Unit to reimburse the Association for costs incurred in bringing an Owner and his Condominium Unit into compliance with the provisions of the Declaration, the Articles, the By-Laws, and/or the Rules and Regulations. In accordance with Article Five, Section 5.3 of the Declaration, this assessment may be levied upon the vote of the 2/3 of the Board and after notice to the Owner and an opportunity to be heard by the Board. Hearings will be held utilizing the same procedure set forth above for fine hearings.
 
-2. Other Remedies
-A. Enforcement by law enforcement agencies:
+2. Other Remedies  
+A. Enforcement by law enforcement agencies:  
 B. Injunctive Relief: The Association may obtain a court order to have a violation cured. Ignoring a court order will subject the violator to criminal charges of contempt of court. All costs incurred to obtain and enforce a court order, including attorney fees, will be assessed against the Owner's Unit.
 
 *Please call our Association Manager at (303) 494-2790 if you have
