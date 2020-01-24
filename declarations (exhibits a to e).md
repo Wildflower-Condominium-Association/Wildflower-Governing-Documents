@@ -1,40 +1,18 @@
-EXHIBIT A
-TO THE CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-LEGAL DESCRIPTION OF THE REAL PROPERTY
-SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME
-FIRST PHASE
-All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of the
-Southeast quarter of Section 7, Township I South, Range 69 West of the 6th P.M.,
-City of Louisville, County of Boulder, State of Colorado, described as follows:
-Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence
-Southwesterly 37.50 feet along the arc of a curve to the left and along the
-Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of
-1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears
-South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along
-the Northwesterly Tine of said Lot 2; thence Southwesterly, 63.44 feet along the
-arc of a curve to the right and along the Northwesterly line of said Lot 2, said
-curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is
-subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South
-28°34'10" East, 86.15 feet;thence North 89°05'53" East, 77.05 feet; thence South
-00054'07" East, 174.25 feet; thence North 89°05'531,1 East, 249.12 feet to a point
-on the Southeasterly line of said Lot 2; thence North 00054'07" West, 13.76 feet
-along the Southeasterly line of said Lot 2; thence North 35000'00" East, 85.00 feet
-along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00
-feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00
-feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West,
-178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
-Pr-
-Sm le
-EXHIBIT BPage One of Two
-TO THE CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-THE WILDFLOWER CONDOMINIUMS
-SCHEDULE OF PERCENTAGE INTERESTS IN THE COMMON ELEMENTS
-(FIRST PHASE)
-Subject to the provisions of ARTICLE TWELVE of the Declaration, each Unit in the
-Project is hereby vested with an undivided percentage interest in and to the Common
-Elements as set forth below:
+EXHIBIT A  
+TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
+
+LEGAL DESCRIPTION OF THE REAL PROPERTY SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME FIRST PHASE
+
+All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of the Southeast quarter of Section 7, Township 1 South, Range 69 West of the 6th P.M., City of Louisville, County of Boulder, State of Colorado, described as follows:  
+Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence Southwesterly 37.50 feet along the arc of a curve to the left and along the Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of 1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the arc of a curve to the right and along the Northwesterly line of said Lot 2, said curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South 28°34'10" East, 86.15 feet; thence North 89°05'53" East, 77.05 feet; thence South 00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point on the Southeasterly line of said Lot 2; thence North 00°54'07" West, 13.76 feet along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00 feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00 feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West, 178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
+
+EXHIBIT B  
+TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
+
+THE WILDFLOWER CONDOMINIUMS SCHEDULE OF PERCENTAGE INTERESTS IN THE COMMON ELEMENTS (FIRST PHASE)
+
+Subject to the provisions of ARTICLE TWELVE of the Declaration, each Unit in the Project is hereby vested with an undivided percentage interest in and to the Common Elements as set forth below:
+
 FINISHED SQ. FT. PERCENTAGE
 UNIT NUMBERPER APARTMENT INTEREST PER UNIT
 CA-1 938 6.08
@@ -54,31 +32,14 @@ CA-14 747 4.84
 CA-I 5 938 6.05
 CA-16 885 5.74
 CA-17 938 6.08
-CA-18
-pg.
-885 5.74
-15,428 100.00
-Smile
-Page Two of Two
-EXHIBIT B
-TO THE CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-The percentage interest in the Common Elements of each Unit has been determined by
-the Declarant on the basis of the proportion which the approximate square footage fin-
-ished area of each Apartment bears to the total approximate square footage finished
-area of all of the Apartments In the Project (including Apartments created on the addi-
-tional real property submitted to the Project). The square footage for each Apartment is
-based upon dimensions which are approximate and the calculation of the Percentage
-Interest has been rounded. The percentage interest in the Common Elements shown for
-each Unit is subject to change in accordance with ARTICLE TWELVE of the Declaration.
-In the event the Declarant exercises its right to enlarge this Project in Phases by
-submitted to the Project additional real property In accordance with ARTICLE TWELVE
-of the Declaration, each percentage interest in the Common Elements set forth above
-will decrease. The Percentage Interest of each Unit will then be determined by the
-Declarant on the basis of the proportion which the approximate square footage finished
-area of each Apartment bears to the total approximate square footage finished area of
-all completed Apartments within The Project (including Apartments created on the addi-
-tipnal real property submitted to the Project).
+CA-18 885 5.74
+TOTAL 15,428 100.00
+
+The percentage interest in the Common Elements of each Unit has been determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all of the Apartments In the Project (including Apartments created on the additional real property submitted to the Project). The square footage for each Apartment is based upon dimensions which are approximate and the calculation of the Percentage Interest has been rounded. The percentage interest in the Common Elements shown for each Unit is subject to change in accordance with ARTICLE TWELVE of the Declaration.
+
+In the event the Declarant exercises its right to enlarge this Project in Phases by submitted to the Project additional real property In accordance with ARTICLE TWELVE of the Declaration, each percentage interest in the Common Elements set forth above will decrease. The Percentage Interest of each Unit will then be determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to the Project).
+
+
 THE WILDFLOWER CONDOMINIUMS
 SCHEDULE OF MAINTENANCE RESPONSIBILITIES
 Exhibit C
