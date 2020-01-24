@@ -13,27 +13,27 @@ THE WILDFLOWER CONDOMINIUMS SCHEDULE OF PERCENTAGE INTERESTS IN THE COMMON ELEME
 
 Subject to the provisions of ARTICLE TWELVE of the Declaration, each Unit in the Project is hereby vested with an undivided percentage interest in and to the Common Elements as set forth below:
 
-FINISHED SQ. FT. PERCENTAGE
-UNIT NUMBERPER APARTMENT INTEREST PER UNIT
-CA-1 938 6.08
-CA-2 747 4.84
-CA-3 938 6.08
-CA-4 885 5.74
-CA-5 938 6.08
-CA-6 885 5.74
-CA-7 938 6.08
-CA-8 560 3.62
-CA-9 560 3.62
-CA-10 885 5.74
-CA-11 938 6.08
-CA-12 885 5.74
-CA-13 938 6.08
-CA-14 747 4.84
-CA-I 5 938 6.05
-CA-16 885 5.74
-CA-17 938 6.08
-CA-18 885 5.74
-TOTAL 15,428 100.00
+| UNIT  | FINISHED SQ. FT. PER APARTMENT | PERCENTAGE INTEREST PER UNIT |  
+| ----- | :----: | :----: |  
+| CA-01 |    938 |   6.08 |  
+| CA-02 |    747 |   4.84 |  
+| CA-03 |    938 |   6.08 |  
+| CA-04 |    885 |   5.74 |  
+| CA-05 |    938 |   6.08 |  
+| CA-06 |    885 |   5.74 |  
+| CA-07 |    938 |   6.08 |  
+| CA-08 |    560 |   3.62 |  
+| CA-09 |    560 |   3.62 |  
+| CA-10 |    885 |   5.74 |  
+| CA-11 |    938 |   6.08 |  
+| CA-12 |    885 |   5.74 |  
+| CA-13 |    938 |   6.08 |  
+| CA-14 |    747 |   4.84 |  
+| CA-15 |    938 |   6.05 |  
+| CA-16 |    885 |   5.74 |  
+| CA-17 |    938 |   6.08 |  
+| CA-18 |    885 |   5.74 |  
+| TOTAL | 15,428 | 100.00 |  
 
 The percentage interest in the Common Elements of each Unit has been determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all of the Apartments In the Project (including Apartments created on the additional real property submitted to the Project). The square footage for each Apartment is based upon dimensions which are approximate and the calculation of the Percentage Interest has been rounded. The percentage interest in the Common Elements shown for each Unit is subject to change in accordance with ARTICLE TWELVE of the Declaration.
 
