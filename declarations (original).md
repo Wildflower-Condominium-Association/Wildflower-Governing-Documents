@@ -539,7 +539,7 @@ All structural repair or replacement shall be made by the Association and charge
 
 8.3 Schedule of Maintenance Responsibilities. Notwithstanding the general provisions for maintenance set forth above, specific maintenance responsibilities and the costs attributable thereto shall, to the extent set forth thereon, be determined pursuant to the Schedule of Maintenance Responsibilities attached as Exhibit C hereto.
 
-8.4 Mannerof Repair and Replacement. All repairs and replacements shall be substantially similar to the original construction and installation and shall be of first-class quality, but may be done with contemporary building materials and equipment.
+8.4 Manner of Repair and Replacement. All repairs and replacements shall be substantially similar to the original construction and installation and shall be of first-class quality, but may be done with contemporary building materials and equipment.
 
 8.5 Additions, Alterations or Improvements by-the Owners (Architectural Control). No Owner shall make any structural addition, or alteration or improvement in or to his Unit without the prior written consent of the Board of Directors. No Owner shall paint or alter the exterior of his Unit, including the doors and windows, nor shall any Owner paint or alter the exterior of The Buildings, without the prior written consent of the Board of Directors.  
 The Board of Directors shall be obligated to answer any written request by an Owner for approval of a proposed structural addition, alteration or improvement within thirty days after such request, and failure to do so within the stipulated time shall constitute approval by the Board of Directors of such proposed structural addition, alteration or improvement.  
