@@ -658,91 +658,34 @@ Owners and their mortgagees shall have the right to examine the books and record
 
 
 ARTICLE TWELVE: EXPANSION
-12.1 Reservation of Right to Expand. Declarant reserves the right (without in any way
-being bound) to enlarge this condominium project in phases by submitting to The Project
-from time to time a Supplemental Condominium Map and Supplemental Declaration add-
-ing any of the real property described on Exhibit "D" attached hereto. The total number
-of condominium units in The Project as expanded shall not exceed one hundred sixty-
-eight Units.
-If The Project has been or is to be approved by the Federal Housing Administration
-and/or the Veterans Administration, any such addition, expansion or annexation must be
-according to a General Plan heretofore filed with and approved by the Federal Housing
-Administration or the Veterans Administration and such addition, expansion or annex-
-ation must be supported by the written consent of the Federal Housing Administration or
-the Veterans Administration, evidence of which may be recorded.
-12.2 Supplemental Declarations and Supplemental Condominium Maps. Such expansion
-may be accomplished by the filing for record by Declarant in the office of the Clerk and
-Recorder for Boulder County, Colorado, no later than five years from the date of the
-recording of this Declaration, a supplement or supplements to this Declaration containing
-a legal description of the new Real Property or Properties, together with a Supplemental
-Condominium Map or Maps containing the same information with respect to the new Real
-Property as was required on the original Condominium Map with respect to the initial
-Real Property. The expansion may be accomplished in stages by successive supplements
-or in one supplemental expansion so long as each subsequent phase is contiguous to the
-Real Property already subject to this Declaration.
-All intended improvements in future phases must be substantially completed prior
-to being brought within the Condominium Project.
-12.3 Expansion of Definitions. In the event of such ,expansion, the definitions used in
-this Declaration shall be expanded automatically to encompass and refer to The Project
-as so expanded. For example, "Condominium Unit" shall mean the Condominium Units
-described hereinabove plus any additional Condominium Units added by a Supplemental
-Condominium Declaration or Declarations, and reference to this Declaration shall mean
-this Declaration as supplemented. All conveyances of Condominium Units shall be effec-
-tive to transfer rights in The Project as expanded by use of the form of description set
-forth in paragraph 2.3 hereof, with additional references to the Supplemental Condo-
-minium Declaration(s) and the Supplemental Condominium Map(s). The recordation in
-the records of Boulder County, Colorado, of a Supplemental Condominium Map or Maps
-incident to any expansion shall operate automatically to grant, transfer, and convey to
-the Owners of the Condominium Units the respective undivided interests set forth in
-Paragraph 12.5 hereof in the new Common Elements added to the Condominium Project
-as the result of such expansion. Such recordation shall also operate to vest in any then
-Mortgagee of any Condominium Unit encumbering the new Common Elements added to
-The Project as the result of such expansion.
-12.4 Declaration Operative on New Properties. The new Real Property shall be subject
-to all the terms and conditions of this Declaration or Declarations, and the Condominium
-Units therein shall be subject to the condominium regime with all incidents pertaining
-thereto as specified herein, upon placing the Supplemental Condominium Map(s) and Sup-
-plemental Condominium Declaration(s) of public record in the real estate records of
-Boulder County, Colorado.
-_ 40 _
-All future improvements to The Project will be consistent with the initial im-
-provements in terms of quality of construction and shall be similar in building types,
-architectural style and size of Units.
-12.5 Interests Upon Enlargements. The Owners at the time of their purchase of a
-Condominium Unit which has been brought into The Project by a Supplemental Declara-
-tion and a Supplemental Condominium Map shall be Members of the Association entitled
-to the same non-exclusive use of the Common Elements and the same voting privileges as
-those Owners of the initial property brought into The Project through the original Dec-
-laration and shall be subject to the same Assessments. The Assessments for that Phase
-shall commence for all Owners including the Declarant in accordance with Paragraph 5.7
-hereof.
-Whenever any additional property is brought into the Condominium Project, the
-interest of each owner of a Condominium Unit in the Common Elements in The Project
-after such addition shall be determined by the Declarant on the basis of the proportion
-which the approximate finished square footage area of each Apartment bears to the total
-approximate finished square footage area of all completed Apartments within The
-Project (including Apartments created on the additional real property submitted to The
-Project). The finished square footage area of each Apartment is based upon dimensions
-which are approximate and the calculation of the percentage interest has been rounded.
-The Supplemental Declaration recorded at the time of expansion shall set forth the new
-percentage ownership interests of the existing Units and of the newly added Units.
-12.6 Taxes, Assessments and Other Liens. All taxes and other assessments relating to
-the real property described in Exhibit "D" covering any period of time prior to the addi-
-tion of such property or any portion thereof to The Project must be paid or otherwise
-provided for by the Declarant to the satisfaction of all First Mortgagees.
-Liens arising out of the construction of improvements in later phases shall not
-extend into prior phases and shall not adversely affect the rights of Owners or the pri-
-ority of first mortgages and deeds of trusts on any Unit constructed in a prior phase.
-12.7 Project Treated as a Whole. For all purposes hereof, each of the Phases of The
-Project after the recording of the Supplemental Map and Supplemental Declaration sub-
-mitting each Phase to The Project, shall be treated as a part of The Project developed as
-a whole from the beginning, except to the extent expressly otherwise provided for here-
-in. It is the express purpose hereof to provide that from and after the date of the sub-
-mission of a Phase of The Project in accordance with. the above, that such Phase shall be
-treated as though such Phase had been developed, owned, occupied and used by the Own-
-ers thereof as a single undivided Project.
-Smile
-- 41 -
+
+12.1 Reservation of Right to Expand.  
+Declarant reserves the right (without in any way being bound) to enlarge this condominium project in phases by submitting to The Project from time to time a Supplemental Condominium Map and Supplemental Declaration adding any of the real property described on Exhibit "D" attached hereto. The total number of condominium units in The Project as expanded shall not exceed one hundred sixty-eight Units.
+If The Project has been or is to be approved by the Federal Housing Administration and/or the Veterans Administration, any such addition, expansion or annexation must be according to a General Plan heretofore filed with and approved by the Federal Housing Administration or the Veterans Administration and such addition, expansion or annexation must be supported by the written consent of the Federal Housing Administration or the Veterans Administration, evidence of which may be recorded.
+
+12.2 Supplemental Declarations and Supplemental Condominium Maps.  
+Such expansion may be accomplished by the filing for record by Declarant in the office of the Clerk and Recorder for Boulder County, Colorado, no later than five years from the date of the recording of this Declaration, a supplement or supplements to this Declaration containing a legal description of the new Real Property or Properties, together with a Supplemental Condominium Map or Maps containing the same information with respect to the new Real Property as was required on the original Condominium Map with respect to the initial Real Property. The expansion may be accomplished in stages by successive supplements or in one supplemental expansion so long as each subsequent phase is contiguous to the Real Property already subject to this Declaration.
+All intended improvements in future phases must be substantially completed prior to being brought within the Condominium Project.
+
+12.3 Expansion of Definitions.  
+In the event of such expansion, the definitions used in this Declaration shall be expanded automatically to encompass and refer to The Project as so expanded. For example, "Condominium Unit" shall mean the Condominium Units described hereinabove plus any additional Condominium Units added by a Supplemental Condominium Declaration or Declarations, and reference to this Declaration shall mean this Declaration as supplemented. All conveyances of Condominium Units shall be effective to transfer rights in The Project as expanded by use of the form of description set forth in paragraph 2.3 hereof, with additional references to the Supplemental Condominium Declaration(s) and the Supplemental Condominium Map(s). The recordation in the records of Boulder County, Colorado, of a Supplemental Condominium Map or Maps incident to any expansion shall operate automatically to grant, transfer, and convey to the Owners of the Condominium Units the respective undivided interests set forth in Paragraph 12.5 hereof in the new Common Elements added to the Condominium Project as the result of such expansion. Such recordation shall also operate to vest in any then Mortgagee of any Condominium Unit encumbering the new Common Elements added to The Project as the result of such expansion.
+
+12.4 Declaration Operative on New Properties.  
+The new Real Property shall be subject to all the terms and conditions of this Declaration or Declarations, and the Condominium Units therein shall be subject to the condominium regime with all incidents pertaining thereto as specified herein, upon placing the Supplemental Condominium Map(s) and Supplemental Condominium Declaration(s) of public record in the real estate records of Boulder County, Colorado.
+All future improvements to The Project will be consistent with the initial improvements in terms of quality of construction and shall be similar in building types, architectural style and size of Units.
+
+12.5 Interests Upon Enlargements.  
+The Owners at the time of their purchase of a Condominium Unit which has been brought into The Project by a Supplemental Declaration and a Supplemental Condominium Map shall be Members of the Association entitled to the same non-exclusive use of the Common Elements and the same voting privileges as those Owners of the initial property brought into The Project through the original Declaration and shall be subject to the same Assessments. The Assessments for that Phase shall commence for all Owners including the Declarant in accordance with Paragraph 5.7 hereof.
+Whenever any additional property is brought into the Condominium Project, the interest of each owner of a Condominium Unit in the Common Elements in The Project after such addition shall be determined by the Declarant on the basis of the proportion which the approximate finished square footage area of each Apartment bears to the total approximate finished square footage area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to The Project). The finished square footage area of each Apartment is based upon dimensions which are approximate and the calculation of the percentage interest has been rounded. The Supplemental Declaration recorded at the time of expansion shall set forth the new percentage ownership interests of the existing Units and of the newly added Units.
+
+12.6 Taxes, Assessments and Other Liens.  
+All taxes and other assessments relating to the real property described in Exhibit "D" covering any period of time prior to the addition of such property or any portion thereof to The Project must be paid or otherwise provided for by the Declarant to the satisfaction of all First Mortgagees.
+Liens arising out of the construction of improvements in later phases shall not extend into prior phases and shall not adversely affect the rights of Owners or the priority of first mortgages and deeds of trusts on any Unit constructed in a prior phase.
+
+12.7 Project Treated as a Whole.  
+For all purposes hereof, each of the Phases of The Project after the recording of the Supplemental Map and Supplemental Declaration submitting each Phase to The Project, shall be treated as a part of The Project developed as a whole from the beginning, except to the extent expressly otherwise provided for herein. It is the express purpose hereof to provide that from and after the date of the submission of a Phase of The Project in accordance with the above, that such Phase shall be treated as though such Phase had been developed, owned, occupied and used by the Owners thereof as a single undivided Project.
+
+
 ARTICLE THIRTEEN: DURATION AND AMENDMENTS
 13.1 Duration. All of the provisions contained in this Declaration shall continue and
 •remain in full force and effect until condominium ownership of The Project and this Dec-
