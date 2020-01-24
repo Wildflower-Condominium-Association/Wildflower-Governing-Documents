@@ -1,190 +1,188 @@
-RECORDING INFORMATION
-Film 1322
-Reception No. 647944
-Date; September 21, 1984
-Time: 3:49 p.m.
+RECORDING INFORMATION  
+Film 1322  
+Reception No. 647944  
+Date; September 21, 1984  
+Time: 3:49 p.m.  
 
 THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
-Copyright © 1984
-By William A. Love
+Copyright © 1984  
+By William A. Love  
 All Rights Reserved
 
 TABLE OF CONTENTS
 
 PREAMBLE
 
-ONE		DEFINITIONS
-
-1.1 Articles
-1.2 Assessments
-1.3 Association
-1.4 Board of Directors
-1.5 Bylaws
-1.6 Common Elements
-1.7 Common Expenses
-1.8 Condominium Apartment
-1.9 Condominium Project
-1.10 Condominium Unit
-1.11 Declarant
-1.12 Declaration
-1.13 First Mortgagee
-1.14 Guest
-1.15 Limited Common Elements
-1.16 Managing Agent
-1.17 Member
-1.18 Owner
-1.19 Person
-1.20 Rules
-1.21 The Buildings
-1.22 The Map
+ONE: DEFINITIONS  
+1.1 Articles  
+1.2 Assessments  
+1.3 Association  
+1.4 Board of Directors  
+1.5 Bylaws  
+1.6 Common Elements  
+1.7 Common Expenses  
+1.8 Condominium Apartment  
+1.9 Condominium Project  
+1.10 Condominium Unit  
+1.11 Declarant  
+1.12 Declaration  
+1.13 First Mortgagee  
+1.14 Guest  
+1.15 Limited Common Elements  
+1.16 Managing Agent  
+1.17 Member  
+1.18 Owner  
+1.19 Person  
+1.20 Rules  
+1.21 The Buildings  
+1.22 The Map  
 1.23 VA and/or FHA Approval
 
-TWO		NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP
-
-2.1 Division into Units, Estates of an Owner
-2.2 Title
-2.3 Description of a Condominium Unit
-2.4 Apartment Boundaries
-2.5 Right to Combine Units
-2.6 Physical Boundaries
-2.7 Inseparability of a Unit
-2.8 No Partition
-2.9 Separate Taxation
-2.10 Limited Common Elements
-2.11 Compliance with Provisions of Declaration, Articles and Bylaws of the Association
-2.12 Liens Against Condominium Apartments - Removal From Lien - Effect of Part Payment
-2.13 Sale of a Condominium Unit
-2.14 Restrictions on Mortgaging Units
-2.15 Parking Spaces
-2.16 Garage Spaces
-2.17 Storage Spaces
+TWO: NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP  
+2.1 Division into Units, Estates of an Owner  
+2.2 Title  
+2.3 Description of a Condominium Unit  
+2.4 Apartment Boundaries  
+2.5 Right to Combine Units  
+2.6 Physical Boundaries  
+2.7 Inseparability of a Unit  
+2.8 No Partition  
+2.9 Separate Taxation  
+2.10 Limited Common Elements  
+2.11 Compliance with Provisions of Declaration, Articles and Bylaws of the Association  
+2.12 Liens Against Condominium Apartments - Removal From Lien - Effect of Part Payment  
+2.13 Sale of a Condominium Unit  
+2.14 Restrictions on Mortgaging Units  
+2.15 Parking Spaces  
+2.16 Garage Spaces  
+2.17 Storage Spaces  
 2.18 Basement Spaces
 
-THREE	VARIOUS RIGHTS AND EASEMENTS
-3.1 Owner's Rights in Limited Common Elements
-3.2 Owner's Easement for Access, Support, and Utilities
-3.3 Easements for Encroachments
-3.4 Easements in Condominium Apartments for Repair, Maintenance and Emergencies
-3.5 Emergency Easements
-3.6 Utility Easements
-3.7 Declarant's Easements
-3.8 Solar Easements
-3.9 Recording Data Regarding Easements
-3.10 Sump Pump Maintenance Easement
+THREE: VARIOUS RIGHTS AND EASEMENTS  
+3.1 Owner's Rights in Limited Common Elements  
+3.2 Owner's Easement for Access, Support, and Utilities  
+3.3 Easements for Encroachments  
+3.4 Easements in Condominium Apartments for Repair, Maintenance and Emergencies  
+3.5 Emergency Easements  
+3.6 Utility Easements  
+3.7 Declarant's Easements  
+3.8 Solar Easements  
+3.9 Recording Data Regarding Easements  
+3.10 Sump Pump Maintenance Easement  
 3.11 Easements Deemed Appurtenant
 
-FOUR	THE ASSOCIATION
-4.1 General Purposes and Powers
-4.2 Board of Directors
-4.3 Articles and Bylaws
-4.4 Membership
-4.5 Voting Rights
-4.6 Indemnification
-4.7 Association Agreements
+FOUR: THE ASSOCIATION  
+4.1 General Purposes and Powers  
+4.2 Board of Directors  
+4.3 Articles and Bylaws  
+4.4 Membership  
+4.5 Voting Rights  
+4.6 Indemnification  
+4.7 Association Agreements  
 4.8 Certain Rights and Obligations of the Association
 
-FIVE	ASSESSMENTS
-5.1 Creation of the Lien and Personal Obligation of the Assessment
-5.2 Purpose of Assessments
-5.3 Basis of Assessment
-5.4 Special Assessments
-5.5 Notice and Quorum Needed to Levy a Special Assessment
-5.6 Uniform Manner of Assessment
-5.7 Date of Commencement of Assessments; Prorations
-5.8 Due Dates, Non-Payment of Assessments, Remedies of the Association
-5.9 Declarant's Obligations
-5.10 Working Capital Fund
+FIVE: ASSESSMENTS  
+5.1 Creation of the Lien and Personal Obligation of the Assessment  
+5.2 Purpose of Assessments  
+5.3 Basis of Assessment  
+5.4 Special Assessments  
+5.5 Notice and Quorum Needed to Levy a Special Assessment  
+5.6 Uniform Manner of Assessment  
+5.7 Date of Commencement of Assessments; Prorations  
+5.8 Due Dates, Non-Payment of Assessments, Remedies of the Association  
+5.9 Declarant's Obligations  
+5.10 Working Capital Fund  
 5.11 No Offsets
 
-SIX	RESTRICTIVE COVENANTS AND OBLIGATIONS
-6.1 Use and Occupancy of Condomimiun Apartments
-6.2 Use of the Common Elements
-6.3 Pets Within the Project
-6.4 Nuisances
-6.5 No Unsightliness
-6.6 Prohibition of Certain Activities
-6.7 Antennas
-6.8 Restrictions on Signs
-6.9 Owner Caused Damages
-6.10 Waiver of Summary Abatement
-6.11 Parking and the Use of the Parking Spaces
-6.12 Use of the Garage Spaces
+SIX: RESTRICTIVE COVENANTS AND OBLIGATIONS  
+6.1 Use and Occupancy of Condomimiun Apartments  
+6.2 Use of the Common Elements  
+6.3 Pets Within the Project  
+6.4 Nuisances  
+6.5 No Unsightliness  
+6.6 Prohibition of Certain Activities  
+6.7 Antennas  
+6.8 Restrictions on Signs  
+6.9 Owner Caused Damages  
+6.10 Waiver of Summary Abatement  
+6.11 Parking and the Use of the Parking Spaces  
+6.12 Use of the Garage Spaces  
 6.13 Use of the Storage Spaces
 
-SEVEN	INSURANCE
-7.1 Authority to Purchase/General Requirements
-7.2 Hazard Insurance
-7.3 Liability Insurance
-7.4 Fidelity Insurance
-7.5 Additional Insurance
-7.6 Payment of Insurance Premiums
+SEVEN: INSURANCE  
+7.1 Authority to Purchase/General Requirements  
+7.2 Hazard Insurance  
+7.3 Liability Insurance  
+7.4 Fidelity Insurance  
+7.5 Additional Insurance  
+7.6 Payment of Insurance Premiums  
 7.7 Separate Insurance
 
-EIGHT	MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS AND ALTERATIONS
-8.1 By the Association
-8.2 By the Owner
-8.3 Schedule of Maintenance Responsibilities
-8.4 Manner of Repair and Replacement
-8.5 Additions, Alterations or Improvements by the Owners (Architectural Control)
+EIGHT: MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS AND ALTERATIONS  
+8.1 By the Association  
+8.2 By the Owner  
+8.3 Schedule of Maintenance Responsibilities  
+8.4 Manner of Repair and Replacement  
+8.5 Additions, Alterations or Improvements by the Owners (Architectural Control)  
 8.6 Private Patios
 
-NINE	DAMAGE, DESTRUCTION, CONDEMNATION AND OBSOLESCENCE
-9.1 Association as Attorney-in-Fact
-9.2 Damage, Destruction, Reconstruction and Repair
-9.3 Condemnation
-9.4 Reorganization/Reallocation
+NINE: DAMAGE, DESTRUCTION, CONDEMNATION AND OBSOLESCENCE  
+9.1 Association as Attorney-in-Fact  
+9.2 Damage, Destruction, Reconstruction and Repair  
+9.3 Condemnation  
+9.4 Reorganization/Reallocation  
 9.5 Obsolescence and Reconstruction
 
-TEN		TERMINATION OF THE CONDOMINIUM PROJECT
-10.1 Vote of Owners and First Mortgagees
-10.2 Termination Agreement
-10.3 Sale of The Project
-10.4 Project not to be Sold
-10.5 Determination of Owner's Interests
+TEN: TERMINATION OF THE CONDOMINIUM PROJECT  
+10.1 Vote of Owners and First Mortgagees  
+10.2 Termination Agreement  
+10.3 Sale of The Project  
+10.4 Project not to be Sold  
+10.5 Determination of Owner's Interests  
 10.6 Distribution to Owners
 
-ELEVEN	CERTAIN RIGHTS OF THE FIRST MORTGAGEES
-11.1 Entitlement
-11.2 Restrictions on Amendments
-11.3 Special FHLMC Provisions
+ELEVEN: CERTAIN RIGHTS OF THE FIRST MORTGAGEES  
+11.1 Entitlement  
+11.2 Restrictions on Amendments  
+11.3 Special FHLMC Provisions  
 11.4 Books and Records
 
-TWELVE	EXPANSION
-12.1 Reservation of Right to Expand
-12.2 Supplemental Declarations and Supplemental Condominium Maps
-12.3 Expansion of Definitions
-12.4 Declaration Operative on New Properties
-12.5 Interests Upon Enlargements
-12.6 Taxes, Assessments and Other Liens
+TWELVE: EXPANSION  
+12.1 Reservation of Right to Expand  
+12.2 Supplemental Declarations and Supplemental Condominium Maps  
+12.3 Expansion of Definitions  
+12.4 Declaration Operative on New Properties  
+12.5 Interests Upon Enlargements  
+12.6 Taxes, Assessments and Other Liens  
 12.7 Project Treated as a Whole
 
-THIRTEEN	DURATION AND AMENDMENTS
-13.1 Duration
-13.2 Amendments
+THIRTEEN: DURATION AND AMENDMENTS  
+13.1 Duration  
+13.2 Amendments  
 13.3 Special Amendments
 
-FOURTEEN	GENERAL PROVISIONS
-14.1 Right of Action
-14.2 Supplemental to Law
-14.3 Successors and Assigns
-14.4 Temporary Use by the Declarant
-14.5 Severability
-14.6 No Waiver
-14.7 Registration by Owner of Mailing Address
-14.8 Attorneys' Fees and Costs
-14.9 Captions
+FOURTEEN: GENERAL PROVISIONS  
+14.1 Right of Action  
+14.2 Supplemental to Law  
+14.3 Successors and Assigns  
+14.4 Temporary Use by the Declarant  
+14.5 Severability  
+14.6 No Waiver  
+14.7 Registration by Owner of Mailing Address  
+14.8 Attorneys' Fees and Costs  
+14.9 Captions  
 14.10 Numbers and Genders
 
-Exhibit A	Legal Description of the Real Property Submitted to The Wildflower Condominium Regime
+Exhibit A: Legal Description of the Real Property Submitted to The Wildflower Condominium Regime
 
-Exhibit B	Schedule of Percentage Interests in the Common Elements
+Exhibit B: Schedule of Percentage Interests in the Common Elements
 
-Exhibit C	Schedule of Maintenance Responsibilities
+Exhibit C: Schedule of Maintenance Responsibilities
 
-Exhibit D	Legal Description of the Real Property Which May Be Submitted to The Wildflower Condominium Regime in Later Phases
+Exhibit D: Legal Description of the Real Property Which May Be Submitted to The Wildflower Condominium Regime in Later Phases
 
-Exhibit E	The Recording Data for Easements Affecting The Project
+Exhibit E: The Recording Data for Easements Affecting The Project
 
 
 THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
