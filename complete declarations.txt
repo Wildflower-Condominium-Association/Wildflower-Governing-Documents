@@ -614,91 +614,49 @@ The proceeds of sale described in Paragraph 10.3 and held by the Association as 
 
 
 ARTICLE ELEVEN: CERTAIN RIGHTS OF THE FIRST MORTGAGEES
-11 . 1 Entitlement. A First Mortgagee, u on by such First Mortgagee to
-•the Association, shall be entitled to timely receive in writing any of the following:
-(a) Budgets, notices of assessments, or any other notices provided for under this
-Declaration by the Association to the Owner of a Condominium Unit in which
-a First Mortgagee has a security interest.
-(b) Financial statements of the Association which are prepared for the Associa-
-tion and distributed to its Members.
-(c) Notices of meetings of the membership and the right to be represented at any
-meeting by a designated representative.
-(d) Notice of the decision of the Owners to make any amendment to this
-Declaration, the Bylaws, or the Articles of Incorporation of the Association.
-(e) Notice of the commencement of any condemnation proceedings with respect
-to any part of The Project.
-(f) Notice of any default by an Owner of a Unit in which a First Mortgagee has a
-security interest in the performance of any obligations under this
-Declaration, the Articles of Incorporation and/or Bylaws of the Association,
-which remains uncured for a period of sixty days.
-(g) Notice of any lapse, cancellation or material modification of any insurance
-policy or fidelity bond maintained by the Association.
-(h) Notice of any condemnation loss or any casualty loss which affects a material
-portion of The Project or any Unit in which a First Mortgagee has a security
-interest.
-(i) Notice of any proposed action contained in Paragraphs 11.2 and 11.3 hereof,
-requiring the consent of the First Mortgagees.
-The request of a First Mortgagee shall specify which of the above it desires to
-receive and shall indicate its name and the address to which same shall be sent by the
-Association together with the Unit number or address of the Unit it has a mortgage on.
-The Association need not inquire into the validity of any request made by a First Mort-
-gagee hereunder and in the event of multiple requests from the purported First Mort-
-gagees of the same Condominium Unit, the Association shall honor the most recent
-request received.
-11 . 2 Restrictions on Amendments. The following restrictions do not apply to amend-
-ments to the Declaration made in accordance with ARTICLE NINE and ARTICLE TEN
-hereof, or to a reallocation of interests in the Common Elements which might occur pur-
-suant to any plan of expansion in accordance with ARTICLE TWELVE hereof.
-The consent of the Owners of Units to which at least eighty percent of the votes in
-the Association are allocated and the approval of those First Mortgagees holding mort-
-gages on Units which have at least eighty percent of the votes of the Units subject to
-first mortgages within The Project shall be required to add or amend any material provi-
-sions of the Declaration, Bylaws, Articles of Incorporation or The Map which establish,
-provide for, govern or regulate any of the following:
-- 37 -
-(a) Assessments, manner of assessment, assessment liens or subordination of such
-liens;
-(b) Reserves for the maintenance, repair, and replacement of the Common
-Elements;
-(c) Insurance or Fidelity Bonds;
-(d) Right to use of the Common Elements;
-(e) Responsibility for maintenance and repair of The Project;
-(f) Subject to the provisions of ARTICLE TWELVE hereof the expansion or con-
-traction of The Project or the addition, or annexation or withdrawal of
-property to and from The Project;
-(g) Boundaries of any Unit and the exclusive easement rights appertaining
-thereto;
-(h) Leasing of Condominium Apartments and uses to which an Apartment or the
-Common Elements are restricted;
-(i) Imposition of any right of first refusal or similar restriction on the right of an
-Owner to sell, transfer, or otherwise convey a Unit;
-(j) A decision by the Association to establish self management when professional
-management had been required previously by a First Mortgagee;
-(k) Restoration or repair of The Project (after a hazard damage or partial con-
-demnation) in a manner other than that specified in the Declaration;
-(1) Any action to terminate the legal status of The Project after substantial
-destruction or condemnation occurs, or for reasons other than the substantial
-destruction or condemnation of the Project.
-(m) Any provision in this Declaration, Articles of Incorporation or Bylaws which
-specifically grants rights to First Mortgagees hereunder.
-11 . 3 Special FHLMC Provisions. So long as required by The Mortgage Corporation, the
-following provisions apply in addition to the provisions of Paragraph 11.2 above. Unless
-eighty percent of the First Mortgagees (based upon one vote for each first mortgage
-owned) or Owners (other than the Declarant) give their prior written approval, the
-Association shall not be entitled to:
-(a) Use hazard insurance proceeds for losses to the improvements insured by the
-Association for other than the repair, replacement or reconstruction of such
-improvements;
-HtlionitsLibdivide any Condominium Unit;
-- 38 -
-(c) By act or omission seek to abandon, partition, subdivide, encumber, sell, or
-transfer any of the Common Elements, except that approval shall not be
-required for the Board of Directors to grant easements for utilities and
-similar or related purposes;
-(d) By act or omission seek to abandon or terminate the Condominium Project;
-11 . 4 Books and Records. Owners and their mortgagees shall have the right to examine
-the books and records of the Association at any reasonable time at the office of the
-Association upon reasonable notice. Copies are available at reasonable cost.
+
+11.1 Entitlement.  
+A First Mortgagee, upon written request by such First Mortgagee to the Association, shall be entitled to timely receive in writing any of the following:
+- (a) Budgets, notices of assessments, or any other notices provided for under this Declaration by the Association to the Owner of a Condominium Unit in which a First Mortgagee has a security interest.
+- (b) Financial statements of the Association which are prepared for the Association and distributed to its Members.
+- (c) Notices of meetings of the membership and the right to be represented at any meeting by a designated representative.
+- (d) Notice of the decision of the Owners to make any amendment to this Declaration, the Bylaws, or the Articles of Incorporation of the Association.
+- (e) Notice of the commencement of any condemnation proceedings with respect to any part of The Project.
+- (f) Notice of any default by an Owner of a Unit in which a First Mortgagee has a security interest in the performance of any obligations under this Declaration, the Articles of Incorporation and/or Bylaws of the Association, which remains uncured for a period of sixty days.
+- (g) Notice of any lapse, cancellation or material modification of any insurance policy or fidelity bond maintained by the Association.
+- (h) Notice of any condemnation loss or any casualty loss which affects a material portion of The Project or any Unit in which a First Mortgagee has a security interest.
+- (i) Notice of any proposed action contained in Paragraphs 11.2 and 11.3 hereof, requiring the consent of the First Mortgagees.
+
+The request of a First Mortgagee shall specify which of the above it desires to receive and shall indicate its name and the address to which same shall be sent by the Association together with the Unit number or address of the Unit it has a mortgage on. The Association need not inquire into the validity of any request made by a First Mortgagee hereunder and in the event of multiple requests from the purported First Mortgagees of the same Condominium Unit, the Association shall honor the most recent request received.
+
+11.2 Restrictions on Amendments.  
+The following restrictions do not apply to amendments to the Declaration made in accordance with ARTICLE NINE and ARTICLE TEN hereof, or to a reallocation of interests in the Common Elements which might occur pursuant to any plan of expansion in accordance with ARTICLE TWELVE hereof.
+The consent of the Owners of Units to which at least eighty percent of the votes in the Association are allocated and the approval of those First Mortgagees holding mortgages on Units which have at least eighty percent of the votes of the Units subject to first mortgages within The Project shall be required to add or amend any material provisions of the Declaration, Bylaws, Articles of Incorporation or The Map which establish, provide for, govern or regulate any of the following:
+- (a) Assessments, manner of assessment, assessment liens or subordination of such liens;
+- (b) Reserves for the maintenance, repair, and replacement of the Common Elements;
+- (c) Insurance or Fidelity Bonds;
+- (d) Right to use of the Common Elements;
+- (e) Responsibility for maintenance and repair of The Project;
+- (f) Subject to the provisions of ARTICLE TWELVE hereof the expansion or contraction of The Project or the addition, or annexation or withdrawal of property to and from The Project;
+- (g) Boundaries of any Unit and the exclusive easement rights appertaining thereto;
+- (h) Leasing of Condominium Apartments and uses to which an Apartment or the Common Elements are restricted;
+- (i) Imposition of any right of first refusal or similar restriction on the right of an Owner to sell, transfer, or otherwise convey a Unit;
+- (j) A decision by the Association to establish self management when professional management had been required previously by a First Mortgagee;
+- (k) Restoration or repair of The Project (after a hazard damage or partial condemnation) in a manner other than that specified in the Declaration;
+- (l) Any action to terminate the legal status of The Project after substantial destruction or condemnation occurs, or for reasons other than the substantial destruction or condemnation of the Project.
+- (m) Any provision in this Declaration, Articles of Incorporation or Bylaws which specifically grants rights to First Mortgagees hereunder.
+
+11.3 Special FHLMC Provisions.  
+So long as required by The Mortgage Corporation, the following provisions apply in addition to the provisions of Paragraph 11.2 above. Unless eighty percent of the First Mortgagees (based upon one vote for each first mortgage owned) or Owners (other than the Declarant) give their prior written approval, the Association shall not be entitled to:
+- (a) Use hazard insurance proceeds for losses to the improvements insured by the Association for other than the repair, replacement or reconstruction of such improvements;
+- (b) Partition or subdivide any Condominium Unit;
+- (c) By act or omission seek to abandon, partition, subdivide, encumber, sell, or transfer any of the Common Elements, except that approval shall not be required for the Board of Directors to grant easements for utilities and similar or related purposes;
+- (d) By act or omission seek to abandon or terminate the Condominium Project;
+
+11.4 Books and Records.  
+Owners and their mortgagees shall have the right to examine the books and records of the Association at any reasonable time at the office of the Association upon reasonable notice. Copies are available at reasonable cost.
+
+
 ARTICLE TWELVE: EXPANSION
 12.1 Reservation of Right to Expand. Declarant reserves the right (without in any way
 being bound) to enlarge this condominium project in phases by submitting to The Project
