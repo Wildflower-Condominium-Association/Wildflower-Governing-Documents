@@ -586,59 +586,33 @@ The Owners of Units to which at least eighty percent of the votes in the Associa
 
 
 ARTICLE TEN: TERMINATION OF THE CONDOMINIUM PROJECT
-10.1 Vote of Owners and First Mortgagees. Except in the case of a taking of all the
-Units by Condemnation or by fire or other casualty, The Project may be terminated only
-by agreement of the Owners of Units to which at least eighty percent of the votes in the
-Association are allocated. Such an agreement must have the approval of those First
-Mortgagees holding mortgages on Units which have at least eighty percent of the votes
-of the Units subject to first mortgages within The Project.
-10.2 Termination Agreement. An agreement of Owners to terminate condominium own-
-ership must be evidenced by their execution of a termination agreement or ratifications
-thereof. If, pursuant to a termination agreement, the real estate constituting The
-Project is to be sold following termination, the termination agreement must be recorded
-in every county in which a portion of The Project is situated, and is effective only upon
-recordation.
-10.3 Sale of The Project. The Association, on behalf of the Owners, may contract for
-sale of The Project, but the contract is not binding on the Owners until approved pur-
-suant to Paragraphs 10.1 and 10.2. If the real estate constituting The Project is to be
-sold following termination, title to that real estate, upon termination, vests in the
-Association as trustee for the holders of all interest in the Units. Thereafter, the
-Association has all powers necessary and appropriate to effect the sale. Until the sale
-has been concluded and the proceeds thereof distributed, the Association continues in
-existence with all powers it had before termination. Proceeds of the sale shall be appor-
-tioned among the Owners in accordance with Paragraph 10.5 of this Declaration. Unless
-otherwise specified in the termination agreement, as long as the Association holds title
-to the real estate, each Owner and his successors in interest have an exclusive right to
-occupancy of the portion of the real estate that formerly constituted his Unit. During
-the period in which the Owner has the right of occupancy, each Owner and his successors
-in interest remain liable for all assessments and other obligations imposed on Owners by
-the Declaration.
-10.4 Project not to be Sold. If The Property constituting The Project is not to be sold
-following termination, title to The Property, upon termination, vests in the Owners as
-tenants in common in proportion to their respective Common Element interests and the
-liens on the Units shall shift to such Owner's undivided interest. While the tenancy in
-common exists, each Owner and his successors in interest have an exclusive right to
-occupancy of the portion of The Property that formerly constituted his Unit.
-10.5 Determination of Owner's Interests. The respective interests of Owners referred to
-in Paragraphs 10.3, 10.4, and 10.6 are pro rata according to each Owner's percentage
-interest in the Common Elements immediately before termination.
-10.6 Distribution to Owners. Following termination of The Project, the proceeds
-derived from the sale shall be divided in proportion to the Owner's respective interests as
-provided in Paragraph 10.5, and shall be used and disbursed by the Association, as
-Attorney-in-Fact, in the following order:
-a) for payment of the balance of the lien of any first mortgage;
-b) for paymint of reasonable costs of sale incurred;
-c) for paymen of taxes and special assessment liens in favor of any assess-
-ing entity;
-- 35 -
-d) for payment of unpaid assessments; .
-e) for payment of junior mortgages and encumbrances in the order of and
-to the extent of their priority;
-f) the balance remaining, if any, shall be paid to the Owner.
-The proceeds of sale described in Paragraph 10.3 and held by the Association as
-trustee are not assets of the Association.
-Sm le
-- 36 -
+
+10.1 Vote of Owners and First Mortgagees.  
+Except in the case of a taking of all the Units by Condemnation or by fire or other casualty, The Project may be terminated only by agreement of the Owners of Units to which at least eighty percent of the votes in the Association are allocated. Such an agreement must have the approval of those First Mortgagees holding mortgages on Units which have at least eighty percent of the votes of the Units subject to first mortgages within The Project.
+
+10.2 Termination Agreement.  
+An agreement of Owners to terminate condominium ownership must be evidenced by their execution of a termination agreement or ratifications thereof. If, pursuant to a termination agreement, the real estate constituting The Project is to be sold following termination, the termination agreement must be recorded in every county in which a portion of The Project is situated, and is effective only upon recordation.
+
+10.3 Sale of The Project.  
+The Association, on behalf of the Owners, may contract for sale of The Project, but the contract is not binding on the Owners until approved pursuant to Paragraphs 10.1 and 10.2. If the real estate constituting The Project is to be sold following termination, title to that real estate, upon termination, vests in the Association as trustee for the holders of all interest in the Units. Thereafter, the Association has all powers necessary and appropriate to effect the sale. Until the sale has been concluded and the proceeds thereof distributed, the Association continues in existence with all powers it had before termination. Proceeds of the sale shall be apportioned among the Owners in accordance with Paragraph 10.5 of this Declaration. Unless otherwise specified in the termination agreement, as long as the Association holds title to the real estate, each Owner and his successors in interest have an exclusive right to occupancy of the portion of the real estate that formerly constituted his Unit. During the period in which the Owner has the right of occupancy, each Owner and his successors in interest remain liable for all assessments and other obligations imposed on Owners by the Declaration.
+
+10.4 Project not to be Sold.  
+If The Property constituting The Project is not to be sold following termination, title to The Property, upon termination, vests in the Owners as tenants in common in proportion to their respective Common Element interests and the liens on the Units shall shift to such Owner's undivided interest. While the tenancy in common exists, each Owner and his successors in interest have an exclusive right to occupancy of the portion of The Property that formerly constituted his Unit.
+
+10.5 Determination of Owner's Interests.  
+The respective interests of Owners referred to in Paragraphs 10.3, 10.4, and 10.6 are pro rata according to each Owner's percentage interest in the Common Elements immediately before termination.
+
+10.6 Distribution to Owners.  
+Following termination of The Project, the proceeds derived from the sale shall be divided in proportion to the Owner's respective interests as provided in Paragraph 10.5, and shall be used and disbursed by the Association, as Attorney-in-Fact, in the following order:
+- (a) for payment of the balance of the lien of any first mortgage;
+- (b) for paymint of reasonable costs of sale incurred;
+- (c) for payment of taxes and special assessment liens in favor of any assessing entity;
+- (d) for payment of unpaid assessments;
+- (e) for payment of junior mortgages and encumbrances in the order of and to the extent of their priority;
+- (f) the balance remaining, if any, shall be paid to the Owner.
+The proceeds of sale described in Paragraph 10.3 and held by the Association as trustee are not assets of the Association.
+
+
 ARTICLE ELEVEN: CERTAIN RIGHTS OF THE FIRST MORTGAGEES
 11 . 1 Entitlement. A First Mortgagee, u on by such First Mortgagee to
 •the Association, shall be entitled to timely receive in writing any of the following:
