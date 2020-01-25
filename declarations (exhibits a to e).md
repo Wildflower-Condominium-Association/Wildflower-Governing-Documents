@@ -40,256 +40,162 @@ The percentage interest in the Common Elements of each Unit has been determined 
 In the event the Declarant exercises its right to enlarge this Project in Phases by submitted to the Project additional real property In accordance with ARTICLE TWELVE of the Declaration, each percentage interest in the Common Elements set forth above will decrease. The Percentage Interest of each Unit will then be determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to the Project).
 
 
-THE WILDFLOWER CONDOMINIUMS
-SCHEDULE OF MAINTENANCE RESPONSIBILITIES
-Exhibit C
-Page 1 of 4
-IIIIIIV
-COMMON ELEMENTS
-UNDER
-ASSOCIATION
-ITEI46 Ap RESPONSIBILITY
-LIMITED COMMON
-ELEMENTS UNDER
-ASSOCIATION
-RESPONSIBILITY
-UNIT
-COMPONENTS
-UNDER
-ASSOCIATION
-RESPONSIBILITY
-V
-CERTAIN OTHER
-COMPONENTS UNDER UNIT
-OWNER'S RESPONSIBILI-
-TIES WITHOUT RESPECT TO
-OWNERSHIP OF
-THE COMPONENTS
-Grounds, including all
-.landscaped and paved
-areas and other im-
-provements thereon ly-
-ing outside the Build-
-ings' foundations with
-the exceptions noted
-herein.
-All, in all regards.Privacy fences.
-•
-Maintenance of landscaping and
-general housekeeping of the area
-within the private patio privacy
-fences.
-The Building's roof, ex-
-terior walls, founda-
-tion.
-All, in all regards, with
-exceptions noted here-
-in regarding routine
-cleaning.
+EXHIBIT C  
+TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
+
+SCHEDULE OF MAINTENANCE RESPONSIBILITIES  
+
+[The format of schedule is heavily modified from recorded version,
+but the content is otherwise as identical as possible.]
+
+Categories of Responsibility:
+1. Common Elements under Association Responsibility
+2. Limited Common Elements under Association Responsibility
+3. Unit Components under Association Responsibility
+4. Certain Other Components under Unit Owner's Responsibilities, Without Respect to Ownership Of the Components
+
+Note: each item will list the categories under which it might fall, along with explanatory comments and/or descriptions for each category.
+
+Grounds, including all landscaped and paved areas and other improvements thereon lying outside the Buildings' foundations with the exceptions noted herein.
+1. All, in all regards.
+2. Privacy fences.
+3. --
+4. Maintenance of landscaping and general housekeeping of the area within the private patio privacy fences.
+
+The Building's roof, exterior walls, foundation.
+1. All, in all regards, with exceptions noted here in regarding routine cleaning.
+2. --
+3. --
+4. --
+
 Windows.
-Exterior painting, and
-exterior caulking only.
-Routine cleaning, repair and re-
-placement of glass in the win-
-dows and window mechanisms
-serving an Apartment.
-Doors, apartment
-entry.
-All surfaces which are
-not exposed to the in-
-terior of an Apart-
-ment, including door
-panel, buck, trim and
-sill.
-Apartment side of door panel,
-interior trim, all hardware in-
-cluding lock, door chime assem-
-bly, hinges/closure and weather
-stripping.
-Doors, patio and bal-
-cony.
-All surfaces which are
-not exposed to the in-
-terior of an Apartment
-excluding glass, includ-
-ing door panel, buck,
-trim and sill.
-Apartment side of door panel,
-including glass replacement, in-
-terior trim, door mechanisms,
-hinge/closure and weather strip-
-ping.
-'11-1h relL.01,"---titVER CONDOMINIUMS-EXhIbIt C -
-SCHEDULE OF h. TENANCE RESPONSIBILITIES?age 2 of 4 -
-II
-(/)
-,TER
-COMMON ELEMENTS
-UNDER
-ASSOCIATION
-RESPONSIBILITY
-LIMITED COMMON
-ELEMENTS UNDER
-ASSOCIATION
-RESPONSIBILITY
-IV
-UNIT
-COMPONENTS
-UNDER
-ASSOCIATION
-RESPONSIBILITY
-V "
-CERTAIN OTHER
-COMPONENTS UNDER UNIT
-OWNER'S RESPONSIBILI-
-TIES WITHOUT RESPECT TO
-OWNERSHIP OF
-THE COMPONENTS
+1. Exterior painting, and exterior caulking only.
+2. --
+3. --
+4. Routine cleaning, repair and replacement of glass in the windows and window mechanisms serving an Apartment.
+
+Doors, apartment entry.
+1. All surfaces which are not exposed to the interior of an Apartment, including door panel, buck, trim and sill.
+2. --
+3. --
+4. Apartment side of door panel, interior trim, all hardware including lock, door chime assembly, hinges/closure and weather stripping.
+
+Doors, patio and balcony.
+1. All surfaces which are not exposed to the interior of an Apartment excluding glass, including door panel, buck, trim and sill.
+2. --
+3. --
+4. Apartment side of door panel, including glass replacement, interior trim, door mechanisms, hinge/closure and weather stripping.
+
 Doors, Garage
-rp
-All exterior mainte-
-nance except glass re-
-placement and the
-electrical door opening
-mechanism, if any.
-Glass replacement and the elec-
-trical door opening mechanism,
-if any.
-Plumbing and related
-systems and compo-
-nents thereof.
-All maintenance, re-
-pair and replacement
-of portions of plumbing
-constituting service to
-more than one Apart-
-ment. Water damage
-to Common Elements
-or other Apartments
-than the one which is
-the primary source of
-the problem through
-negligence of the
-occupants of such
-Apartment.
-Only to the extent that
-a malfunction or threat
-of same has originated
-outside the Apartment
-in which the malfunction
-occurs or may occur.
-Also damage caused to
-such Apartment from
-causes initially occur-
-ring outside that Apart-
-ment.
-All portions within an Apartment
-serving only that Apartment, in-
-cluding fixtures and appliances
-attached thereto. Water damage
-to an Apartment, when the pri-
-mary source of the problem is
-through negligence of. the occu-
-pants of that Apartment.
-Heating and coolingSystems serving moreSystems serving only one Apart-
-system and componentsthan one Apartment,ment, all in all regards.
-thereof.all in all regards.
-Electrical systems and
-components thereof.
-Systems including fix-
-tures and appliances
-serving more than one
-Apartment, all, in all
-regards.
-Systems including fixtures and
-appliances serving only one
-Apartment, all in all regards,
-including exterior fixtures serv-
-ing primarily only one Apart-
-ment.
+1. All exterior maintenance except glass replacement and the electrical door opening mechanism, if any.
+2. --
+3. --
+4. Glass replacement and the electrical door opening mechanism, if any.
+
+Plumbing and related systems and components thereof.
+1. All maintenance, repair and replacement of portions of plumbing constituting service to more than one Apartment. Water damage to Common Elements or other Apartments than the one which is the primary source of the problem through negligence of the occupants of such Apartment.
+2. --
+3. Only to the extent that a malfunction or threat of same has originated outside the Apartment in which the malfunction occurs or may occur. Also damage caused to such Apartment from causes initially occurring outside that Apartment.
+4. All portions within an Apartment serving only that Apartment, including fixtures and appliances attached thereto. Water damage to an Apartment, when the primary source of the problem is through negligence of the occupants of that Apartment.
+
+Heating and cooling system and components thereof
+1. Systems serving more than one Apartment, all in all regards.
+2. --
+3. --
+4. Systems serving only one Apartment, all in all regards.
+
+Electrical systems and components thereof.
+1. Systems including fixtures and appliances serving more than one Apartment, all in all regards.
+2. --
+3. --
+4. Systems including fixtures and appliances serving only one Apartment, all in all regards, including exterior fixtures serving primarily only one Apartment.
+
 Attics.
-All, in all regards ex-
-cept improvements in-
-stalled by the Apart-
-ment Owner, if any.
-All improvements installed b3
-the Apartment Owner.
-THE WILDI-1.,3WER CONDOMINIUMS
-SCHEDULE OF MAINTENANCE RESPONSIBILITIES
-...
-C
-Page 3 of 4
-(1)
-ITEMS
-II
-k
-COMMON ELEMENTS
-UNDER
-ASSOCIATION
-RESPONSIBILITY .
-III
-LIMITED COMMON
-ELEMENTS UNDER
-ASSOCIATION
-..RESP.ONSIBILITY
-IV
-UNIT
-COMPONENTS
-UNDER
-ASSOCIATION
-RESPONSIBILITY
-V
-CERTAIN OTHER
-COMPONENTS UNDER UNIT
-OWNER'S RESPONSIBILI-
-TIES WITHOUT RESPECT TO
-OWNERSHIP OF
-THE COMPONENTS
-• Parking spaces.All, in all regards.
-Garage Spaces /All, in all regards,Routine cleaning.
-Storage Spacesexcept routine
-cleaning.
-Trash collection sys-All, in all regards.
-tem.
-Balconies, DecksAll in all regards,Routine cleaning
-except routine
-cleaning.
-.Walkways, within fenc-All, in all regardsRoutine Cleaning. .
-ed patio area.except- . routine
-cleaning.
-Walkways, outside of All, in all regards.
-fenced patio area.
-Exterior StairsAll, in all regards
-Chimneys.All, in all regards.
-Garage ApronsAll, in all regards
-Basement Spaces.All, in all regards.
-THE WILDFL__AER CONDOMINIUMSC
-SCHEDULE OF MAINTENANCE RESPONSIBILITIESPage 4 of 4
-NOTES ,
-MAINTENANCE RESPONSIBILITIES:
-This chart and the titles and headings used herein are not intended to describe or encompass all maintenance functions nor to delineate
-all respective responsibilities between the Owners, severally, and the Association. The placement of responsibility under any specific
-column does not always accurately reflect the precise character and nature of ownership. The appropriate sections of the Declaration
-determine ownership. In many cases maintenance responsibility is allocated to the Association to ensure central maintenance responsi-
-bility, uniformity and quality of repair, and to protect community health and safety. Where such maintenance is required due to the
-negligent or wrongful act or omission of an Owner (or members of his household, tenants, employees, agents, visitors, guests or pets), the
-Association will perform the necessary maintenance at the sole expense of the Owner.
-COLUMN I: Items ' Items appearing in this column are illustrative and not exhaustive.
-COLUMN II: Common Elements Under Association Responsibility • Responsibility for determining and providing for the maintenance,
-repair and replacement requirements of the Common Elements and determining the costs thereof shall be primarily the responsibility of
-the Board of Directors and such designees to which it may delegate certain such responsiblities.
-COLUMN III: Limited Common Elements Under Association Responsibility ' Responsibility for determining the maintenance, repair and
-replacement requirements of the Common Elements shall be shared responsibility between the Board of Directors and the Owner of a
-Unit to which a specific Limited Common Element is exclusively appurtenant; provided, however, that the Board shall have the final
-responsibility for determining the need for and accomplishing such maintenance, repair and replacement activities.
-COLUMN IV: Unit Components Under Association Responsibility • The items in this column are legally and by definition a part of a Unit
-but are attached or directly connected to or associated with the Common Elements and common expense items in such a way that a clear
-distinction between Owner and Association responsibility cannot be made. Moreover, such items frequently involve matters of concern
-relative to the general health, safety and welfare of all of the occupants of The Building. Thus, certain costs which appear to benefit a
-single Owner but which affect other Owners are declared a common expense, especially when the correct functioning of an activity or
-element is integral to or supportive of the legally defined Common Elements and common expenses.
-COLUMN V: Certain Other Components Under Owner's Responsibility Without Respect to Ownership of the Component • The items in
-this column are not intended to be exclusive and all-encompassing and do not affect responsibilities expressly provided for otherwise.
+1. All, in all regards except improvements installed by the Apartment Owner, if any.
+2. --
+3. --
+4. All improvements installed by the Apartment Owner.
+
+Parking spaces
+1. All, in all regards.
+2. --
+3. --
+4. --
+
+Garage Spaces and Storage Spaces
+1. --
+2. All, in all regards, except routine cleaning.
+3. --
+4. Routine cleaning.
+
+Trash collection system
+1. All, in all regards.
+2. --
+3. --
+4. --	
+
+Balconies, Decks
+1. --
+2. All in all regards, except routine cleaning.
+3. --
+4. Routine cleaning.
+
+Walkways, within fenced patio area
+1. --
+2. All in all regards, except routine cleaning.
+3. --
+4. Routine cleaning.
+
+Walkways, outside of fenced patio area.
+1. All, in all regards.
+2. --
+3. --
+4. --
+
+Exterior Stairs
+1. All, in all regards.
+2. --
+3. --
+4. --
+
+Chimneys
+1. All, in all regards.
+2. --
+3. --
+4. --
+
+Garage Aprons
+1. --
+2. All, in all regards.
+3. --
+4. --
+
+Basement Spaces
+1. --
+2. --
+3. --
+4. All, in all regards.
+
+Notes
+
+Maintenance Responsibilities
+
+This chart and the titles and headings used herein are not intended to describe or encompass all maintenance functions nor to delineate all respective responsibilities between the Owners, severally, and the Association. The placement of responsibility under any specific column does not always accurately reflect the precise character and nature of ownership. The appropriate sections of the Declaration determine ownership. In many cases maintenance responsibility is allocated to the Association to ensure central maintenance responsibility, uniformity and quality of repair, and to protect community health and safety. Where such maintenance is required due to the negligent or wrongful act or omission of an Owner (or members of his household, tenants, employees, agents, visitors, guests or pets), the Association will perform the necessary maintenance at the sole expense of the Owner.
+
+COLUMN I: Items appearing in this column are illustrative and not exhaustive.
+
+COLUMN II: Common Elements Under Association Responsibility:  
+Responsibility for determining and providing for the maintenance, repair and replacement requirements of the Common Elements and determining the costs thereof shall be primarily the responsibility of the Board of Directors and such designees to which it may delegate certain such responsibilities.
+
+COLUMN III: Limited Common Elements Under Association Responsibility:   Responsibility for determining the maintenance, repair and replacement requirements of the Common Elements shall be shared responsibility between the Board of Directors and the Owner of a Unit to which a specific Limited Common Element is exclusively appurtenant; provided, however, that the Board shall have the final responsibility for determining the need for and accomplishing such maintenance, repair and replacement activities.
+
+COLUMN IV: Unit Components Under Association Responsibility:  
+The items in this column are legally and by definition a part of a Unit but are attached or directly connected to or associated with the Common Elements and common expense items in such a way that a clear distinction between Owner and Association responsibility cannot be made. Moreover, such items frequently involve matters of concern relative to the general health, safety and welfare of all of the occupants of The Building. Thus, certain costs which appear to benefit a single Owner but which affect other Owners are declared a common expense, especially when the correct functioning of an activity or element is integral to or supportive of the legally defined Common Elements and common expenses.
+
+COLUMN V: Certain Other Components Under Owner's Responsibility Without Respect to Ownership of the Component:  
+The items in this column are not intended to be exclusive and all-encompassing and do not affect responsibilities expressly provided for otherwise.
+
+
 EXHIBIT D
 TO THE CONDOMINIUM DECLARATION
 FOR THE WILDFLOWER CONDOMINIUMS
