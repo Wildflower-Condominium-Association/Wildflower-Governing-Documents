@@ -188,50 +188,29 @@ Basement Spaces
 This chart and the titles and headings used herein are not intended to describe or encompass all maintenance functions nor to delineate all respective responsibilities between the Owners, severally, and the Association. The placement of responsibility under any specific column does not always accurately reflect the precise character and nature of ownership. The appropriate sections of the Declaration determine ownership. In many cases maintenance responsibility is allocated to the Association to ensure central maintenance responsibility, uniformity and quality of repair, and to protect community health and safety. Where such maintenance is required due to the negligent or wrongful act or omission of an Owner (or members of his household, tenants, employees, agents, visitors, guests or pets), the Association will perform the necessary maintenance at the sole expense of the Owner.
 
 
-EXHIBIT D
-TO THE CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-LEGAL DESCRIPTION OF THE REAL PROPERTY
-WHICH MAY BE SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME
-IN LATER PHASES
-Lot 1 and
-Lot 2, Westfield Second Filing, a subdivision of a part of the City of Louisville,
-County of Boulder, State of Colorado;
+EXHIBIT D  
+TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
+
+LEGAL DESCRIPTION OF THE REAL PROPERTY WHICH MAY BE SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME IN LATER PHASES
+
+Lot 1 and  
+Lot 2, Westfield Second Filing, a subdivision of a part of the City of Louisville, County of Boulder, State of Colorado;
+
 LESS:
-All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of the
-Southeast quarter of Section 7, Township 1 South, Range 69 West of the 6th P.M.,
-City of Louisville, County of Boulder, State of Colorado, described as follows:
-Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence
-Southwesterly 37.50 feet along the arc of a curve to the left and along the
-Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of
-1'232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears
-South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along
-the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the
-arc of a curve to the right and along the Northwesterly line of said Lot 2, said
-curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is
-subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South
-28°34'10" East, 86.15 feet;thence North 89005'53" East, 77.05 feet; thence South
-00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point
-on the Southeasterly line of said Lot 2; thence North 00054'07" West, 13.76 feet
-along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet
-along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00
-feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00
-feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West,
-178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
-poP77
-b;A
-Sm le
-EXHIBIT E
-TO THE CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-THE RECORDING DATA FOR RECORDED EASEMENTS AND
-LICENSES WHICH THE PROJECT IS OR MAY BECOME SUBJECT TO
-(a) A right of way for a ditch and pipeline recorded in Book 172 at Page 336.
-(b) Such rights as may exist in ditches and laterals over that portion of land
-lying within the Davidson Ditch (Harper Branch) and Louisville Lateral of
-the South Boulder and Coal Creek Ditch, as shown on map on file in the
-office of the County Assessor of Boulder County, Colorado.
-(c) Utility and fire access easements as shown and noted on the recorded plat
-of Centennial Valley I Subdivision.
-All recordings are in the Office of the County Clerk and Recorder, Boulder
-County, Colorado.
+
+All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of the Southeast quarter of Section 7, Township 1 South, Range 69 West of the 6th P.M., City of Louisville, County of Boulder, State of Colorado, described as follows:  
+Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence Southwesterly 37.50 feet along the arc of a curve to the left and along the Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of 1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the arc of a curve to the right and along the Northwesterly line of said Lot 2, said curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South 28°34'10" East, 86.15 feet; thence North 89°05'53" East, 77.05 feet; thence South 00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point on the Southeasterly line of said Lot 2; thence North 00°54'07" West, 13.76 feet along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00 feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00 feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West, 178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
+
+
+EXHIBIT E  
+TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
+
+THE RECORDING DATA FOR RECORDED EASEMENTS AND LICENSES WHICH THE PROJECT IS OR MAY BECOME SUBJECT TO
+
+- (a) A right of way for a ditch and pipeline recorded in Book 172 at Page 336.
+
+- (b) Such rights as may exist in ditches and laterals over that portion of land lying within the Davidson Ditch (Harper Branch) and Louisville Lateral of the South Boulder and Coal Creek Ditch, as shown on map on file in the office of the County Assessor of Boulder County, Colorado.
+
+- (c) Utility and fire access easements as shown and noted on the recorded plat of Centennial Valley I Subdivision.
+
+All recordings are in the Office of the County Clerk and Recorder, Boulder County, Colorado.
