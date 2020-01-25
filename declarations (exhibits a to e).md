@@ -48,13 +48,22 @@ SCHEDULE OF MAINTENANCE RESPONSIBILITIES
 [The format of schedule is heavily modified from recorded version,
 but the content is otherwise as identical as possible.]
 
-Categories of Responsibility:
-1. Common Elements under Association Responsibility
-2. Limited Common Elements under Association Responsibility
-3. Unit Components under Association Responsibility
-4. Certain Other Components under Unit Owner's Responsibilities, Without Respect to Ownership Of the Components
+Maintenance Responsibilities:
+1. Common Elements Under Association Responsibility:  
+Responsibility for determining and providing for the maintenance, repair and replacement requirements of the Common Elements and determining the costs thereof shall be primarily the responsibility of the Board of Directors and such designees to which it may delegate certain such responsibilities.
+2. Limited Common Elements Under Association Responsibility:  
+Responsibility for determining the maintenance, repair and replacement requirements of the Common Elements shall be shared responsibility between the Board of Directors and the Owner of a Unit to which a specific Limited Common Element is exclusively appurtenant; provided, however, that the Board shall have the final responsibility for determining the need for and accomplishing such maintenance, repair and replacement activities.
+3. Unit Components Under Association Responsibility:  
+The items in this column are legally and by definition a part of a Unit but are attached or directly connected to or associated with the Common Elements and common expense items in such a way that a clear distinction between Owner and Association responsibility cannot be made. Moreover, such items frequently involve matters of concern relative to the general health, safety and welfare of all of the occupants of The Building. Thus, certain costs which appear to benefit a single Owner but which affect other Owners are declared a common expense, especially when the correct functioning of an activity or element is integral to or supportive of the legally defined Common Elements and common expenses.
+4. Certain Other Components Under Owner's Responsibility Without Respect to Ownership of the Component:  
+The items in this column are not intended to be exclusive and all-encompassing and do not affect responsibilities expressly provided for otherwise.
 
-Note: each item will list the categories under which it might fall, along with explanatory comments and/or descriptions for each category.
+Note: each maintenance function lists all maintenance responsibilities, along with explanatory comments if/when the function falls under that category.  
+For each maintenance function:
+1. Explanation of common element maintenance responsibility
+2. Explanation of limited common element maintenance responsibility
+3. Explanation of unit element under association maintenance responsibility
+4. Explanation of element under unit owner's maintenance responsibility
 
 Grounds, including all landscaped and paved areas and other improvements thereon lying outside the Buildings' foundations with the exceptions noted herein.
 1. All, in all regards.
@@ -176,24 +185,7 @@ Basement Spaces
 3. --
 4. All, in all regards.
 
-Notes
-
-Maintenance Responsibilities
-
 This chart and the titles and headings used herein are not intended to describe or encompass all maintenance functions nor to delineate all respective responsibilities between the Owners, severally, and the Association. The placement of responsibility under any specific column does not always accurately reflect the precise character and nature of ownership. The appropriate sections of the Declaration determine ownership. In many cases maintenance responsibility is allocated to the Association to ensure central maintenance responsibility, uniformity and quality of repair, and to protect community health and safety. Where such maintenance is required due to the negligent or wrongful act or omission of an Owner (or members of his household, tenants, employees, agents, visitors, guests or pets), the Association will perform the necessary maintenance at the sole expense of the Owner.
-
-COLUMN I: Items appearing in this column are illustrative and not exhaustive.
-
-COLUMN II: Common Elements Under Association Responsibility:  
-Responsibility for determining and providing for the maintenance, repair and replacement requirements of the Common Elements and determining the costs thereof shall be primarily the responsibility of the Board of Directors and such designees to which it may delegate certain such responsibilities.
-
-COLUMN III: Limited Common Elements Under Association Responsibility:   Responsibility for determining the maintenance, repair and replacement requirements of the Common Elements shall be shared responsibility between the Board of Directors and the Owner of a Unit to which a specific Limited Common Element is exclusively appurtenant; provided, however, that the Board shall have the final responsibility for determining the need for and accomplishing such maintenance, repair and replacement activities.
-
-COLUMN IV: Unit Components Under Association Responsibility:  
-The items in this column are legally and by definition a part of a Unit but are attached or directly connected to or associated with the Common Elements and common expense items in such a way that a clear distinction between Owner and Association responsibility cannot be made. Moreover, such items frequently involve matters of concern relative to the general health, safety and welfare of all of the occupants of The Building. Thus, certain costs which appear to benefit a single Owner but which affect other Owners are declared a common expense, especially when the correct functioning of an activity or element is integral to or supportive of the legally defined Common Elements and common expenses.
-
-COLUMN V: Certain Other Components Under Owner's Responsibility Without Respect to Ownership of the Component:  
-The items in this column are not intended to be exclusive and all-encompassing and do not affect responsibilities expressly provided for otherwise.
 
 
 EXHIBIT D
