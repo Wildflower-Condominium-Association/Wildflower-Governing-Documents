@@ -979,7 +979,7 @@ Subject to the provisions of ARTICLE TWELVE of the Declaration, each Unit in the
 | CA-12 |    885 |   5.74 |  
 | CA-13 |    938 |   6.08 |  
 | CA-14 |    747 |   4.84 |  
-| CA-15 |    938 |   6.05 |  
+| CA-15 |    938 |   6.08 |  
 | CA-16 |    885 |   5.74 |  
 | CA-17 |    938 |   6.08 |  
 | CA-18 |    885 |   5.74 |  
