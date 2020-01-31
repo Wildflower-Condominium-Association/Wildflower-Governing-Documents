@@ -96,255 +96,110 @@ BOULDER, CO 80301 (303) 449-9105
 
 
 EXHIBIT B
-TO THE EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-(NINTH PHASE)
-THE WILDFLOWER CONDOMINIUMS
+
+TO THE EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS (NINTH PHASE)
+
+THE WILDFLOWER CONDOMINIUMS  
 SCHEDULE OF PERCENTAGE INTEREST IN THE COMMON ELEMENTS
-Subject to the provisions of ARTICLE TWELVE of the Declaration, each Unit in The Project is
-hereby vested with an undivided percentage interest in and to the Common Elements as set
-forth below:
-UNIT NO.FINISHED SQ. FT. PERCENTAGE INTEREST
-PER UNIT PER UNIT
-1
-2
-3
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27Smile
-938 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-544 r 0.6840
-544 0.6840
-885 1.1128
-938 1.1794
-885 1.1128
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-747 0.9392
-938 1.1794
-93.8 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-747 0.9392
-938 1.1794
-Page 2 of Four
-EXHIBIT B
-TO THE EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-(NINTH  PHASE)
-UNIT NO.FINISHED SQ. FT. PERCENTAGE INTEREST
-PER UNIT PER UNIT
-2.8
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58.
-59
-60
-61
-62
-63
-64
-Smile
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-741 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 • 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-938 1.1794
-885 1.1128
-938 1.1794
-747 0.9392
-938 1.1794
-885 1.1128
-Page 3 of Four ci
-EXHIBIT B
-TO THE EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-(NINTH • PHASE)
-UNIT NO.FINISHED SQ. FT.PERCENTAGE INTEREST
-PER UNITPER UNIT
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-938
-885
-946
-752
-946
-891
-946
-891
-946
-752
-946
-891
-946
-891
-946
-752
-946
-891
-946
-891
-946
-752
-946
-891
-946
-891
-1.1794
-1.1128
-1.1895
-0.9455
-1.1895
-1.1203
-1.1895
-1.1203
-1.1895
-0.9455
-1.1895
-1.1203
-1.1895
-1.1203
-1.1895
-0.9455
-1.1895
-1.1203
-1.1895
-1.1203
-1.1895
-0.9455
-1.1895
-1.1203
-1.1895
-1.1203
-79,532100
-The Percentage Interest in the Common Elements of each Unit has been determined by the
-Declarant on the basis of the proportion which the approximate finished square footage
-area of each Apartment bears to the total approximate finished square footage area of all
-the Apartments in The Project (including Apartments created on the additional real property
-submitted to The Project). The square footage for each Apartment is based upon
-dimensions which tre approximate and calculation of the Percentage Interest has been
-rounded. The Pere ntage Interest in the Common Elements shown for each Unit is subject to
-change in accordance with ARTICLE TWELVE of the Declaration.
-'Page 4 of Four 9 17
-EXHIBIT B
-TO THE EIGHTH SUPPLEMENTAL-CONDOMINIUM DECLARATION
-FOR THE WILDFLOWER CONDOMINIUMS
-(NINTH PHASE)
-In the event the Declarant exercises its right to enlarge this Project in Phases by submitting
-to The Project additional real property in accordance with ARTICLE TWELVE of the
-Declaration, each Percentage Interest in the Common Elements set forth above will be de-
-creased. The Percentage Interest of each Unit will then be determined by the Declarant on
-the basis of the proportion which the approximate square footage finished area of each
-Apartment bears to the total approximate square footage finished area of all completed
-Apartments within The Project (including Apartments created on the additional real property
-submitted to The Project).
+
+Subject to the provisions of ARTICLE TWELVE of the Declaration, each Unit in The Project is hereby vested with an undivided percentage interest in and to the Common Elements as set forth below:
+
+| UNIT | FINISHED SQ. FT. PER UNIT | PERCENTAGE INTEREST PER UNIT |  
+| ---- | :----: | :----: |  
+1  | 938 | 1.1794
+2  | 747 | 0.9392
+3  | 938 | 1.1794
+4  | 885 | 1.1128
+5  | 938 | 1.1794
+6  | 885 | 1.1128
+7  | 938 | 1.1794
+8  | 544 | 0.6840
+9  | 544 | 0.6840
+10 | 885 | 1.1128
+11 | 938 | 1.1794
+12 | 885 | 1.1128
+13 | 885 | 1.1128
+14 | 938 | 1.1794
+15 | 885 | 1.1128
+16 | 938 | 1.1794
+17 | 747 | 0.9392
+18 | 938 | 1.1794
+19 | 938 | 1.1794
+20 | 747 | 0.9392
+21 | 938 | 1.1794
+22 | 885 | 1.1128
+23 | 938 | 1.1794
+24 | 885 | 1.1128
+25 | 938 | 1.1794
+26 | 747 | 0.9392
+27 | 938 | 1.1794
+28 | 885 | 1.1128
+29 | 938 | 1.1794
+30 | 885 | 1.1128
+31 | 938 | 1.1794
+32 | 747 | 0.9392
+33 | 938 | 1.1794
+34 | 885 | 1.1128
+35 | 938 | 1.1794
+36 | 885 | 1.1128
+37 | 938 | 1.1794
+38 | 747 | 0.9392
+39 | 938 | 1.1794
+40 | 885 | 1.1128
+41 | 938 | 1.1794
+42 | 885 | 1.1128
+43 | 938 | 1.1794
+44 | 747 | 0.9392
+45 | 938 | 1.1794
+46 | 885 | 1.1128
+47 | 938 | 1.1794
+48 | 885 | 1.1128
+49 | 938 | 1.1794
+50 | 747 | 0.9392
+51 | 938 | 1.1794
+52 | 885 | 1.1128
+53 | 938 | 1.1794
+54 | 885 | 1.1128
+55 | 938 | 1.1794
+56 | 747 | 0.9392
+57 | 938 | 1.1794
+58 | 885 | 1.1128
+59 | 938 | 1.1794
+60 | 885 | 1.1128
+61 | 938 | 1.1794
+62 | 747 | 0.9392
+63 | 938 | 1.1794
+64 | 885 | 1.1128
+65 | 938 | 1.1794
+66 | 885 | 1.1128
+67 | 946 | 1.1895
+68 | 752 | 0.9455
+69 | 946 | 1.1895
+70 | 891 | 1.1203
+71 | 946 | 1.1895
+72 | 891 | 1.1203
+73 | 946 | 1.1895
+74 | 752 | 0.9455
+75 | 946 | 1.1895
+76 | 891 | 1.1203
+77 | 946 | 1.1895
+78 | 891 | 1.1203
+79 | 946 | 1.1895
+80 | 752 | 0.9455
+81 | 946 | 1.1895
+82 | 891 | 1.1203
+83 | 946 | 1.1895
+84 | 891 | 1.1203
+85 | 946 | 1.1895
+86 | 752 | 0.9455
+87 | 946 | 1.1895
+88 | 891 | 1.1203
+89 | 946 | 1.1895
+90 | 891 | 1.1203
+
+
+79,532 100
+
+The Percentage Interest in the Common Elements of each Unit has been determined by the Declarant on the basis of the proportion which the approximate finished square footage area of each Apartment bears to the total approximate finished square footage area of all the Apartments in The Project (including Apartments created on the additional real property submitted to The Project). The square footage for each Apartment is based upon dimensions which are approximate and calculation of the Percentage Interest has been rounded. The Percentage Interest in the Common Elements shown for each Unit is subject to change in accordance with ARTICLE TWELVE of the Declaration.
+
+In the event the Declarant exercises its right to enlarge this Project in Phases by submitting to The Project additional real property in accordance with ARTICLE TWELVE of the Declaration, each Percentage Interest in the Common Elements set forth above will be decreased. The Percentage Interest of each Unit will then be determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to The Project).
