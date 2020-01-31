@@ -1,137 +1,48 @@
-001393718 02/10/94 09:41 AM REAL ESTATE RECORDS
-F1940 CHARLOTTE HOUSTON BOULDER CNTY CO RECORDER
-EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION
-FOR
-THE WILDFLOWER CONDOMINIUMS
-THIS EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION FOR THE
-WILDFLOWER CONDOMINIUMS is made this rAL day of r-6AR0/14E-i
-1994, by MCSTAIN ENTERPRISES, INC., a Colorado corporation, (herein
-referred to as the "Declarant").
+EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
+
+THIS EIGHTH SUPPLEMENTAL CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS is made this 9th day of February, 1994, by MCSTAIN ENTERPRISES, INC., a Colorado corporation, (herein referred to as the "Declarant").
+
 WITNESSETH:
-WHEREAS, the Declarant has recorded with the Clerk and
-Recorder of Boulder County, Colorado, on the 21st day of September,
-1983, on Film 1322 as Reception No. 647944, The Condominium
-Declaration for the Wildflower Condominiums (herein referred to as
-the "Declaration") together with Supplemental Declarations for The
-Wildflower Condominiums thereto recorded in said Boulder County
-records, submitting certain land described therein together with
-all improvements, appurtenances and facilities thereon to
-condominium ownership under the Condominium Ownership Act of the
-State of Colorado, as amended, hereinafter referred to as the
-"Project"; and,
-WHEREAS, the Declarant has reserved the right to expand, in
-accordance with Article Twelve of the Declaration, such expansion
-to be accomplished by the filing for record by Declarant in the
-Office of the Clerk and Recorder for Boulder County, Colorado, a
-Supplemental Condominium Declaration andia Supplemental Condominium
-Map; and
-WHEREAS, the Declarant has further improved the Property
-adding 6 condominium units to the Project and desires to subject
-and place upon this expanded Project the covenants, conditions,
-restrictions, easements, reservations, rights of way and other
-charges as set fokth in the Declaration which is for the purpose of
-protecting the value and desirability of the expanded Project and
-the health, comfort, safety, convenience and general welfare of the
-Owners thereof as defined in the Declaration.
-1. Declarant hereby submits to the presently existing
-condominium Units, the additional condominium Units,
-improvements, appurtenances and facilities located on the
-land described on Exhibit A attached hereto and by this
-reference made a part hereof, herein referred to as
-"Property" to condominium ownership under Section 38-33-
-101, et.seq., of the Colorado Revised Statutes and hereby
-imposes upon all of the Property the covenants,
-conditions, restrictions, easements, reservations, rights
-of way and other provisions set forth in the Declaration.
-The Declarant hereby declares that all of the Property
-and any property hereinafter annexed hereto shall
-hereinafter be held, sold, conveyed, encumbered, leased,
-rented, occupied and improved subject to the following
-paragraph.
-2. Each Owner's individual percentage interest in the
-original and expanded Common Elements of the Project has been
-determined by the recording of the Condominium Declaration and
-Amendments thereto for the Wildflower Condominiums and the
-Condominium Map and amendments thereto of the Wildflower
-Condominium (herein referred to as the "Map"). Such
-percentage interest in the Common Elements is determined by
-the Declarant on the basis of the proportion which the
-approximate square footage finished area of each Unit bears to
-the total approximate square footage finished area of all
-Units in the Project (including Units created on the
-additional real property submitted to the Project). The
-square footage for each Unit is based upon dimensions which
-are approximate and the calculation of the individual
-interests have been rounded. Such revised percentage
-interests in the Common Elements are more specifically set
-forth on Exhibit B attached hereto. The percentage interest
-shown for each Unit is subject to change in accordance with
-Article Twelve of the Declaration.
-3. The definitions used in the Declaration shall be
-expanded automatically to encompass and refer to—the
-Project as expanded. All conveyances of Condominium
-Units shall be effective to transfer rights in the
-Project as expanded by use of the form of description set
-forth in Paragraph 2.3 of the Declaration and the Map as
-supplemented. The recordation in the records of Boulder
-County, Colorado of the Supplemental Maps incident to the
-expansion operates automatically to grant, transfer, and
-convey to the Owners of the Condominium Units as they
-existed before this expansion respectively an undivided
-percentage interest as set forth on Exhibit "B" attached
-hereto in the new Common Elements being added to the
-Project as the result of such expansion. Such
-recordation also operates to vest in any Mortgagee (as
-defined in the Declaration) of any Condominium Unit in
-the Project as it existed before this expansion a
-security interest in the new undivided Common Elements
-interest so acquired by an Owner of a Condominium Unit
-which were added to the Project as the result of
-expansion.
-4. The new Condominium Units are subject to all of the
-terms and conditions of the Declaration as supplemented
-and such Condominium Units are subject to the condominium
-regime with all the incidents pertaining thereto as
-specified therein and herein upon placing the
-2
-Supplemental maps and the Supplemental Declarations of
-public record in the real estate records of Boulder
-County, Colorado.
-5. Each Owner and Condominium Unit shall be liable for
-its respective proportionate share of the Annual
-Assessment for Common Expenses and Special Assessments in
-accordance with Article Five of the Declaration.
-6. The Owners of each Condominium Unit now or hereafter
-included in the Condominium Project shall have a
-perpetual easement and right-of-way for access to and
-from such Condominium Unit over, upon and across the
-Common Elements to and from the public streets within and
-adjacent to the Project.
-IN WITNESS WHEREOF, the Declarant has executed this Eighth
-Supplemental Declaration for the Wildflower tondominiums the year
-and day first above written.
-AT T E S T:,
-f r
-• •if:' •
-'A; " '-• , , .* " ,
-‘ToaAT..op C01'ORADO
-:. 7,• e  oi ...-
-: :,1.-. Vtil
-4:111NTY.* Ft-BOULDER
-ANAVOt d ,
-)SS.
-MC ERP INC.,
-A C 0
-1
-;.The_foregoing instrument was acknowledged before me this
-day of ret30-134Vitsi  , 1994 by THOMAS R. HOYT, President and
-RICHARD MIYAMOTO, Secretary of McStain Enterprises, Inc., a
-Colorado corporation.
+
+WHEREAS, the Declarant has recorded with the Clerk and Recorder of Boulder County, Colorado, on the 21st day of September, 1983, on Film 1322 as Reception No. 647944, The Condominium Declaration for the Wildflower Condominiums (herein referred to as the "Declaration") together with Supplemental Declarations for The Wildflower Condominiums thereto recorded in said Boulder County records, submitting certain land described therein together with all improvements, appurtenances and facilities thereon to condominium ownership under the Condominium Ownership Act of the State of Colorado, as amended, hereinafter referred to as the "Project"; and,
+
+WHEREAS, the Declarant has reserved the right to expand, in accordance with Article Twelve of the Declaration, such expansion to be accomplished by the filing for record by Declarant in the Office of the Clerk and Recorder for Boulder County, Colorado, a Supplemental Condominium Declaration and a Supplemental Condominium Map; and
+
+WHEREAS, the Declarant has further improved the Property adding 6 condominium units to the Project and desires to subject and place upon this expanded Project the covenants, conditions, restrictions, easements, reservations, rights of way and other charges as set forth in the Declaration which is for the purpose of protecting the value and desirability of the expanded Project and the health, comfort, safety, convenience and general welfare of the Owners thereof as defined in the Declaration.
+
+  1. Declarant hereby submits to the presently existing condominium Units, the additional condominium Units, improvements, appurtenances and facilities located on the land described on Exhibit A attached hereto and by this reference made a part hereof, herein referred to as "Property" to condominium ownership under Section 38-33-101, et. seq., of the Colorado Revised Statutes and hereby imposes upon all of the Property the covenants, conditions, restrictions, easements, reservations, rights of way and other provisions set forth in the Declaration. The Declarant hereby declares that all of the Property and any property hereinafter annexed hereto shall hereinafter be held, sold, conveyed, encumbered, leased, rented, occupied and improved subject to the following paragraph.
+
+  2. Each Owner's individual percentage interest in the original and expanded Common Elements of the Project has been determined by the recording of the Condominium Declaration and Amendments thereto for the Wildflower Condominiums and the Condominium Map and amendments thereto of the Wildflower Condominium (herein referred to as the "Map"). Such percentage interest in the Common Elements is determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Unit bears to the total approximate square footage finished area of all Units in the Project (including Units created on the additional real property submitted to the Project). The square footage for each Unit is based upon dimensions which are approximate and the calculation of the individual interests have been rounded. Such revised percentage interests in the Common Elements are more specifically set forth on Exhibit B attached hereto. The percentage interest shown for each Unit is subject to change in accordance with Article Twelve of the Declaration.
+
+  3. The definitions used in the Declaration shall be expanded automatically to encompass and refer to the Project as expanded. All conveyances of Condominium Units shall be effective to transfer rights in the Project as expanded by use of the form of description set forth in Paragraph 2.3 of the Declaration and the Map as supplemented. The recordation in the records of Boulder County, Colorado of the Supplemental Maps incident to the expansion operates automatically to grant, transfer, and convey to the Owners of the Condominium Units as they existed before this expansion respectively an undivided percentage interest as set forth on Exhibit "B" attached hereto in the new Common Elements being added to the Project as the result of such expansion. Such recordation also operates to vest in any Mortgagee (as defined in the Declaration) of any Condominium Unit in the Project as it existed before this expansion a security interest in the new undivided Common Elements interest so acquired by an Owner of a Condominium Unit which were added to the Project as the result of expansion.
+
+  4. The new Condominium Units are subject to all of the terms and conditions of the Declaration as supplemented and such Condominium Units are subject to the condominium regime with all the incidents pertaining thereto as specified therein and herein upon placing the Supplemental maps and the Supplemental Declarations of public record in the real estate records of Boulder County, Colorado.
+
+  5. Each Owner and Condominium Unit shall be liable for its respective proportionate share of the Annual Assessment for Common Expenses and Special Assessments in accordance with Article Five of the Declaration.
+
+  6. The Owners of each Condominium Unit now or hereafter included in the Condominium Project shall have a perpetual easement and right-of-way for access to and from such Condominium Unit over, upon and across the Common Elements to and from the public streets within and adjacent to the Project.
+
+IN WITNESS WHEREOF, the Declarant has executed this Eighth Supplemental Declaration for the Wildflower Condominiums the year and day first above written.
+
+ATTEST:
+[Richard Miyamoto], Secretary
+
+MCSTAIN ENTERPRISES, INC., A COLORADO CORPORATION
+By: [Thomas R. Hoyt], President
+
+    STATE OF COLORADO )
+                      ) ss.
+    COUNTY OF BOULDER )
+
+The foregoing instrument was acknowledged before me this 9th day of February, 1994 by THOMAS R. HOYT, President and RICHARD MIYAMOTO, Secretary of McStain Enterprises, Inc., a Colorado corporation.
+
 Witness my hand and official seal.
-My commission expires:
-I
-Notary Public
-3
+
+My commission expires: 12-7-96
+
+[Jane V. Hunt], Notary Public
+
+
 EXHIBIT A
 ' LEGAL DESCRIPTION
 ALL THAT PORTION OF LOT 2, WESTFIELD SECOND FILING, A SUBDIVISION OF A PART OF THE
