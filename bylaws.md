@@ -179,7 +179,7 @@ It shall be the duty of the Board of Directors to:
 - (l) furnish upon demand and for a reasonable charge, a Certificate to an Owner or such Owner's First Mortgagee signed by an officer of the Association setting forth whether the assessments on a specified Unit have been paid. A properly executed Certificate of the Association as to the status of the assessments on a Unit is binding on the Association as of the date of its issuance; and
 - (m) cause all officers or employees having fiscal responsibilities to be bonded, in accordance with the Declaration; and
 - (n) provide for each Condominium Apartment, utilities as the Board shall deem necessary and proper or as required by the Declaration; and
-- (o) grant.easements and licenses through or over the Common Elements; and
+- (o) grant easements and licenses through or over the Common Elements; and
 - (p) make contracts and incur liabilities; and
 - (q) borrow money, providing such security as is necessary, providing that such borrowing has the prior written approval of two-thirds of each class of Members; and
 - (r) exercise any other powers necessary for the proper governing and operation of the Association; and
