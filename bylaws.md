@@ -269,7 +269,7 @@ The Association will operate a swimming pool and changing rooms which shall be l
 IN WITNESS WHEREOF, the undersigned have hereunto set their hands this 8th day of August, 1984.
 
 THE WILDFLOWER CONDOMINIUM ASSOCIATION  
-[illegible], Director  
+Thomas R. Hoyt, Director  
 Jeanne Ryan, Director  
 [illegible], Director  
 
