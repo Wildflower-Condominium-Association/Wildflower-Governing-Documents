@@ -1,51 +1,41 @@
-o 7
-ARTICI FS OP IN cotteOR ATION
-0-7
-TUE WILDFLOWER COi.f)ONIINIUM ASSOCIATION
-The undersigned acting es incorporator under the Colortvio Nrenprof:t orporatien
-Act adopts the following Articles of Incorp- ation for such Corporation.
-ARTICLE ONE - NAME: The name of the Corporation in Ttl I (T Dr Low}, R ON DO!,I1
-NIU M ASSOCIATION, hereinafter referred to Al the "Assoc.', .14 ,1".
-ARTICLE TWO -DURATION: The . weociat!on shell exist oerNtuallv.
-ARTICLE THREE - REGISTERED OFFICE IID REGISTERED AGENT: The addre_s of
-the kssocietIon's initial registered office an the name of the initial registered agent at
-that address is as follows:
-ta) R sgistered Agent: Thom es P. Ilovt
-ib) Rogistered Office: 4730 Table Mesa Drive
-Boulder, Colorado 90303
-ARTICLE POUR - PURPOSE AN!) POWERS OF TNI. ASSOCIATION: This Association
-do' not contemplate pecuniary gain or profit to the Members thereof. The pirposes for
-which the Association are formed are to govern tne residential eommunity in the
-City of Louisville and Count- ' Boulder, State of Celcratec which is known ae 'I HE
-WILDFLOWER C:.,Z;Z/sOlviii,.. , hereinafter referre,, to as "The Pretect", end to
-Advance, eepresent and serve the fiscal and econo-,ric best interests of all of the
-Members of the Association in all matters relating lc their general welfYre and their best
-interests In the administrot:er, management arid peretinn of the Association and for
-then* ptoxee- subject to the restrictilMS (son tined in ARTICLE TEN hereof to:
-(a) exercise all ce the powers .""I celvflet—e and perform all of the dutic-, and
-cbligatione of the Asesociarien ae set forth :n that certain CONDOMINIUM DECLARA-
-TION OF THE WILDFLOWER CONDOMIKILOM, hereinafter referred to as the
-"Leclaratien", epnlieeble to The Project et-i recorded agginst The Project in the records
-of the antidote County Cleft, and Recorder, boulter, Colorado, as thrsame Toay he fur-
-ther emended and supplemented from time to time es therein provides* said Decituntinn
-being Incorporated herein as If set forth at length, end
-c.)
-(b) fix, 4- • collect end enforce payment by itn:r lawful Iv Vall cheree or
-anseeiments levied pursuant to the terms of the Decleratitn; to pay a erpennee incid4 rt
-to tho conduct of the bust MA: of the Associab ore and r-
-sr
-Smile
-le) perticipett in mergers and eonsoHtetio%s wit;' other 7,oripeof,: co Toretioo4
-Organir .0 for the serve purposes and Annex additions] residentla; peopert..: pro,ided thy;
-;sly soct merger consolidation or mi./Kati on stall helve the wttItt en assent of sixty-seven
-pse vent of each class of Members; provided however, additions reeldrntini proporty
-within a^ area dosed, ..•sd on Exhibit "D" of the Perforation be hrongnt within tt-A
-jurisdielion of the Association within five years of the reoording of t he Declaration
-reouirinf only the arevent of one hundred percent of the Clues B Merit-peril; end
-(d) have and to exercise any and all powers, rights eta', o ivilegrs which 4 co: t,..
-oration organized under the Nonprofit Corporation Laws of the S' Ite of r'olorraelo by law
-may now ar hereafter have or exercise.
-ARTICLE FIVE - MEMBERSHIP: Each Owner of a Creoo.pini.ir, Unit tier...Metter re
+
+ARTICLES OF INCORPORATION
+OF
+THE WILDFLOWER CONDOMINIUM ASSOCIATION
+
+The undersigned acting as incorporator under the Colorado Nonprofit Corporation Act adopts the following Articles of Incorporation for such Corporation.
+
+
+ARTICLE ONE - NAME:  
+The name of the Corporation is THE WILDFLOWER CONDOMINIUM ASSOCIATION, hereinafter referred to as the "Association".
+
+ARTICLE TWO - DURATION:  
+The Association shall exist perpetually.
+
+ARTICLE THREE - REGISTERED OFFICE AND REGISTERED AGENT:  
+The address of the Association's initial registered office and the name of the initial registered agent at that address is as follows:
+
+- (a) Registered Agent:  
+	Thomas R. Hoyt
+	
+- (b) Registered Office:  
+	4730 Table Mesa Drive  
+	Boulder, Colorado 80303
+
+
+ARTICLE FOUR - PURPOSE AND POWERS OF THE ASSOCIATION:  
+This Association does not contemplate pecuniary gain or profit to the Members thereof. The purposes for which the Association are formed are to govern the residential community in the City of Louisville and County of Boulder, State of Colorado which is known ae THE WILDFLOWER CONDOMINUMS, hereinafter referred to as "The Project", and to advance, represent and serve the fiscal and economic best interests of all of the Members of the Association in all matters relating to their general welfare and their best interests in the administration, management and operation of the Association and for these purposes subject to the restrictions contained in ARTICLE TEN hereof to:
+
+- (a) exercise all of the powers and privileges and perform all of the duties and obligations of the Association as set forth in that certain CONDOMINIUM DECLARATION OF THE WILDFLOWER CONDOMINIUMS, hereinafter referred to as the "Declaration", applicable to The Project and recorded against The Project in the records of the Boulder County Clerk and Recorder, Boulder, Colorado, as the same may be further amended and supplemented from time to time as therein provided,  said Declaration being incorporated herein as if set forth at length, and
+
+- (b) fix, levy, collect end enforce payment by any lawful means all charges or assessments levied pursuant to the terms of the Declaration; to pay all expenses incident to the conduct of the business of the Association; and
+
+- (c) participate in mergers and consolidations with other nonprofit corporations organized for the same purposes and annex additional residential property; provided that any such merger consolidation or annexation shall have the written assent of sixty-seven percent of each class of Members; provided however, additional residential property within an area described on Exhibit "D" of the Declaration may be brought within the jurisdiction of the Association within five years of the recording of the Declaration requiring only the assent of one hundred percent of the class B Members; and
+
+- (d) have and to exercise any and all powers, rights and privileges which a corporation organized under the Nonprofit Corporation Laws of the State of Colorado by law may now or hereafter have or exercise.
+
+ARTICLE FIVE - MEMBERSHIP:  
+Each Owner of a Creoo.pini.ir, Unit tier...Metter re
 re-red to as "Unit" in THE NILDFLOWER CONY xr) vi.:111.1vf?, inol sling the Declarant a-
 riefned in the Declaration, long as It evil! he an Owner, shot' automAticelly be A
 member of the Association; provided that any such person or entity who holds such
