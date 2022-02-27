@@ -112,7 +112,7 @@ SIX: RESTRICTIVE COVENANTS AND OBLIGATIONS
 
 SEVEN: INSURANCE  
 7.1 Authority to Purchase/General Requirements  
-7.2 Hazard Insurance  
+[7.2](#7.2) Hazard Insurance  
 7.3 Liability Insurance  
 7.4 Fidelity Insurance  
 7.5 Additional Insurance  
@@ -615,7 +615,7 @@ The name of the insured under the policies shall be the Association for the use 
 
 All insurance policies shall contain the standard mortgagee clause or equivalent endorsement (without contribution) in which it appropriately names the First Mortgagee in the policy, its successors and assigns, beneficiary.
 
-7.2 Hazard Insurance.  
+7.2 <a id="7.2"></a>Hazard Insurance.  
 The Board of Directors shall obtain and maintain a blanket, "all-risk" form policy of hazard insurance with extended coverage, vandalism, malicious mischief, windstorm, sprinkler leakage (if applicable), debris removal, cost of demolition and water damage endorsements, insuring all the Common Elements and Limited Common Elements within The Project including fixtures, machinery, equipment and supplies maintained for the service of The Project, as well as common personal property belonging to the Association. Such insurance shall be in the amount of the full current replacement cost, as defined below, to include, among other things, all fixtures, improvements, alterations and equipment, comprising a part of the individual Apartment within the unfinished interior surfaces of the perimeter walls, floors and ceilings of the Apartment initially installed or replacements thereof, in accordance with the original Plans and specifications, or installed by or at the expense of the Owner and provide that all claims are to be settled on a replacement cost basis. All references herein to a "blanket" type policy of property insurance, are intended to denote "Single Entity" condominium insurance coverage.
 
 In addition, any fixtures, equipment or other property within the Apartments which are to be financed by a First Mortgagee (regardless of whether or not such property is a part of the Common Elements) must be covered in such "blanket" policy.
