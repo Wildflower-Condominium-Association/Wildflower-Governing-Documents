@@ -174,15 +174,15 @@ FOURTEEN: GENERAL PROVISIONS
 [14.9](#14.9) Captions  
 [14.10](#14.10) Numbers and Genders
 
-Exhibit A: Legal Description of the Real Property Submitted to The Wildflower Condominium Regime
+[Exhibit A](#A): Legal Description of the Real Property Submitted to The Wildflower Condominium Regime
 
-Exhibit B: Schedule of Percentage Interests in the Common Elements
+[Exhibit B](#B): Schedule of Percentage Interests in the Common Elements
 
-Exhibit C: Schedule of Maintenance Responsibilities
+[Exhibit C](#C): Schedule of Maintenance Responsibilities
 
-Exhibit D: Legal Description of the Real Property Which May Be Submitted to The Wildflower Condominium Regime in Later Phases
+[Exhibit D](#D): Legal Description of the Real Property Which May Be Submitted to The Wildflower Condominium Regime in Later Phases
 
-Exhibit E: The Recording Data for Easements Affecting The Project
+[Exhibit E](#E): The Recording Data for Easements Affecting The Project
 
 
 THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
@@ -191,7 +191,8 @@ THIS DECLARATION, made and entered into by McSTAIN ENTERPRISES, INC., a Colorado
 
 PREAMBLE  
 WHEREAS, the Declarant is the owner of the real property situated in the County of Boulder, State of Colorado, which is described as:
-> See legal description attached hereto as Exhibit "A"
+
+> See legal description attached hereto as Exhibit ["A"](#A)
 
 hereinafter referred to as "THE PROPERTY"; and
 WHEREAS, the Declarant desires to establish a Condominium Project under the Condominium Ownership Act of the State of Colorado, to wit: Colo. Rev. Stat. Ann. § 38-33-101, et seq.; and
@@ -284,7 +285,7 @@ The Map and any supplement(s) thereto is hereby incorporated herein by reference
 ARTICLE TWO: NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP
 
 2.1 <a id="2.1"></a>Division into Units, Estates of an Owner.  
-Subject to the provisions of ARTICLE TWELVE hereof, the Project is hereby divided into eighteen Units, each consisting of a separate fee simple estate in a particular Condominium Apartment, and an appurtenant undivided fee simple interest in the Common Elements. The undivided interest in the Common Elements appurtenant to a particular Condominium Apartment has been determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all Apartments in The Project and is as set forth in Exhibit "B" attached hereto and incorporated herein.
+Subject to the provisions of ARTICLE TWELVE hereof, the Project is hereby divided into eighteen Units, each consisting of a separate fee simple estate in a particular Condominium Apartment, and an appurtenant undivided fee simple interest in the Common Elements. The undivided interest in the Common Elements appurtenant to a particular Condominium Apartment has been determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all Apartments in The Project and is as set forth in Exhibit ["B"](#B) attached hereto and incorporated herein.
 
 2.2 <a id="2.2"></a>Title.  
 A Unit may be held and owned by more than one person as joint tenants or as tenants in common, or in any real property tenancy relationship recognized under the laws of the State of Colorado.
@@ -399,7 +400,7 @@ In the event the Association or an Owner wishes to utilize solar energy, the Ass
 Upon approval of the easements, the Board of Directors shall promptly record the easements, identifying the Common Elements affected. Such easements must be granted within twenty years of the date of the recording of this Declaration and shall at all times comply with the provisions of Colo. Rev. Stat. Ann. §38-32:5-100.3. The installation of the solar energy system shall be done under the supervision of the Board of Directors.
 
 3.9 <a id="3.9"></a>Recording Data Regarding Easements.  
-The recording data for recorded easements and licenses appurtenant thereto, or included in The Project or to which any portion of The Project is or may become subject are identified on Exhibit "E" attached hereto.
+The recording data for recorded easements and licenses appurtenant thereto, or included in The Project or to which any portion of The Project is or may become subject are identified on Exhibit ["E"](#E) attached hereto.
 
 3.10 <a id="3.10"></a>Sump Pump Maintenance Easement.  
 In the event a sump pump is located in a Unit's Basement Space to be used to remove excess ground water if found, the Owner of the Basement Space shall permit a right of entry to the Board of Directors or any other person authorized by the Board for access through such Owner's Condominium Apartment and Basement Space to the sump pump from time to time as may be necessary for the routine maintenance, repair and/or replacement of said sump pump. Notice of entry shall be in accordance with Paragraph [3.4](#3.4) hereof.
@@ -686,7 +687,7 @@ The Association shall be responsible for the maintenance, repair and replacement
 - (c) <a id="8.2c"></a>Any Owner permitted by the Board of Directors to use a specific portion of the Common Elements for storage is responsible for the use of such portion in a safe and sanitary manner.
 
 8.3 <a id="8.3"></a>Schedule of Maintenance Responsibilities.  
-Notwithstanding the general provisions for maintenance set forth above, specific maintenance responsibilities and the costs attributable thereto shall, to the extent set forth thereon, be determined pursuant to the Schedule of Maintenance Responsibilities attached as Exhibit C hereto.
+Notwithstanding the general provisions for maintenance set forth above, specific maintenance responsibilities and the costs attributable thereto shall, to the extent set forth thereon, be determined pursuant to the Schedule of Maintenance Responsibilities attached as Exhibit ["C"](#C) hereto.
 
 8.4 <a id="8.4"></a>Manner of Repair and Replacement.  
 All repairs and replacements shall be substantially similar to the original construction and installation and shall be of first-class quality, but may be done with contemporary building materials and equipment.
@@ -831,7 +832,7 @@ Owners and their mortgagees shall have the right to examine the books and record
 ARTICLE TWELVE: EXPANSION
 
 12.1 <a id="12.1"></a>Reservation of Right to Expand.  
-Declarant reserves the right (without in any way being bound) to enlarge this condominium project in phases by submitting to The Project from time to time a Supplemental Condominium Map and Supplemental Declaration adding any of the real property described on Exhibit "D" attached hereto. The total number of condominium units in The Project as expanded shall not exceed one hundred sixty-eight Units.
+Declarant reserves the right (without in any way being bound) to enlarge this condominium project in phases by submitting to The Project from time to time a Supplemental Condominium Map and Supplemental Declaration adding any of the real property described on Exhibit ["D"](#D) attached hereto. The total number of condominium units in The Project as expanded shall not exceed one hundred sixty-eight Units.
 
 If The Project has been or is to be approved by the Federal Housing Administration and/or the Veterans Administration, any such addition, expansion or annexation must be according to a General Plan heretofore filed with and approved by the Federal Housing Administration or the Veterans Administration and such addition, expansion or annexation must be supported by the written consent of the Federal Housing Administration or the Veterans Administration, evidence of which may be recorded.
 
@@ -854,7 +855,7 @@ The Owners at the time of their purchase of a Condominium Unit which has been br
 Whenever any additional property is brought into the Condominium Project, the interest of each owner of a Condominium Unit in the Common Elements in The Project after such addition shall be determined by the Declarant on the basis of the proportion which the approximate finished square footage area of each Apartment bears to the total approximate finished square footage area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to The Project). The finished square footage area of each Apartment is based upon dimensions which are approximate and the calculation of the percentage interest has been rounded. The Supplemental Declaration recorded at the time of expansion shall set forth the new percentage ownership interests of the existing Units and of the newly added Units.
 
 12.6 <a id="12.6"></a>Taxes, Assessments and Other Liens.  
-All taxes and other assessments relating to the real property described in Exhibit "D" covering any period of time prior to the addition of such property or any portion thereof to The Project must be paid or otherwise provided for by the Declarant to the satisfaction of all First Mortgagees.
+All taxes and other assessments relating to the real property described in Exhibit ["D"](#D) covering any period of time prior to the addition of such property or any portion thereof to The Project must be paid or otherwise provided for by the Declarant to the satisfaction of all First Mortgagees.
 
 Liens arising out of the construction of improvements in later phases shall not extend into prior phases and shall not adversely affect the rights of Owners or the priority of first mortgages and deeds of trusts on any Unit constructed in a prior phase.
 
@@ -949,7 +950,7 @@ Barbara J. Peterson, NOTARY PUBLIC
 ADDRESS:  4730 Table Mesa Dr., Boulder, CO 80303
 
 
-EXHIBIT A  
+EXHIBIT A<a id="A"></a>  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 LEGAL DESCRIPTION OF THE REAL PROPERTY SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME FIRST PHASE
@@ -957,7 +958,8 @@ LEGAL DESCRIPTION OF THE REAL PROPERTY SUBMITTED TO THE WILDFLOWER CONDOMINIUM R
 All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of the Southeast quarter of Section 7, Township 1 South, Range 69 West of the 6th P.M., City of Louisville, County of Boulder, State of Colorado, described as follows:  
 Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence Southwesterly 37.50 feet along the arc of a curve to the left and along the Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of 1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the arc of a curve to the right and along the Northwesterly line of said Lot 2, said curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South 28°34'10" East, 86.15 feet; thence North 89°05'53" East, 77.05 feet; thence South 00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point on the Southeasterly line of said Lot 2; thence North 00°54'07" West, 13.76 feet along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00 feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00 feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West, 178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
 
-EXHIBIT B  
+
+EXHIBIT B<a id="B"></a>  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 THE WILDFLOWER CONDOMINIUMS SCHEDULE OF PERCENTAGE INTERESTS IN THE COMMON ELEMENTS (FIRST PHASE)
@@ -991,7 +993,7 @@ The percentage interest in the Common Elements of each Unit has been determined 
 In the event the Declarant exercises its right to enlarge this Project in Phases by submitted to the Project additional real property In accordance with ARTICLE TWELVE of the Declaration, each percentage interest in the Common Elements set forth above will decrease. The Percentage Interest of each Unit will then be determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to the Project).
 
 
-EXHIBIT C  
+EXHIBIT C<a id="C"></a>  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 SCHEDULE OF MAINTENANCE RESPONSIBILITIES  
@@ -1139,7 +1141,7 @@ Basement Spaces
 This chart and the titles and headings used herein are not intended to describe or encompass all maintenance functions nor to delineate all respective responsibilities between the Owners, severally, and the Association. The placement of responsibility under any specific column does not always accurately reflect the precise character and nature of ownership. The appropriate sections of the Declaration determine ownership. In many cases maintenance responsibility is allocated to the Association to ensure central maintenance responsibility, uniformity and quality of repair, and to protect community health and safety. Where such maintenance is required due to the negligent or wrongful act or omission of an Owner (or members of his household, tenants, employees, agents, visitors, guests or pets), the Association will perform the necessary maintenance at the sole expense of the Owner.
 
 
-EXHIBIT D  
+EXHIBIT D<a id="D"></a>  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 LEGAL DESCRIPTION OF THE REAL PROPERTY WHICH MAY BE SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME IN LATER PHASES
@@ -1153,7 +1155,7 @@ All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of t
 Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence Southwesterly 37.50 feet along the arc of a curve to the left and along the Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of 1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the arc of a curve to the right and along the Northwesterly line of said Lot 2, said curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South 28°34'10" East, 86.15 feet; thence North 89°05'53" East, 77.05 feet; thence South 00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point on the Southeasterly line of said Lot 2; thence North 00°54'07" West, 13.76 feet along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00 feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00 feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West, 178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
 
 
-EXHIBIT E  
+EXHIBIT E<a id="E"></a>  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 THE RECORDING DATA FOR RECORDED EASEMENTS AND LICENSES WHICH THE PROJECT IS OR MAY BECOME SUBJECT TO
