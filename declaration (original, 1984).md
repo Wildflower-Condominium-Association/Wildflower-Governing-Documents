@@ -14,7 +14,7 @@ TABLE OF CONTENTS
 
 PREAMBLE
 
-ONE: DEFINITIONS  
+ONE: [DEFINITIONS](#ONE)
 [1.1](#1.1) Articles  
 [1.2](#1.2) Assessments  
 [1.3](#1.3) Association  
@@ -39,7 +39,7 @@ ONE: DEFINITIONS
 [1.22](#1.22) The Map  
 [1.23](#1.23) VA and/or FHA Approval
 
-TWO: NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP  
+TWO: [NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP](#TWO)  
 [2.1](#2.1) Division into Units, Estates of an Owner  
 [2.2](#2.2) Title  
 [2.3](#2.3) Description of a Condominium Unit  
@@ -59,7 +59,7 @@ TWO: NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP
 [2.17](#2.17) Storage Spaces  
 [2.18](#2.18) Basement Spaces
 
-THREE: VARIOUS RIGHTS AND EASEMENTS  
+THREE: [VARIOUS RIGHTS AND EASEMENTS](#THREE)  
 [3.1](#3.1) Owner's Rights in Limited Common Elements  
 [3.2](#3.2) Owner's Easement for Access, Support, and Utilities  
 [3.3](#3.3) Easements for Encroachments  
@@ -72,7 +72,7 @@ THREE: VARIOUS RIGHTS AND EASEMENTS
 [3.10](#3.10) Sump Pump Maintenance Easement  
 [3.11](#3.11) Easements Deemed Appurtenant
 
-FOUR: THE ASSOCIATION  
+FOUR: [THE ASSOCIATION](#FOUR)  
 [4.1](#4.1) General Purposes and Powers  
 [4.2](#4.2) Board of Directors  
 [4.3](#4.3) Articles and Bylaws  
@@ -82,7 +82,7 @@ FOUR: THE ASSOCIATION
 [4.7](#4.7) Association Agreements  
 [4.8](#4.8) Certain Rights and Obligations of the Association
 
-FIVE: ASSESSMENTS  
+FIVE: [ASSESSMENTS](#FIVE)  
 [5.1](#5.1) Creation of the Lien and Personal Obligation of the Assessment  
 [5.2](#5.2) Purpose of Assessments  
 [5.3](#5.3) Basis of Assessment  
@@ -95,7 +95,7 @@ FIVE: ASSESSMENTS
 [5.10](#5.10) Working Capital Fund  
 [5.11](#5.11) No Offsets
 
-SIX: RESTRICTIVE COVENANTS AND OBLIGATIONS  
+SIX: [RESTRICTIVE COVENANTS AND OBLIGATIONS](#SIX)  
 [6.1](#6.1) Use and Occupancy of Condominium Apartments  
 [6.2](#6.2) Use of the Common Elements  
 [6.3](#6.3) Pets Within the Project  
@@ -110,7 +110,7 @@ SIX: RESTRICTIVE COVENANTS AND OBLIGATIONS
 [6.12](#6.12) Use of the Garage Spaces  
 [6.13](#6.13) Use of the Storage Spaces
 
-SEVEN: INSURANCE  
+SEVEN: [INSURANCE](#SEVEN)  
 [7.1](#7.1) Authority to Purchase/General Requirements  
 [7.2](#7.2) Hazard Insurance  
 [7.3](#7.3) Liability Insurance  
@@ -119,7 +119,7 @@ SEVEN: INSURANCE
 [7.6](#7.6) Payment of Insurance Premiums  
 [7.7](#7.7) Separate Insurance
 
-EIGHT: MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS AND ALTERATIONS  
+EIGHT: [MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS AND ALTERATIONS](#EIGHT)  
 [8.1](#8.1) By the Association  
 [8.2](#8.2) By the Owner  
 [8.3](#8.3) Schedule of Maintenance Responsibilities  
@@ -127,14 +127,14 @@ EIGHT: MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS AND ALTERATIONS
 [8.5](#8.5) Additions, Alterations or Improvements by the Owners (Architectural Control)  
 [8.6](#8.6) Private Patios
 
-NINE: DAMAGE, DESTRUCTION, CONDEMNATION AND OBSOLESCENCE  
+NINE: [DAMAGE, DESTRUCTION, CONDEMNATION AND OBSOLESCENCE](#NINE)  
 [9.1](#9.1) Association as Attorney-in-Fact  
 [9.2](#9.2) Damage, Destruction, Reconstruction and Repair  
 [9.3](#9.3) Condemnation  
 [9.4](#9.4) Reorganization/Reallocation  
 [9.5](#9.5) Obsolescence and Reconstruction
 
-TEN: TERMINATION OF THE CONDOMINIUM PROJECT  
+TEN: [TERMINATION OF THE CONDOMINIUM PROJECT](#TEN)  
 [10.1](#10.1) Vote of Owners and First Mortgagees  
 [10.2](#10.2) Termination Agreement  
 [10.3](#10.3) Sale of The Project  
@@ -142,13 +142,13 @@ TEN: TERMINATION OF THE CONDOMINIUM PROJECT
 [10.5](#10.5) Determination of Owner's Interests  
 [10.6](#10.6) Distribution to Owners
 
-ELEVEN: CERTAIN RIGHTS OF THE FIRST MORTGAGEES  
+ELEVEN: [CERTAIN RIGHTS OF THE FIRST MORTGAGEES](#ELEVEN)  
 [11.1](#11.1) Entitlement  
 [11.2](#11.2) Restrictions on Amendments  
 [11.3](#11.3) Special FHLMC Provisions  
 [11.4](#11.4) Books and Records
 
-TWELVE: EXPANSION  
+TWELVE: [EXPANSION](#TWELVE)  
 [12.1](#12.1) Reservation of Right to Expand  
 [12.2](#12.2) Supplemental Declarations and Supplemental Condominium Maps  
 [12.3](#12.3) Expansion of Definitions  
@@ -157,12 +157,12 @@ TWELVE: EXPANSION
 [12.6](#12.6) Taxes, Assessments and Other Liens  
 [12.7](#12.7) Project Treated as a Whole
 
-THIRTEEN: DURATION AND AMENDMENTS  
+THIRTEEN: [DURATION AND AMENDMENTS](#THIRTEEN)  
 [13.1](#13.1) Duration  
 [13.2](#13.2) Amendments  
 [13.3](#13.3) Special Amendments
 
-FOURTEEN: GENERAL PROVISIONS  
+FOURTEEN: [GENERAL PROVISIONS](#FOURTEEN)  
 [14.1](#14.1) Right of Action  
 [14.2](#14.2) Supplemental to Law  
 [14.3](#14.3) Successors and Assigns  
@@ -174,15 +174,15 @@ FOURTEEN: GENERAL PROVISIONS
 [14.9](#14.9) Captions  
 [14.10](#14.10) Numbers and Genders
 
-[Exhibit A](#A): Legal Description of the Real Property Submitted to The Wildflower Condominium Regime
+Exhibit A: [Legal Description of the Real Property Submitted to The Wildflower Condominium Regime](#A)
 
-[Exhibit B](#B): Schedule of Percentage Interests in the Common Elements
+Exhibit B: [Schedule of Percentage Interests in the Common Elements](#B)
 
-[Exhibit C](#C): Schedule of Maintenance Responsibilities
+Exhibit C: [Schedule of Maintenance Responsibilities](#C)
 
-[Exhibit D](#D): Legal Description of the Real Property Which May Be Submitted to The Wildflower Condominium Regime in Later Phases
+Exhibit D: [Legal Description of the Real Property Which May Be Submitted to The Wildflower Condominium Regime in Later Phases](#D)
 
-[Exhibit E](#E): The Recording Data for Easements Affecting The Project
+Exhibit E: [The Recording Data for Easements Affecting The Project](#E)
 
 
 THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
@@ -206,6 +206,7 @@ By William A. Love
 All Rights Reserved
 
 
+<a id="ONE"></a>
 ARTICLE ONE: DEFINITIONS
 
 As used in this Declaration, unless the context otherwise requires, the terms hereinafter set forth shall have the following meanings:
@@ -305,6 +306,7 @@ The Map and any supplement(s) thereto is hereby incorporated herein by reference
 1.23 VA AND/OR FHA APPROVAL means that The Project has been approved by the Veterans Administration and/or the Federal Housing Administration so that such agencies will insure or guarantee loans made upon the Unit within The Project.
 
 
+<a id="TWO"></a>
 ARTICLE TWO: NATURE AND INCIDENTS OF CONDOMINIUM OWNERSHIP
 
 <a id="2.1"></a>
@@ -400,6 +402,7 @@ All Storage Spaces contained within The Project shall be a part of the Limited C
 All Basement Spaces contained within The Project shall be a part of the Limited Common Elements. Each Basement Space shall be limited to and reserved for the exclusive use of the owners of a particular Condominium Unit as initially designated by the Declarant and upon such designation the said Basement Space will be appurtenant to that Unit.
 
 
+<a id="THREE"></a>
 ARTICLE THREE: VARIOUS RIGHTS AND EASEMENTS
 
 <a id="3.1"></a>
@@ -461,6 +464,7 @@ In the event a sump pump is located in a Unit's Basement Space to be used to rem
 The easements, uses and rights herein created for an Owner shall be perpetual and appurtenant to the Unit of that Owner and all conveyances or any other instruments affecting title to a Unit shall be deemed to grant and reserve the easements, uses and rights as are provided for herein, even though no specific reference to such easements, uses and rights appear in any such conveyance.
 
 
+<a id="FOUR"></a>
 ARTICLE FOUR: THE ASSOCIATION
 
 <a id="4.1"></a>
@@ -510,6 +514,7 @@ When professional management has been required by any First Mortgagee any decisi
 - (d) Implied Rights. The Association shall have and may exercise any right or privilege given to it expressly by this Declaration, or reasonably to be implied from the provisions of this Declaration, or given or implied by law, or which may be necessary or desirable to fulfill its duties, obligations, rights or privileges.
 
 
+<a id="FIVE"></a>
 ARTICLE FIVE: ASSESSMENTS
 
 <a id="5.1"></a>
@@ -611,6 +616,7 @@ The Association shall establish a Working Capital Fund to cover the costs of the
 All Assessments shall be payable in the amounts specified in the levy thereof, and no offsets or reduction thereof shall be permitted for any reason including, without limitation, any claim that the Association or the Board of Directors is not properly exercising its duties and powers under this Declaration.
 
 
+<a id="SIX"></a>
 ARTICLE SIX: RESTRICTIVE COVENANTS AND OBLIGATIONS
 
 <a id="6.1"></a>
@@ -680,6 +686,7 @@ Each Owner shall maintain the interior of his Storage Space in a clean, safe and
 No gasoline, gasohol, distillate, diesel, kerosine, naphtha or similar volatile combustible or explosive materials shall be stored in any Storage Space.
 
 
+<a id="SEVEN"></a>
 ARTICLE SEVEN: INSURANCE
 
 <a id="7.1"></a>
@@ -762,6 +769,7 @@ The cost of the insurance obtained by the Association in accordance with this Ar
 Each Owner shall have the right, at his own expense, to obtain insurance for his Unit for his own benefit and to obtain insurance coverage upon his personal property, furnishings and for his personal liability provided, however, that no Owner shall be entitled to exercise his right to acquire or maintain such insurance coverage so as to decrease the amount which the Board of Directors, on behalf of all Owners, may realize under any insurance policy maintained by the Board or to cause any insurance coverage maintained by the Board to be brought into contribution with insurance coverage obtained by an Owner. All such policies shall contain waivers of subrogation. No Owner shall obtain separate insurance policies except as provided in [this](#7.7) Paragraph.
 
 
+<a id="EIGHT"></a>
 ARTICLE EIGHT: MAINTENANCE, REPAIR, REPLACEMENT, ADDITIONS, AND ALTERATIONS
 
 <a id="8.1"></a>
@@ -804,6 +812,7 @@ In the event the Owner fails to install the landscaping in the time period presc
 Each private patio is subject to an easement in favor of the Board of Directors (including its agents, employees and contractors) for providing the installation and/or maintenance in accordance with the above.
 
 
+<a id="NINE"></a>
 ARTICLE NINE: DAMAGE, DESTRUCTION, CONDEMNATION, AND OBSOLESCENCE
 
 <a id="9.1"></a>
@@ -857,6 +866,7 @@ In the event a partial taking by condemnation or by damage or destruction which 
 The Owners of Units to which at least eighty percent of the votes in the Association are allocated may agree, upon due notice to all Owners and granting them an opportunity to be heard, that the Units are obsolete and adopt and record a written "Plan for Renewal and Reconstruction", which Plan must have the approval of those First Mortgagees holding mortgages on Units which have at least eighty percent of the votes of the Units subject to First Mortgagees within The Project. Written notice of adoption of such Plan shall be given to all of the Owners. The expense of renewal or reconstruction shall be payable by all of the Owners as an Annual Assessment for Common Expenses whether or not such Owner may have previously consented to such Plan. The assessment shall be levied, allocated, and collected in the same manner as a Deficiency Assessment as provided for in Paragraph [9.2(f)](#9.2f) hereof.
 
 
+<a id="TEN"></a>
 ARTICLE TEN: TERMINATION OF THE CONDOMINIUM PROJECT
 
 <a id="10.1"></a>
@@ -892,6 +902,7 @@ Following termination of The Project, the proceeds derived from the sale shall b
 The proceeds of sale described in Paragraph [10.3](#10.3) and held by the Association as trustee are not assets of the Association.
 
 
+<a id="ELEVEN"></a>
 ARTICLE ELEVEN: CERTAIN RIGHTS OF THE FIRST MORTGAGEES
 
 <a id="11.1"></a>
@@ -941,6 +952,7 @@ So long as required by The Mortgage Corporation, the following provisions apply 
 Owners and their mortgagees shall have the right to examine the books and records of the Association at any reasonable time at the office of the Association upon reasonable notice. Copies are available at reasonable cost.
 
 
+<a id="TWELVE"></a>
 ARTICLE TWELVE: EXPANSION
 
 <a id="12.1"></a>
@@ -982,6 +994,7 @@ Liens arising out of the construction of improvements in later phases shall not 
 For all purposes hereof, each of the Phases of The Project after the recording of the Supplemental Map and Supplemental Declaration submitting each Phase to The Project, shall be treated as a part of The Project developed as a whole from the beginning, except to the extent expressly otherwise provided for herein. It is the express purpose hereof to provide that from and after the date of the submission of a Phase of The Project in accordance with the above, that such Phase shall be treated as though such Phase had been developed, owned, occupied and used by the Owners thereof as a single undivided Project.
 
 
+<a id="THIRTEEN"></a>
 ARTICLE THIRTEEN: DURATION AND AMENDMENTS
 
 <a id="13.1"></a>
@@ -1009,6 +1022,7 @@ Declarant hereby reserves and is granted the right and power to record Special A
 In furtherance of the foregoing, a power coupled with an interest is hereby reserved and granted to Declarant to make or consent to a Special Amendment on behalf of such Owners of the Units. Each deed, mortgage, trust deed, other evidence of obligation or other instrument affecting a Unit and the acceptance thereof shall be deemed to be a grant and acknowledgement of, and a consent to the reservation of, the power of Declarant to make, execute and record such Special Amendments. No Special Amendment made by Declarant shall affect or impair the lien of the first mortgage or deed of trust upon a Unit or any warranties made by an Owner or First Mortgagee in order to induce any of the above agencies or entities to make, purchase, insure, or guarantee the first mortgage or deed of trust on such Owner's Unit.
 
 
+<a id="FOURTEEN"></a>
 ARTICLE FOURTEEN: GENERAL PROVISIONS
 
 <a id="14.1"></a>
@@ -1082,7 +1096,8 @@ Barbara J. Peterson, NOTARY PUBLIC
 ADDRESS:  4730 Table Mesa Dr., Boulder, CO 80303
 
 
-EXHIBIT A<a id="A"></a>  
+<a id="A"></a>
+EXHIBIT A  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 LEGAL DESCRIPTION OF THE REAL PROPERTY SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME FIRST PHASE
@@ -1091,7 +1106,8 @@ All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of t
 Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence Southwesterly 37.50 feet along the arc of a curve to the left and along the Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of 1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the arc of a curve to the right and along the Northwesterly line of said Lot 2, said curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South 28°34'10" East, 86.15 feet; thence North 89°05'53" East, 77.05 feet; thence South 00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point on the Southeasterly line of said Lot 2; thence North 00°54'07" West, 13.76 feet along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00 feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00 feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West, 178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
 
 
-EXHIBIT B<a id="B"></a>  
+<a id="B"></a>
+EXHIBIT B  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 THE WILDFLOWER CONDOMINIUMS SCHEDULE OF PERCENTAGE INTERESTS IN THE COMMON ELEMENTS (FIRST PHASE)
@@ -1125,7 +1141,8 @@ The percentage interest in the Common Elements of each Unit has been determined 
 In the event the Declarant exercises its right to enlarge this Project in Phases by submitted to the Project additional real property In accordance with ARTICLE TWELVE of the Declaration, each percentage interest in the Common Elements set forth above will decrease. The Percentage Interest of each Unit will then be determined by the Declarant on the basis of the proportion which the approximate square footage finished area of each Apartment bears to the total approximate square footage finished area of all completed Apartments within The Project (including Apartments created on the additional real property submitted to the Project).
 
 
-EXHIBIT C<a id="C"></a>  
+<a id="C"></a>
+EXHIBIT C  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 SCHEDULE OF MAINTENANCE RESPONSIBILITIES  
@@ -1273,7 +1290,8 @@ Basement Spaces
 This chart and the titles and headings used herein are not intended to describe or encompass all maintenance functions nor to delineate all respective responsibilities between the Owners, severally, and the Association. The placement of responsibility under any specific column does not always accurately reflect the precise character and nature of ownership. The appropriate sections of the Declaration determine ownership. In many cases maintenance responsibility is allocated to the Association to ensure central maintenance responsibility, uniformity and quality of repair, and to protect community health and safety. Where such maintenance is required due to the negligent or wrongful act or omission of an Owner (or members of his household, tenants, employees, agents, visitors, guests or pets), the Association will perform the necessary maintenance at the sole expense of the Owner.
 
 
-EXHIBIT D<a id="D"></a>  
+<a id="D"></a>
+EXHIBIT D  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 LEGAL DESCRIPTION OF THE REAL PROPERTY WHICH MAY BE SUBMITTED TO THE WILDFLOWER CONDOMINIUM REGIME IN LATER PHASES
@@ -1287,7 +1305,8 @@ All that portion of Lot 2, Westfield Second Filing, a subdivision of a part of t
 Beginning at the Northeast corner of said Lot 2, Westfield Second Filing thence Southwesterly 37.50 feet along the arc of a curve to the left and along the Northwesterly line of said Lot 2 to a point tangent, said curve having a radius of 1232.77 feet, a central angle of 01°44'34" and is subtended by a chord that bears South 61°48'35" West, 37.50 feet; thence South 60°56'18" West, 83.85 feet along the Northwesterly line of said Lot 2; thence Southwesterly, 63.44 feet along the arc of a curve to the right and along the Northwesterly line of said Lot 2, said curve having a radius of 5353.90 feet, a central angle of 00°40'44" and is subtended by a chord that bears South 61°16'40" West, 63.44 feet; thence South 28°34'10" East, 86.15 feet; thence North 89°05'53" East, 77.05 feet; thence South 00°54'07" East, 174.25 feet; thence North 89°05'53" East, 249.12 feet to a point on the Southeasterly line of said Lot 2; thence North 00°54'07" West, 13.76 feet along the Southeasterly line of said Lot 2; thence North 35°00'00" East, 85.00 feet along the Southeasterly line of said Lot 2; thence North 37°15'00" West, 124.00 feet along the Northeasterly line of said Lot 2; thence South 89°05'53" West, 90.00 feet along the Northeasterly line of said Lot 2; thence North 30°54'04" West, 178.33 feet along the Northeasterly line of said Lot 2 to the Point of Beginning.
 
 
-EXHIBIT E<a id="E"></a>  
+<a id="E"></a>
+EXHIBIT E  
 TO THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS
 
 THE RECORDING DATA FOR RECORDED EASEMENTS AND LICENSES WHICH THE PROJECT IS OR MAY BECOME SUBJECT TO
