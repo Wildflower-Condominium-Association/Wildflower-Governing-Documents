@@ -71,25 +71,31 @@ THE BYLAWS OF THE WILDFLOWER CONDOMINIUM ASSOCIATION
 <a id="ONE"></a>
 ARTICLE ONE: OBJECT
 
-1.1 <a id="1.1"></a>Association.  
+<a id="1.1"></a>
+1.1 Association.  
 THE WILDFLOWER CONDOMINIUM ASSOCIATION is a non-profit corporation, organized under the Colorado Nonprofit Corporation Act, with its principal office at 4730 Table Mesa Drive, Boulder, Colorado 80303.
 
-1.2 <a id="1.2"></a>Purpose.  
+<a id="1.2"></a>
+1.2 Purpose.  
 The purpose for which the Association is formed is to govern the residential community situated in the City of Louisville, State of Colorado, which is known as THE WILDFLOWER CONDOMINIUMS, which is subject to the provisions of the Colorado Condominium Ownership Act and to THE CONDOMINIUM DECLARATION FOR THE WILDFLOWER CONDOMINIUMS as amended from time to time recorded in the office of the County Clerk and Recorder, Boulder, Colorado, and further to advance, represent and serve the fiscal and economic best interests of all of the Members of the Association in all matters relating to their general welfare and their best interests in the administration, management and operation of the Association.
 
-1.3 <a id="1.3"></a>Definitions.  
+<a id="1.3"></a>
+1.3 Definitions.  
 Terms used herein shall have the meanings specified for such terms in the Declaration.
 
-1.4 <a id="1.4"></a>Applicability.  
+<a id="1.4"></a>
+1.4 Applicability.  
 All present or future owners, members, tenants, future tenants, or any other person that might use in any manner the facilities of The Project are subject to the Declaration and the mere act of occupancy of the said Condominium Apartments within The Project will signify that the Declaration and these Bylaws are accepted, ratified, and will be complied with.
 
 <a id="TWO"></a>
 ARTICLE TWO: MEMBERSHIP AND VOTING RIGHTS
 
-2.1 <a id="2.1"></a>Membership.  
+<a id="2.1"></a>
+2.1 Membership.  
 Each Owner of a Condominium Unit in THE WILDFLOWER CONDOMINIUMS, including Declarant so long as it shall be an Owner, shall automatically become a member of the Association. Said membership is appurtenant to the Unit of said Owner and title to the ownership of the membership for that Unit shall automatically pass with fee simple title to the Unit. Each Owner of a Unit shall automatically be entitled to the benefits and subject to the burdens relating to the membership for his Unit. If the fee simple title to a Unit is held by more than one person, all such persons shall be members.
 
-2.2 <a id="2.2"></a>Voting Rights.  
+<a id="2.2"></a>
+2.2 Voting Rights.  
 The Association shall have two classes of voting memberships:  
 - Class A. Class A Members shall be all Owners with the exception of the Declarant and shall be entitled to one vote for each Unit owned; provided, however, the Declarant shall be a Class A Member after the conversion of the Class B Membership to Class A Membership in accordance with this Paragraph and shall thereafter be entitled to one vote for each Unit owned.  
 The vote for such Unit, the ownership of which is held by more than one Owner, may be exercised by any one of them, unless an objection or protest by any other holder of an interest of the Unit is made prior to the completion of the vote, in which case the vote for such Unit shall be exercised, as the persons holding such interest shall determine between themselves. Should the joint owners of a Unit be unable, within a reasonable time, to agree upon how they will vote any issue, they shall be passed over and their right to vote on such issue shall be lost. In no event shall more than one vote be cast with respect to any such Unit.  
@@ -100,67 +106,83 @@ The vote for such Unit, the ownership of which is held by more than one Owner, m
 <a id="THREE"></a>
 ARTICLE THREE: MEETINGS OF THE ASSOCIATION
 
-3.1 <a id="3.1"></a>Place of Meeting.  
+<a id="3.1"></a>
+3.1 Place of Meeting.  
 Meetings of the Association shall be held at such place within the County of Boulder, State of Colorado as the Board of Directors may determine.
 
-3.2 <a id="3.2"></a>Annual Meetings.  
+<a id="3.2"></a>
+3.2 Annual Meetings.  
 The first Annual Meeting of the Association shall be held within one year from the date of incorporation of the Association, and each subsequent regular Annual Meeting of the Association shall be held on the same day of the same month of each year thereafter, at the hour of 7:00 P.M. unless changed by the Board of Directors so long as such Annual Meeting is held within ninety days after the close of the Association's fiscal year. If the day for the Annual Meeting of the Association is a legal holiday, the meeting will be held at the same hour on the first day following which is not a legal holiday. At such meetings, the Members may transact business of the Association as may properly come before the meeting.
 
-3.3 <a id="3.3"></a>Special Meetings.  
+<a id="3.3"></a>
+3.3 Special Meetings.  
 Special Meetings of the Association may be called at any time by the President or by the Board of Directors, or upon written request of the Members who are entitled to vote one-fourth of all the votes of the Class A Membership.
 
-3.4 <a id="3.4"></a>Notice of Meetings.  
+<a id="3.4"></a>
+3.4 Notice of Meetings.  
 Written notice of each meeting of the Association shall be given by, or at the direction of the President or Secretary of the Association, by hand delivery or by mailing a copy of such notice, postage prepaid, or a combination thereof at least fifteen days before such meeting to each Member entitled to vote thereat, addressed to the Member's address last appearing on the books of the Association, or supplied by such Member to the Association for the purpose of notice. Such notice shall specify the place, day and hour of the meeting, and, in the case of a Special Meeting, the
 purpose of the meeting.
 
-3.5 <a id="3.5"></a>Quorum.  
+<a id="3.5"></a>
+3.5 Quorum.  
 The presence at the meetings of the Association entitled to cast, or of proxies entitled to cast, ten percent of the votes of each class of membership shall constitute a quorum for any action except as otherwise provided in the Articles of Incorporation, the Declaration, or these Bylaws. An affirmative vote of a majority of the votes present at which a quorum is in attendance in person or by proxies shall be necessary to transact business and to adopt decisions building on all Members.  
 If such quorum shall not be present or represented by proxy at any meeting, the Members entitled to vote thereat shall have the power to adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum as aforesaid shall be present or represented.
 
-3.6 <a id="3.6"></a>Proxies.  
+<a id="3.6"></a>
+3.6 Proxies.  
 At all meetings of the Association, each Member may vote in person or by proxy. All proxies shall be in writing and filed with the Secretary of the Association at or before the time of such meeting. Proxies may be given only to other members of the Association. Every proxy shall be revocable and shall automatically cease upon conveyance by the Member of his or her Unit. No proxy shall-extend beyond a period of sixty days.
 
 <a id="FOUR"></a>
 ARTICLE FOUR: DIRECTORS
 
-4.1 <a id="4.1"></a>Directors During the Declarant Control Period.  
+<a id="4.1"></a>
+4.1 Directors During the Declarant Control Period.  
 Three Directors shall be selected by the Declarant, acting in its sole discretion, and shall serve at the pleasure of the Declarant until the conversion of the Class B Membership to Class A Membership as provided for in Paragraph [2.2](#2.2) hereof, unless the Declarant shall earlier surrender this right to select Directors. The names of the initial Directors selected by the Declarant are set forth in the Articles of Incorporation. Not later than the time of the said conversion of the Class B Membership to Class A Membership, the Board shall, by resolution, increase its size to six members and shall call a Special Meeting to be held at which Members shall elect six Directors to serve until the next Annual Meeting of the Association. Upon such election the Directors selected by the Declarant shall submit their resignations.
 
-4.2 <a id="4.2"></a>Directors After the Declarant Control Period.  
+<a id="4.2"></a>
+4.2 Directors After the Declarant Control Period.  
 At the first Annual Meeting of the Association after the said conversion of the Class B Membership and at each Annual Meeting of the Association thereafter, Directors shall be elected.  
 The initial terms of the elected Directors shall be fixed at the time of their election as they among themselves shall determine. Initially, the term of two Directors shall be fixed at one year; the term of two Directors shall be fixed at two years; and the term of two Directors shall be fixed at three years. At the expiration of the term of office of each respective member of the Board of Directors, a successor shall be elected to serve for a term of three years. The members of the Board of Directors shall hold office until their respective successors shall have been elected by the Association.  
 The number of Directors and their terms may be changed by amendment to these Bylaws so long as the terms of at least one third of the members of the Board of Directors expire annually.
 
-4.3 <a id="4.3"></a>Qualifications/Nomination/Election.  
+<a id="4.3"></a>
+4.3 Qualifications/Nomination/Election.  
 Elected Directors must be an Owner of a Unit within The Project or be an officer of any corporate Owner of a Unit, or a partner in any partnership owning a Unit, or a Trustee of any Trust owning a Unit within The Project.  
 Nomination for election to the Board of Directors shall be made by a Nominating Committee. Nominations may also be made from the floor at the Annual Meeting. The Nominating Committee shall consist of a Chairman, who shall be a member of the Board of Directors, and two or more members of the Association. The nominating Committee shall be appointed by the Board of Directors prior to each Annual Meeting of the Association. The Nominating Committee shall make as many nominations for election to the Board of Directors as it shall in its discretion determine, but not less than the number of vacancies that are to be filled. Such nominations may only be made from among the Members.  
 Election to the Board of Directors shall be by written ballot. At such election the Members or their proxies may cast, in respect to each vacancy, as many votes as they are entitled to exercise under the provisions of the Declaration. The persons receiving the largest number of votes shall be elected. Cumulative voting is not permitted.
 
-4.4 <a id="4.4"></a>Removal.  
+<a id="4.4"></a>
+4.4 Removal.  
 Any Director may be removed from the Board, with or without cause, by a majority vote of the Members of the Association. In the event of death, resignation or removal of a Director, his or her successor shall be selected by the remaining members of the Board and shall serve for the unexpired term of his or her predecessor.
 
-4.5 <a id="4.5"></a>Compensation.  
+<a id="4.5"></a>
+4.5 Compensation.  
 No Director shall receive compensation for any service he or she may render to the Association. However, any Director may be reimbursed for his or her actual expenses incurred in the performance of his or her duties.
 
 <a id="FIVE"></a>
 ARTICLE FIVE: MEETINGS OF DIRECTORS
 
-5.1 <a id="5.1"></a>Regular Meetings.  
+<a id="5.1"></a>
+5.1 Regular Meetings.  
 Regular meetings of the Board of Directors shall be held as the needs of the Association dictate, but at least quarterly upon seven days notice, at such place and hour as may be fixed from time to time by resolution of the Board. Should said Meeting fall upon a legal holiday, then that meeting shall be held at the same time on the next day which is not a legal holiday.
 
-5.2 <a id="5.2"></a>Special Meetings.  
+<a id="5.2"></a>
+5.2 Special Meetings.  
 Special Meetings of the Board of Directors shall be held when called by the President of the Association, or by any two Directors, after not less than three days notice to each Director.
 
-5.3 <a id="5.3"></a>Quorum.  
+<a id="5.3"></a>
+5.3 Quorum.  
 A majority of the number of Directors shall constitute a quorum for the transaction of business. Every act or decision done or made by a majority of the Directors present at a duly held meeting at which a quorum is present shall be regarded as the act of the Board.
 
-5.4 <a id="5.4"></a>Action Taken Without a Meeting.  
+<a id="5.4"></a>
+5.4 Action Taken Without a Meeting.  
 The Directors shall have the right to take any action in the absence of a meeting which they could take at a meeting by obtaining the written approval of all the Directors. Any action so approved shall have the same effect as though taken at a meeting of the Directors.
 
 <a id="SIX"></a>
 ARTICLE SIX: POWERS AND DUTIES OF THE BOARD OF DIRECTORS
 
-6.1 <a id="6.1"></a>Powers.  
+<a id="6.1"></a>
+6.1 Powers.  
 The Board of Directors shall have power to:
 - (a) administer and enforce the covenants, conditions, restrictions, easements, uses, limitations, obligations and all other provisions set forth in the Declaration; and
 - (b) establish, make and enforce compliance with such reasonable Rules and Regulations as may be necessary for the operation, use and occupancy of The Project and the Common Elements with the right to amend same from time to time, and establish penalties for the violation of same; and
@@ -169,7 +191,8 @@ The Board of Directors shall have power to:
 - (e) hire and terminate a managing agent or such other employees as they deem necessary, and to prescribe their duties. All of the powers and duties granted to the Board hereunder may be delegated to a managing agent; provided, however, that such delegation shall not relieve the Board of any responsibility therefore; and
 - (f) suspend the voting rights during any period in which such Member shall be in default in the payment of any assessment levied by the Association. Such rights may also be suspended after notice and hearing, for a period not to exceed sixty days for infraction of published Rules and Regulations.
 
-6.2 <a id="6.2"></a>Duties.  
+<a id="6.2"></a>
+6.2 Duties.  
 It shall be the duty of the Board of Directors to:
 - (a) cause to be kept a complete record of all its acts and corporate affairs and to present a statement therefor to the Members at the Annual Meeting of the Association, or at any special meeting when such statement is requested in writing by one-fourth of the Class A Members; and
 - (b) supervise all officers, agents and employees of this Association, and to see that their duties are properly performed; and
@@ -194,28 +217,36 @@ It shall be the duty of the Board of Directors to:
 <a id="SEVEN"></a>
 ARTICLE SEVEN: OFFICERS AND THEIR DUTIES
 
-7.1 <a id="7.1"></a>Enumeration of Officers.  
+<a id="7.1"></a>
+7.1 Enumeration of Officers.  
 The officers of this Association shall be a president, vice-president, secretary and treasurer, who shall at all times be members of the Board of Directors, and such other officers as the Board may from time to time by resolution create.
 
-7.2 <a id="7.2"></a>Election of Officers.  
+<a id="7.2"></a>
+7.2 Election of Officers.  
 The election of officers shall take place at the first meeting of the Board of Directors following each Annual Meeting of the Association.
 
-7.3 <a id="7.3"></a>Term.  
+<a id="7.3"></a>
+7.3 Term.  
 The officers of this Association shall be elected annually by the Board and each shall hold office for one year unless such officer shall sooner resign, be removed, or otherwise disqualified to serve.
 
-7.4 <a id="7.4"></a>Special Appointments.  
+<a id="7.4"></a>
+7.4 Special Appointments.  
 The Board may elect such other officers as the affairs of the Association may require, each of whom shall hold office for such period, have such authority, and perform such duties as the Board may, from time to time, determine.
 
-7.5 <a id="7.5"></a>Resignation and Removal.  
+<a id="7.5"></a>
+7.5 Resignation and Removal.  
 Any officer may be removed from office with or without cause by the Board. Any officer may resign at any time giving written notice to the Board, the President or the Secretary. Such resignation shall take effect on the date of receipt of such notice or at any later time specified therein, and unless otherwise specified therein, the acceptance of such resignation shall not be necessary to make it effective.
 
-7.6 <a id="7.6"></a>Vacancies.  
+<a id="7.6"></a>
+7.6 Vacancies.  
 A vacancy in any office may be filled by appointment by the Board. The officer appointed to such vacancy shall serve for the remainder of the term of the officer he or she replaces.
 
-7.7 <a id="7.7"></a>Multiple Offices.  
+<a id="7.7"></a>
+7.7 Multiple Offices.  
 The offices of Secretary and Treasurer may be held by the same person. No person shall simultaneously hold more than one of any of the other offices except in the case of special offices created pursuant to Paragraph [7.4](#7.4) hereof.
 
-7.8 <a id="7.8"></a>Duties.  
+<a id="7.8"></a>
+7.8 Duties.  
 The duties of the officers are as follows:
 - (a) President. The President shall preside at all meetings of the Board of Directors and the meetings of the Association; shall see that orders and resolutions of the Board are carried out; shall sign all leases, mortgages, deeds and other written instruments.
 - (b) Vice-President. The Vice-President shall act in the place and stead of the President in the event of the President's absence, inability or refusal to act, and shall exercise and discharge such other duties as may be required of him or her by the Board.
@@ -246,36 +277,45 @@ The Association shall have a seal in circular form having within its circumferen
 <a id="TWELVE"></a>
 ARTICLE TWELVE: MISCELLANEOUS
 
-12.1 <a id="12.1"></a>Proof of Ownership/Voter Designation.  
+<a id="12.1"></a>
+12.1 Proof of Ownership/Voter Designation.  
 Except for those Owners who initially purchase a Unit from the Declarant and except for those owners who purchase from the Veterans Administration pursuant to an unrecorded executory land sales contract, or an assignment of the purchaser's rights thereunder (who shall be required by the Association to furnish copies of the unrecorded documents), every person becoming an Owner of a Unit shall immediately furnish to the Board of Directors a photocopy of the recorded instrument vesting in that person such ownership, which instrument shall remain in the files of the Association. A Member shall not be deemed to be in good standing nor shall he be entitled to vote at any Annual or Special Meeting of Association unless this requirement is first met.  
 Prior to each Annual Meeting or Special Meeting of the Association, any corporation, partnership or trust owning a Unit shall advise the Secretary of the Association which of its officers, partners or trustees are designated to vote that Unit's vote.
 
-12.2 <a id="12.2"></a>Compliance.  
+<a id="12.2"></a>
+12.2 Compliance.  
 These Bylaws are intended to comply with the requirements of the Colorado Condominium Ownership Act. If any provisions of these Bylaws conflict with the provisions of said Act, as said Act may be amended, it is hereby agreed and accepted that the provisions of such Act will apply.
 
-12.3 <a id="12.3"></a>Character of Association.  
+<a id="12.3"></a>
+12.3 Character of Association.  
 This Association is not organized for profit. No Member, member of the Board of Directors, or officer shall receive any pecuniary profit from the operation thereof, and in no event shall any part of the funds or assets of the Association be distributed to, or inure to the benefit of, any Director, officers or Members, except upon a dissolution of the Association, provided however, always, that reasonable salary may be paid to any Member who is in the employ of the Association for his or her services as such employee, and that any Member, Manager, Director, or Officer may, from time to time, be reimbursed for his actual and reasonable expenses incurred in connection with the administration of the affairs of the Association.
 
-12.4 <a id="12.4"></a>Inspection of Records/Audit.  
+<a id="12.4"></a>
+12.4 Inspection of Records/Audit.  
 The Association shall make available to Owners and their mortgagees, current copies of the Declaration, Articles of Incorporation, Bylaws, and other Rules and Regulations governing the Project and the books, records and financial statements of the Association. "Available" means available for inspection upon request during normal business hours or under other reasonable circumstances at the office of the Association where copies may be purchased at reasonable cost. Upon ten days' written notice to the Association, and upon payment of a reasonable fee, any Owner or such Owner's First Mortgagee shall be furnished a statement of his accounting, setting forth the amount of any unpaid assessments or other charges due and owing from such Owner and/or an estoppel certificate.  
 Any First Mortgagee shall be entitled, upon written request, to an audited Financial Statement for the immediately preceding fiscal year, free of charge, to the party requesting. Any Financial Statements so requested shall be furnished within a reasonable time following such request.  
 The Association shall also be required to make available to prospective purchasers current copies of the Declaration, Bylaws, Articles of Incorporation, and other Rules and Regulations governing the Project and the most recent annual audited financial statement, if such is prepared.
 
-12.5 <a id="12.5"></a>Liens and other Charges.  
+<a id="12.5"></a>
+12.5 Liens and other Charges.  
 For purposes of the Colorado Condominium Ownership Act, liens other than mechanics' liens, assessment liens, or tax liens, may be obtained against the Common Elements, including the Limited Common Elements then existing in which an Owner has an undivided fractional ownership.
 
-12.6 <a id="12.6"></a>Indemnification.  
+<a id="12.6"></a>
+12.6 Indemnification.  
 The Association shall indemnify every director, officer, agent, or employee, and any former director, officer, agent, or employee against loss, costs, and expense, including counsel fees reasonably incurred in connection with any action, suit, or proceeding in which such person may be made a party by reason of being, or having been such director, officer, agent or employee of the Association, except as to matters concerning which such person shall be finally adjudged to be liable for gross negligence or fraud. Any such indemnification shall be limited to and may only be paid out of the insurance proceeds provided by an insurer furnishing Officers and Directors Errors and Omissions insurance coverage or similar protection and any other insurance coverage or similar protection and any other insurance protecting the Association from liability because of the negligent acts of its servants, including insurance covering motor vehicles or public liability, property damage, medical and other similar coverage, it being the intent and purpose of this provision to limit all payments or settlements in indemnification to the actual proceeds of insurance policies received by the Association, provided, however, any deductible shall be paid by the Association.  
 No officer, director, agent or employee of the Declarant, its successors or assigns, nor of any managing agent who is an independent contractor, shall be protected by these indemnification provisions nor by any insurance policies obtained by the Association in relation thereto, but any such protection is the sole and separate responsibility of the Declarant, its successor and assigns, and any managing agent who is an independent contractor or any other independent contractor as one of their expenses of doing business.  
 In the event of a settlement, the settlement shall be approved by the insurance carrier, and paid for by the insurance carrier out of the insurance proceeds.
 
-12.7 <a id="12.7"></a>New Additions to the Common Elements.  
+<a id="12.7"></a>
+12.7 New Additions to the Common Elements.  
 THE WILDFLOWER CONDOMINIUMS is an expandable condominium. At the time of execution of these Bylaws, there are contemplated additions to the Common Elements, and such additions shall affect an Owner's voting power, an Owner's undivided ownership interest in the existing Common Elements and an Owner's obligation for payment of the Annual Assessment for Common Expenses.
 
-12.8 <a id="12.8"></a>Fiscal Year.  
+<a id="12.8"></a>
+12.8 Fiscal Year.  
 The fiscal year of the Association shall begin on the 1st day of January and end on the 31st day of December of every year, unless changed by the Board of Directors. The first fiscal year shall begin on the date of incorporation.
 
-12.9 <a id="12.9"></a>Recreational Facilities.  
+<a id="12.9"></a>
+12.9 Recreational Facilities.  
 The Association will operate a swimming pool and changing rooms which shall be located within The Project and shall be for the use of the Members of the Association and their invitees. Fees and charges, if any, in conjunction therewith shall not be in addition to the Annual Assessment for Common Expenses.
 
 IN WITNESS WHEREOF, the undersigned have hereunto set their hands this 8th day of August, 1984.
