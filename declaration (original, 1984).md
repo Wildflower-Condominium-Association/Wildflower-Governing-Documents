@@ -14,7 +14,7 @@ TABLE OF CONTENTS
 
 PREAMBLE
 
-ONE: [DEFINITIONS](#ONE)
+ONE: [DEFINITIONS](#ONE)  
 [1.1](#1.1) Articles  
 [1.2](#1.2) Assessments  
 [1.3](#1.3) Association  
