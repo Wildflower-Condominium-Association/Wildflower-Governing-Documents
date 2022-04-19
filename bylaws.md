@@ -2,17 +2,17 @@ THE BYLAWS OF THE WILDFLOWER CONDOMINIUM ASSOCIATION
 
 TABLE OF CONTENTS
 
-ONE: OBJECT  
+ONE: [OBJECT](#ONE)  
 [1.1](#1.1) Association  
 [1.2](#1.2) Purpose  
 [1.3](#1.3) Definitions  
 [1.4](#1.4) Applicability  
 
-TWO: MEMBERSHIP AND VOTING RIGHTS  
+TWO: [MEMBERSHIP AND VOTING RIGHTS](#TWO)  
 [2.1](#2.1) Membership  
 [2.2](#2.2) Voting Rights  
 
-THREE: MEETING OF THE MEMBERS  
+THREE: [MEETING OF THE MEMBERS](#THREE)  
 [3.1](#3.1) Place of Meeting  
 [3.2](#3.2) Annual Meetings  
 [3.3](#3.3) Special Meetings  
@@ -20,24 +20,24 @@ THREE: MEETING OF THE MEMBERS
 [3.5](#3.5) Quorum  
 [3.6](#3.6) Proxies  
 
-FOUR: DIRECTORS  
+FOUR: [DIRECTORS](#FOUR)  
 [4.1](#4.1) Directors During the Declarant Control Period  
 [4.2](#4.2) Directors After the Declarant Control Period  
 [4.3](#4.3) Qualifications/Nomination/Election  
 [4.4](#4.4) Removal  
 [4.5](#4.5) Compensation  
 
-FIVE: MEETINGS OF DIRECTORS  
+FIVE: [MEETINGS OF DIRECTORS](#FIVE)  
 [5.1](#5.1) Regular Meetings  
 [5.2](#5.2) Special Meetings  
 [5.3](#5.3) Quorum  
 [5.4](#5.4) Action Taken Without a Meeting  
 
-SIX: POWERS AND DUTIES OF THE BOARD OF DIRECTORS  
+SIX: [POWERS AND DUTIES OF THE BOARD OF DIRECTORS](#SIX)  
 [6.1](#6.1) Powers  
 [6.2](#6.2) Duties  
 
-SEVEN: OFFICERS AND THEIR DUTIES  
+SEVEN: [OFFICERS AND THEIR DUTIES](#SEVEN)  
 [7.1](#7.1) Enumeration of Officers  
 [7.2](#7.2) Election of Officers  
 [7.3](#7.3) Term  
@@ -47,15 +47,15 @@ SEVEN: OFFICERS AND THEIR DUTIES
 [7.7](#7.7) Multiple Offices  
 [7.8](#7.8) Duties  
 
-EIGHT: COMMITTEES  
+EIGHT: [COMMITTEES ](#EIGHT)  
 
-NINE: AMENDMENTS  
+NINE: [AMENDMENTS ](#NINE)  
 
-TEN: ASSESSMENTS  
+TEN: [ASSESSMENTS ](#TEN)  
 
-ELEVEN: CORPORATE SEAL  
+ELEVEN: [CORPORATE SEAL ](#ELEVEN)  
 
-TWELVE: MISCELLANEOUS  
+TWELVE: [MISCELLANEOUS](#TWELVE)  
 [12.1](#12.1) Proof of Ownership/Voter Designation  
 [12.2](#12.2) Compliance  
 [12.3](#12.3) Character of Association  
@@ -68,6 +68,7 @@ TWELVE: MISCELLANEOUS
 
 THE BYLAWS OF THE WILDFLOWER CONDOMINIUM ASSOCIATION
 
+<a id="ONE"></a>
 ARTICLE ONE: OBJECT
 
 1.1 <a id="1.1"></a>Association.  
@@ -82,6 +83,7 @@ Terms used herein shall have the meanings specified for such terms in the Declar
 1.4 <a id="1.4"></a>Applicability.  
 All present or future owners, members, tenants, future tenants, or any other person that might use in any manner the facilities of The Project are subject to the Declaration and the mere act of occupancy of the said Condominium Apartments within The Project will signify that the Declaration and these Bylaws are accepted, ratified, and will be complied with.
 
+<a id="TWO"></a>
 ARTICLE TWO: MEMBERSHIP AND VOTING RIGHTS
 
 2.1 <a id="2.1"></a>Membership.  
@@ -95,6 +97,7 @@ The vote for such Unit, the ownership of which is held by more than one Owner, m
    - (a) four months from the date seventy-five percent of the Units in The Project have been conveyed to Unit Purchasers, other than the Declarant; or
    - (b) five years from the date of the recording of the Declaration in the Boulder County, Colorado records whichever shall first occur.
 
+<a id="THREE"></a>
 ARTICLE THREE: MEETINGS OF THE ASSOCIATION
 
 3.1 <a id="3.1"></a>Place of Meeting.  
@@ -117,6 +120,7 @@ If such quorum shall not be present or represented by proxy at any meeting, the 
 3.6 <a id="3.6"></a>Proxies.  
 At all meetings of the Association, each Member may vote in person or by proxy. All proxies shall be in writing and filed with the Secretary of the Association at or before the time of such meeting. Proxies may be given only to other members of the Association. Every proxy shall be revocable and shall automatically cease upon conveyance by the Member of his or her Unit. No proxy shall-extend beyond a period of sixty days.
 
+<a id="FOUR"></a>
 ARTICLE FOUR: DIRECTORS
 
 4.1 <a id="4.1"></a>Directors During the Declarant Control Period.  
@@ -138,6 +142,7 @@ Any Director may be removed from the Board, with or without cause, by a majority
 4.5 <a id="4.5"></a>Compensation.  
 No Director shall receive compensation for any service he or she may render to the Association. However, any Director may be reimbursed for his or her actual expenses incurred in the performance of his or her duties.
 
+<a id="FIVE"></a>
 ARTICLE FIVE: MEETINGS OF DIRECTORS
 
 5.1 <a id="5.1"></a>Regular Meetings.  
@@ -152,6 +157,7 @@ A majority of the number of Directors shall constitute a quorum for the transact
 5.4 <a id="5.4"></a>Action Taken Without a Meeting.  
 The Directors shall have the right to take any action in the absence of a meeting which they could take at a meeting by obtaining the written approval of all the Directors. Any action so approved shall have the same effect as though taken at a meeting of the Directors.
 
+<a id="SIX"></a>
 ARTICLE SIX: POWERS AND DUTIES OF THE BOARD OF DIRECTORS
 
 6.1 <a id="6.1"></a>Powers.  
@@ -185,6 +191,7 @@ It shall be the duty of the Board of Directors to:
 - (r) exercise any other powers necessary for the proper governing and operation of the Association; and
 - (s) exercise any other powers conferred by the Declaration, Articles or Bylaws.
 
+<a id="SEVEN"></a>
 ARTICLE SEVEN: OFFICERS AND THEIR DUTIES
 
 7.1 <a id="7.1"></a>Enumeration of Officers.  
@@ -215,23 +222,28 @@ The duties of the officers are as follows:
 - (c) Secretary. The Secretary shall record the votes and keep the minutes of all meetings and proceedings of the Board and of the Association; keep the corporate seal of the Association and affix it on all papers requiring said seal; serve notice of meetings of the Board and of the Association; keep appropriate current records showing the members of the Association together with their addresses, and shall perform such other duties as required by the Board.
 - (d) Treasurer. The Treasurer shall receive and deposit in appropriate bank accounts all monies of the Association, and shall cause such funds to be dispersed in payment of valid obligations of the Association; keep proper books of account; cause an annual audit of the Association books to be made by a public accountant at the completion of each fiscal year, if so directed by the Board of Directors or if requested to do so by a First Mortgagee in accordance with Paragraph [12.4](#12.4) hereof, and shall prepare an annual budget and a statement of income and expenditures to be presented to the membership at its regular Annual Meeting.
 
+<a id="EIGHT"></a>
 ARTICLE EIGHT: COMMITTEES
 
 The Board of Directors shall appoint a Nominating Committee, as provided in these Bylaws and such other committees as deemed appropriate in Carrying out its. purposes.
 
+<a id="NINE"></a>
 ARTICLE NINE: AMENDMENTS
 
 These Bylaws may be amended, at an Annual or Special Meeting of the Association, by a vote of a majority of a quorum of members present in person or by proxy; except that until the Class B Membership has been converted to Class A Membership in accordance with Paragraph [2.2](#2.2) hereof, the Federal Housing Administration and/or the Veterans Administration shall have the right to veto amendments; provided that these Bylaws shall at all times comply with the provisions of  Colorado Rev. Stat. Ann. §38-33-106.  
 Any material amendment to these Bylaws, must have the approval of the First Mortgagees in accordance with Paragraphs 11.2, 11.3 and 13.2 of the Declaration.
 
+<a id="TEN"></a>
 ARTICLE TEN: ASSESSMENTS
 
 As more fully provided in the Declaration, each Member is obligated to pay to the Association certain Assessments which is a personal obligation of such Member and is secured by a continuing lien upon the Unit against which the Assessment is made. Any Assessments which are not paid when due shall be delinquent. If the assessment is not paid by its due date, the Member obligated to pay such Assessment may be required to pay a reasonable late fee, as determined from time to time by the Board and uniformly applied. The Association may bring an action at law against the Member personally obligated to pay the same or foreclose the lien against the Unit, and late fees, costs, and reasonable attorney's fees of any such action shall be added to the amount of such Assessment. No Member may waive or otherwise escape liability for the Assessments provided for herein by nonuse of the Common Elements or abandonment of his or her Unit.
 
+<a id="ELEVEN"></a>
 ARTICLE ELEVEN: CORPORATE SEAL
 
 The Association shall have a seal in circular form having within its circumference the words: THE WILDFLOWER CONDOMINIUM ASSOCIATION.
 
+<a id="TWELVE"></a>
 ARTICLE TWELVE: MISCELLANEOUS
 
 12.1 <a id="12.1"></a>Proof of Ownership/Voter Designation.  
